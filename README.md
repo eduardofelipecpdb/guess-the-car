@@ -1,5 +1,7 @@
 # 🚗 Adivinhe o Carro — Desafio Diário (Canal VE)
 
+👉 **Jogue online:** [https://eduardofelipecpdb.github.io/guess-the-car/](https://eduardofelipecpdb.github.io/guess-the-car/)
+
 Jogo web responsivo onde você tenta adivinhar **3 carros por dia** a partir da foto com zoom progressivo e dicas da ficha técnica extraídas do portal [Canal VE — Ficha Técnica](https://canalve.com.br/ficha-tecnica/).
 
 ## ✨ Funcionalidades

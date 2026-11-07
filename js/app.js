@@ -830,6 +830,7 @@
   }
 
   function copyShareSummary() {
+    const shareUrl = "https://eduardofelipecpdb.github.io/guess-the-car/";
     const title = isCustomShuffleMode
       ? "🚗 Adivinhe o Carro (Modo Shuffle)"
       : `🚗 Adivinhe o Carro (${formatDateBr(activeDateKey)})`;
@@ -847,7 +848,7 @@
       return `Carro #${idx + 1}: ${track} (${score})`;
     });
 
-    const text = `${title}\n${lines.join("\n")}`;
+    const text = `${title}\n${lines.join("\n")}\n\nJogue também: ${shareUrl}`;
     if (navigator.clipboard && navigator.clipboard.writeText) {
       navigator.clipboard.writeText(text).then(() => {
         els.shareFeedback.hidden = false;
