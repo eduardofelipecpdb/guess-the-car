@@ -2,59 +2,117 @@
 window.GUESS_THE_CAR_DATA = {
   "daily": {
     "date": "2026-11-08",
-    "roundNumber": 1,
-    "updatedAt": "2026-11-08T10:02:30",
+    "roundNumber": 2,
+    "updatedAt": "2026-11-08T09:59:41",
     "carsPerDay": 3,
-    "totalCatalogCars": 102,
-    "remainingInDeck": 9,
+    "totalCatalogCars": 86,
+    "remainingInDeck": 69,
     "todayIds": [
-      17338,
-      20322,
-      17235
+      22666,
+      17242,
+      18790
     ],
     "todayCars": [
       {
-        "id": 17338,
-        "slug": "tank-300-2-0",
-        "name": "GWM Tank 300 2.0",
-        "title": "GWM Tank 300 2.0",
+        "id": 22666,
+        "slug": "ora-5",
+        "name": "GWM Ora 5",
+        "title": "GWM Ora 5",
         "brand": "GWM",
-        "year": "2025",
-        "powertrain": "Híbrido Plug-in",
-        "bodyType": "Jipe",
+        "year": "2027",
+        "powertrain": "Elétrico",
+        "bodyType": "SUV",
         "seats": "5",
-        "traction": "Integral temporária",
-        "transmission": "Automático (9 marchas)",
-        "power": "163  cv",
-        "torque": "32,6 kgfm",
-        "range": "75 Km",
-        "battery": "37.1 kWh",
+        "traction": "Dianteira",
+        "transmission": "Automático",
+        "power": "204 cv",
+        "torque": "26,5 kgfm",
+        "range": "349 Km",
+        "battery": "58.3 kWh",
         "topSpeed": "170 Km/h",
-        "weight": "2313 Kg",
-        "trunk": "400 L",
-        "image": "data/images/17338-tank-300-2-0.jpg",
-        "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/06/Tank-300.jpg",
-        "sourceUrl": "https://canalve.com.br/ficha-tecnica/gwm/tudo-sobre-tank-300-2-0/",
+        "weight": "1.685 Kg",
+        "trunk": "362 L",
+        "image": "data/images/22666-ora-5.jpg",
+        "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2026/06/Ora-5.jpg",
+        "sourceUrl": "https://canalve.com.br/ficha-tecnica/gwm/tudo-sobre-ora-5/",
         "sections": {
           "Identificação": {
-            "Fabricante/Modelo": "GWM Tank 300 2.0",
-            "Ano": "2025",
-            "Carroceria": "Jipe",
-            "Motorização": "Híbrido Plug-in",
-            "Lugares": "5",
-            "Plataforma": "Tank"
+            "Fabricante/Modelo": "GWM Ora 5",
+            "Ano": "2027",
+            "Carroceria": "SUV",
+            "Motorização": "Elétrico",
+            "Lugares": "5"
           },
           "Dimensões": {
-            "Peso": "2313 Kg",
-            "Comprimento": "4760 mm",
-            "Largura": "1930 mm",
-            "Altura": "1903 mm",
-            "Entre-eixos": "2750 mm",
-            "Porta-malas": "400 L"
+            "Peso": "1.685 Kg",
+            "Comprimento": "4471 mm",
+            "Largura": "1833 mm",
+            "Altura": "1641 mm",
+            "Entre-eixos": "2720 mm",
+            "Porta-malas": "362 L"
           },
           "Especificações": {
-            "Tração": "Integral temporária",
-            "Câmbio": "Automático (9 marchas)",
+            "Tração": "Dianteira",
+            "Suspensão Dianteira": "McPherson independente",
+            "Suspensão Traseira": "Multi-Link independente",
+            "Freio Dianteiro": "Discos ventilados",
+            "Freio Traseiro": "Discos sólidos"
+          },
+          "Motor Elétrico": {
+            "Potência": "204 cv",
+            "Capacidade": "58.3 kWh",
+            "Torque": "26,5 kgfm",
+            "Autonomia": "349 Km",
+            "Velocidade Máxima": "170 Km/h",
+            "Potência de recarga": "11 kW / 120 kW AC/DC"
+          }
+        }
+      },
+      {
+        "id": 17242,
+        "slug": "dolphin-plus-310",
+        "name": "BYD Dolphin Plus 310",
+        "title": "BYD Dolphin Plus 310",
+        "brand": "BYD",
+        "year": "2024",
+        "powertrain": "Elétrico",
+        "bodyType": "Hatchback",
+        "seats": "5",
+        "traction": "Dianteira",
+        "transmission": "Automático (1 marcha)",
+        "power": "204  cv",
+        "torque": "31,6  kgfm",
+        "range": "330 Km",
+        "battery": "60.5 kWh",
+        "topSpeed": "159 Km/h",
+        "weight": "1658 Kg",
+        "trunk": "345 L",
+        "image": "data/images/17242-dolphin-plus-310.webp",
+        "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/05/dolphin-plus-byd-jpg.webp",
+        "sourceUrl": "https://canalve.com.br/ficha-tecnica/byd/tudo-sobre-dolphin-plus-310/",
+        "sections": {
+          "Identificação": {
+            "Fabricante/Modelo": "BYD Dolphin Plus 310",
+            "Ano": "2024",
+            "Carroceria": "Hatchback",
+            "Motorização": "Elétrico",
+            "Lugares": "5",
+            "Plataforma": "e-Platform 3.0",
+            "Série": "Ocean"
+          },
+          "Dimensões": {
+            "Peso": "1658 Kg",
+            "Comprimento": "4290 mm",
+            "Largura": "1770 mm",
+            "Altura": "1570 mm",
+            "Entre-eixos": "2700 mm",
+            "Bitola dianteira": "1530 mm",
+            "Bitola traseira": "1530 mm",
+            "Porta-malas": "345 L"
+          },
+          "Especificações": {
+            "Tração": "Dianteira",
+            "Câmbio": "Automático (1 marcha)",
             "Suspensão Dianteira": "Independente",
             "Suspensão Traseira": "Independente",
             "Freio Dianteiro": "Disco ventilado",
@@ -62,19 +120,69 @@ window.GUESS_THE_CAR_DATA = {
             "Direção": "Elétrica"
           },
           "Motor Elétrico": {
-            "Potência": "163  cv",
-            "Capacidade": "37.1 kWh",
-            "Torque": "32,6 kgfm",
-            "Autonomia": "75 Km",
-            "Velocidade Máxima": "170 Km/h"
+            "Potência": "204  cv",
+            "Capacidade": "60.5 kWh",
+            "Torque": "31,6  kgfm",
+            "Autonomia": "330 Km",
+            "Velocidade Máxima": "159 Km/h",
+            "Potência de recarga": "7 /80  AC/DC"
+          }
+        }
+      },
+      {
+        "id": 18790,
+        "slug": "c10",
+        "name": "Leapmotor C10",
+        "title": "Leapmotor C10",
+        "brand": "Leapmotor",
+        "year": "2026",
+        "powertrain": "Elétrico",
+        "bodyType": "SUV",
+        "seats": "5",
+        "traction": "Traseira",
+        "transmission": "Automático (1 marcha)",
+        "power": "218 cv",
+        "torque": "32,6 kgfm",
+        "range": "355 Km",
+        "battery": "69.9 kWh",
+        "topSpeed": "170 Km/h",
+        "weight": "1980 Kg",
+        "trunk": "475 L",
+        "image": "data/images/18790-c10.jpg",
+        "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/07/LEAPMOTOR-C10.jpg",
+        "sourceUrl": "https://canalve.com.br/ficha-tecnica/leapmotor/tudo-sobre-c10/",
+        "sections": {
+          "Identificação": {
+            "Fabricante/Modelo": "Leapmotor C10",
+            "Ano": "2026",
+            "Carroceria": "SUV",
+            "Lugares": "5",
+            "Plataforma": "Leap 3.0"
           },
-          "Motor Combustão": {
-            "Potência": "245 cv 5500 rpm cv",
-            "Torque": "38,7 Kgfm 1700 rpm kgfm",
-            "Cilindros": "4 em linha",
-            "Aspiração": "Turbocompressor",
-            "Alimentação": "Injeção direta",
-            "Consumo Cidade": "10.4 Km/L"
+          "Dimensões": {
+            "Peso": "1980 Kg",
+            "Comprimento": "4739 mm",
+            "Largura": "1900 mm",
+            "Altura": "1680 mm",
+            "Entre-eixos": "2825 mm",
+            "Porta-malas": "475 L"
+          },
+          "Especificações": {
+            "Tração": "Traseira",
+            "Câmbio": "Automático (1 marcha)",
+            "Suspensão Dianteira": "Independente, McPherson",
+            "Suspensão Traseira": "Independente, multibraço",
+            "Freio Dianteiro": "Disco ventilado",
+            "Freio Traseiro": "Disco sólido",
+            "Direção": "Elétrica"
+          },
+          "Motor Elétrico": {
+            "Potência": "218 cv",
+            "Capacidade": "69.9 kWh",
+            "Torque": "32,6 kgfm",
+            "Autonomia": "355 Km",
+            "Velocidade Máxima": "170 Km/h",
+            "Potência de recarga": "6,6 kW AC/ 84 kW DC AC/DC"
           }
         },
         "sourceSite": "Canal VE"
@@ -207,9 +315,9 @@ window.GUESS_THE_CAR_DATA = {
     ],
     "schedule": {
       "2026-11-08": [
-        17338,
-        20322,
-        17235
+        22666,
+        17242,
+        18790
       ],
       "2026-11-09": [
         22297,
@@ -352,14 +460,14 @@ window.GUESS_THE_CAR_DATA = {
         19937
       ],
       "2026-12-07": [
-        18726,
-        152317,
-        17325
+        17325,
+        18303,
+        18751
       ],
       "2026-12-08": [
-        21273,
-        151919,
-        17279
+        17313,
+        19830,
+        17248
       ]
     }
   },
