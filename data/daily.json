@@ -1,196 +1,186 @@
 {
-  "date": "2026-11-07",
-  "roundNumber": 1,
-  "updatedAt": "2026-11-07T20:37:36",
+  "date": "2026-11-08",
+  "roundNumber": 2,
+  "updatedAt": "2026-11-08T09:59:41",
   "carsPerDay": 3,
   "totalCatalogCars": 86,
-  "remainingInDeck": 75,
+  "remainingInDeck": 69,
   "todayIds": [
-    18303,
-    17248,
-    18074
+    22666,
+    17242,
+    18790
   ],
   "todayCars": [
     {
-      "id": 18303,
-      "slug": "e-2008-gt",
-      "name": "Peugeot E-2008 GT",
-      "title": "Peugeot E-2008 GT",
-      "brand": "Peugeot",
-      "year": "2023",
+      "id": 22666,
+      "slug": "ora-5",
+      "name": "GWM Ora 5",
+      "title": "GWM Ora 5",
+      "brand": "GWM",
+      "year": "2027",
       "powertrain": "Elétrico",
       "bodyType": "SUV",
       "seats": "5",
       "traction": "Dianteira",
-      "transmission": "Automático (1 marcha)",
-      "power": "136 cv",
+      "transmission": "Automático",
+      "power": "204 cv",
       "torque": "26,5 kgfm",
-      "range": "23 Km",
-      "battery": "50 kWh",
-      "topSpeed": "N/I",
-      "weight": "1630 Kg",
-      "trunk": "375 L",
-      "image": "data/images/18303-e-2008-gt.png",
-      "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/07/peugeot-e.png",
-      "sourceUrl": "https://canalve.com.br/ficha-tecnica/sem-fabricante/tudo-sobre-e-2008-gt/",
+      "range": "349 Km",
+      "battery": "58.3 kWh",
+      "topSpeed": "170 Km/h",
+      "weight": "1.685 Kg",
+      "trunk": "362 L",
+      "image": "data/images/22666-ora-5.jpg",
+      "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2026/06/Ora-5.jpg",
+      "sourceUrl": "https://canalve.com.br/ficha-tecnica/gwm/tudo-sobre-ora-5/",
       "sections": {
         "Identificação": {
-          "Fabricante/Modelo": "Peugeot E-2008 GT",
-          "Ano": "2023",
+          "Fabricante/Modelo": "GWM Ora 5",
+          "Ano": "2027",
           "Carroceria": "SUV",
-          "Lugares": "5",
-          "Plataforma": "e-CMP"
+          "Motorização": "Elétrico",
+          "Lugares": "5"
         },
         "Dimensões": {
-          "Peso": "1630 Kg",
-          "Comprimento": "4300 mm",
-          "Largura": "1770 mm",
-          "Altura": "1550 mm",
-          "Entre-eixos": "2605 mm",
-          "Bitola dianteira": "1540 mm",
-          "Bitola traseira": "1540 mm",
-          "Porta-malas": "375 L"
+          "Peso": "1.685 Kg",
+          "Comprimento": "4471 mm",
+          "Largura": "1833 mm",
+          "Altura": "1641 mm",
+          "Entre-eixos": "2720 mm",
+          "Porta-malas": "362 L"
         },
         "Especificações": {
           "Tração": "Dianteira",
-          "Câmbio": "Automático (1 marcha)",
-          "Suspensão Dianteira": "Independente",
-          "Suspensão Traseira": "Eixo de torção",
-          "Freio Dianteiro": "Disco ventilado",
-          "Freio Traseiro": "Disco sólido",
-          "Direção": "Elétrica"
+          "Suspensão Dianteira": "McPherson independente",
+          "Suspensão Traseira": "Multi-Link independente",
+          "Freio Dianteiro": "Discos ventilados",
+          "Freio Traseiro": "Discos sólidos"
         },
         "Motor Elétrico": {
-          "Potência": "136 cv",
-          "Capacidade": "50 kWh",
+          "Potência": "204 cv",
+          "Capacidade": "58.3 kWh",
           "Torque": "26,5 kgfm",
-          "Autonomia": "23 Km"
+          "Autonomia": "349 Km",
+          "Velocidade Máxima": "170 Km/h",
+          "Potência de recarga": "11 kW / 120 kW AC/DC"
         }
       }
     },
     {
-      "id": 17248,
-      "slug": "ejs-1",
-      "name": "JAC EJS 1",
-      "title": "JAC EJS 1",
-      "brand": "JAC",
-      "year": "2023",
+      "id": 17242,
+      "slug": "dolphin-plus-310",
+      "name": "BYD Dolphin Plus 310",
+      "title": "BYD Dolphin Plus 310",
+      "brand": "BYD",
+      "year": "2024",
       "powertrain": "Elétrico",
       "bodyType": "Hatchback",
       "seats": "5",
       "traction": "Dianteira",
       "transmission": "Automático (1 marcha)",
-      "power": "62  cv",
-      "torque": "15,3  kgfm",
-      "range": "161 Km",
-      "battery": "30.2 kWh",
-      "topSpeed": "110 Km/h",
-      "weight": "1180 Kg",
-      "trunk": "121 L",
-      "image": "data/images/17248-ejs-1.webp",
-      "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/05/JAC-E-JS1-jpg.webp",
-      "sourceUrl": "https://canalve.com.br/ficha-tecnica/jac/tudo-sobre-ejs-1/",
+      "power": "204  cv",
+      "torque": "31,6  kgfm",
+      "range": "330 Km",
+      "battery": "60.5 kWh",
+      "topSpeed": "159 Km/h",
+      "weight": "1658 Kg",
+      "trunk": "345 L",
+      "image": "data/images/17242-dolphin-plus-310.webp",
+      "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/05/dolphin-plus-byd-jpg.webp",
+      "sourceUrl": "https://canalve.com.br/ficha-tecnica/byd/tudo-sobre-dolphin-plus-310/",
       "sections": {
         "Identificação": {
-          "Fabricante/Modelo": "JAC EJS 1",
-          "Ano": "2023",
+          "Fabricante/Modelo": "BYD Dolphin Plus 310",
+          "Ano": "2024",
           "Carroceria": "Hatchback",
           "Motorização": "Elétrico",
-          "Lugares": "5"
+          "Lugares": "5",
+          "Plataforma": "e-Platform 3.0",
+          "Série": "Ocean"
         },
         "Dimensões": {
-          "Peso": "1180 Kg",
-          "Comprimento": "3650 mm",
-          "Largura": "1670 mm",
-          "Altura": "1540 mm",
-          "Entre-eixos": "2390 mm",
-          "Porta-malas": "121 L"
+          "Peso": "1658 Kg",
+          "Comprimento": "4290 mm",
+          "Largura": "1770 mm",
+          "Altura": "1570 mm",
+          "Entre-eixos": "2700 mm",
+          "Bitola dianteira": "1530 mm",
+          "Bitola traseira": "1530 mm",
+          "Porta-malas": "345 L"
         },
         "Especificações": {
           "Tração": "Dianteira",
           "Câmbio": "Automático (1 marcha)",
           "Suspensão Dianteira": "Independente",
-          "Suspensão Traseira": "Eixo de torção",
+          "Suspensão Traseira": "Independente",
           "Freio Dianteiro": "Disco ventilado",
           "Freio Traseiro": "Disco sólido",
           "Direção": "Elétrica"
         },
         "Motor Elétrico": {
-          "Potência": "62  cv",
-          "Capacidade": "30.2 kWh",
-          "Torque": "15,3  kgfm",
-          "Autonomia": "161 Km",
-          "Velocidade Máxima": "110 Km/h",
-          "Potência de recarga": "7 /40  AC/DC"
+          "Potência": "204  cv",
+          "Capacidade": "60.5 kWh",
+          "Torque": "31,6  kgfm",
+          "Autonomia": "330 Km",
+          "Velocidade Máxima": "159 Km/h",
+          "Potência de recarga": "7 /80  AC/DC"
         }
       }
     },
     {
-      "id": 18074,
-      "slug": "xc90-ultimate-t8",
-      "name": "Volvo XC90 Ultimate T8",
-      "title": "Volvo XC90 Ultimate T8",
-      "brand": "Volvo",
-      "year": "2024",
-      "powertrain": "Híbrido Plug-in",
+      "id": 18790,
+      "slug": "c10",
+      "name": "Leapmotor C10",
+      "title": "Leapmotor C10",
+      "brand": "Leapmotor",
+      "year": "2026",
+      "powertrain": "Elétrico",
       "bodyType": "SUV",
-      "seats": "7",
-      "traction": "Integral sob demanda",
-      "transmission": "Automático (8 marchas)",
-      "power": "145  cv",
-      "torque": "31,5 kgfm",
-      "range": "49 Km",
-      "battery": "18.8 kWh",
-      "topSpeed": "180 Km/h",
-      "weight": "2354 Kg",
-      "trunk": "500 L",
-      "image": "data/images/18074-xc90-ultimate-t8.webp",
-      "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/06/volvo-e.webp",
-      "sourceUrl": "https://canalve.com.br/ficha-tecnica/volvo/tudo-sobre-xc90-ultimate-t8/",
+      "seats": "5",
+      "traction": "Traseira",
+      "transmission": "Automático (1 marcha)",
+      "power": "218 cv",
+      "torque": "32,6 kgfm",
+      "range": "355 Km",
+      "battery": "69.9 kWh",
+      "topSpeed": "170 Km/h",
+      "weight": "1980 Kg",
+      "trunk": "475 L",
+      "image": "data/images/18790-c10.jpg",
+      "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/07/LEAPMOTOR-C10.jpg",
+      "sourceUrl": "https://canalve.com.br/ficha-tecnica/leapmotor/tudo-sobre-c10/",
       "sections": {
         "Identificação": {
-          "Fabricante/Modelo": "Volvo XC90 Ultimate T8",
-          "Ano": "2024",
+          "Fabricante/Modelo": "Leapmotor C10",
+          "Ano": "2026",
           "Carroceria": "SUV",
-          "Motorização": "Híbrido Plug-in",
-          "Lugares": "7",
-          "Plataforma": "SPA"
+          "Lugares": "5",
+          "Plataforma": "Leap 3.0"
         },
         "Dimensões": {
-          "Peso": "2354 Kg",
-          "Comprimento": "4953 mm",
-          "Largura": "1923 mm",
-          "Altura": "1767 mm",
-          "Entre-eixos": "2984 mm",
-          "Bitola dianteira": "1664 mm",
-          "Bitola traseira": "1667 mm",
-          "Porta-malas": "500 L"
+          "Peso": "1980 Kg",
+          "Comprimento": "4739 mm",
+          "Largura": "1900 mm",
+          "Altura": "1680 mm",
+          "Entre-eixos": "2825 mm",
+          "Porta-malas": "475 L"
         },
         "Especificações": {
-          "Tração": "Integral sob demanda",
-          "Câmbio": "Automático (8 marchas)",
-          "Suspensão Dianteira": "Independente",
-          "Suspensão Traseira": "Independente",
+          "Tração": "Traseira",
+          "Câmbio": "Automático (1 marcha)",
+          "Suspensão Dianteira": "Independente, McPherson",
+          "Suspensão Traseira": "Independente, multibraço",
           "Freio Dianteiro": "Disco ventilado",
-          "Freio Traseiro": "Disco ventilado",
+          "Freio Traseiro": "Disco sólido",
           "Direção": "Elétrica"
         },
         "Motor Elétrico": {
-          "Potência": "145  cv",
-          "Capacidade": "18.8 kWh",
-          "Torque": "31,5 kgfm",
-          "Autonomia": "49 Km",
-          "Velocidade Máxima": "180 Km/h"
-        },
-        "Motor Combustão": {
-          "Potência": "310 cv 6000 rpm cv",
-          "Torque": "40,8 Kgfm 2200 rpm kgfm",
-          "Cilindros": "4 em linha",
-          "Cilindrada": "492",
-          "Aspiração": "Turbocompressor",
-          "Alimentação": "Injeção direta",
-          "Consumo Cidade": "10.3 Km/L",
-          "Consumo Estrada": "10.3 Km/L"
+          "Potência": "218 cv",
+          "Capacidade": "69.9 kWh",
+          "Torque": "32,6 kgfm",
+          "Autonomia": "355 Km",
+          "Velocidade Máxima": "170 Km/h",
+          "Potência de recarga": "6,6 kW AC/ 84 kW DC AC/DC"
         }
       }
     }
@@ -202,9 +192,9 @@
       18074
     ],
     "2026-11-08": [
-      17279,
-      18790,
-      18781
+      22666,
+      17242,
+      18790
     ],
     "2026-11-09": [
       17322,
@@ -350,6 +340,11 @@
       17325,
       18303,
       18751
+    ],
+    "2026-12-08": [
+      17313,
+      19830,
+      17248
     ]
   }
 }
