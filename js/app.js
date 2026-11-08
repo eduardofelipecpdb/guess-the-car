@@ -421,7 +421,14 @@
     const t = normalizeStr(targetVal);
     const g = normalizeStr(guessedVal);
     if (!t || !g || t === "n/i" || g === "n/i") return "miss";
-    return t === g ? "match" : "miss";
+    if (t === g) return "match";
+    if (
+      (t.includes("hibrido") && g.includes("hibrido")) ||
+      (t.includes("combustao") && g.includes("combustao"))
+    ) {
+      return "near";
+    }
+    return "miss";
   }
 
   function compareYear(targetYear, guessedYear) {
@@ -524,6 +531,7 @@
     els.revealedBrand.textContent = car.brand;
     els.revealedName.textContent = car.name;
     els.revealedSourceLink.href = car.sourceUrl || "https://canalve.com.br/ficha-tecnica/";
+    els.revealedSourceLink.textContent = `Ver Ficha no ${car.sourceSite || "Portal"} ↗`;
 
     const specItems = [
       { label: "Marca", val: car.brand },

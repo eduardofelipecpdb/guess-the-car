@@ -1,361 +1,594 @@
 // Arquivo gerado automaticamente por scripts/daily_shuffle.py
 window.GUESS_THE_CAR_DATA = {
   "daily": {
-    "date": "2026-11-07",
+    "date": "2026-11-08",
     "roundNumber": 1,
-    "updatedAt": "2026-11-07T20:37:36",
+    "updatedAt": "2026-11-08T10:02:30",
     "carsPerDay": 3,
-    "totalCatalogCars": 86,
-    "remainingInDeck": 75,
+    "totalCatalogCars": 102,
+    "remainingInDeck": 9,
     "todayIds": [
-      18303,
-      17248,
-      18074
+      17338,
+      20322,
+      17235
     ],
     "todayCars": [
       {
-        "id": 18303,
-        "slug": "e-2008-gt",
-        "name": "Peugeot E-2008 GT",
-        "title": "Peugeot E-2008 GT",
-        "brand": "Peugeot",
-        "year": "2023",
-        "powertrain": "Elétrico",
-        "bodyType": "SUV",
-        "seats": "5",
-        "traction": "Dianteira",
-        "transmission": "Automático (1 marcha)",
-        "power": "136 cv",
-        "torque": "26,5 kgfm",
-        "range": "23 Km",
-        "battery": "50 kWh",
-        "topSpeed": "N/I",
-        "weight": "1630 Kg",
-        "trunk": "375 L",
-        "image": "data/images/18303-e-2008-gt.png",
-        "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/07/peugeot-e.png",
-        "sourceUrl": "https://canalve.com.br/ficha-tecnica/sem-fabricante/tudo-sobre-e-2008-gt/",
-        "sections": {
-          "Identificação": {
-            "Fabricante/Modelo": "Peugeot E-2008 GT",
-            "Ano": "2023",
-            "Carroceria": "SUV",
-            "Lugares": "5",
-            "Plataforma": "e-CMP"
-          },
-          "Dimensões": {
-            "Peso": "1630 Kg",
-            "Comprimento": "4300 mm",
-            "Largura": "1770 mm",
-            "Altura": "1550 mm",
-            "Entre-eixos": "2605 mm",
-            "Bitola dianteira": "1540 mm",
-            "Bitola traseira": "1540 mm",
-            "Porta-malas": "375 L"
-          },
-          "Especificações": {
-            "Tração": "Dianteira",
-            "Câmbio": "Automático (1 marcha)",
-            "Suspensão Dianteira": "Independente",
-            "Suspensão Traseira": "Eixo de torção",
-            "Freio Dianteiro": "Disco ventilado",
-            "Freio Traseiro": "Disco sólido",
-            "Direção": "Elétrica"
-          },
-          "Motor Elétrico": {
-            "Potência": "136 cv",
-            "Capacidade": "50 kWh",
-            "Torque": "26,5 kgfm",
-            "Autonomia": "23 Km"
-          }
-        }
-      },
-      {
-        "id": 17248,
-        "slug": "ejs-1",
-        "name": "JAC EJS 1",
-        "title": "JAC EJS 1",
-        "brand": "JAC",
-        "year": "2023",
-        "powertrain": "Elétrico",
-        "bodyType": "Hatchback",
-        "seats": "5",
-        "traction": "Dianteira",
-        "transmission": "Automático (1 marcha)",
-        "power": "62  cv",
-        "torque": "15,3  kgfm",
-        "range": "161 Km",
-        "battery": "30.2 kWh",
-        "topSpeed": "110 Km/h",
-        "weight": "1180 Kg",
-        "trunk": "121 L",
-        "image": "data/images/17248-ejs-1.webp",
-        "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/05/JAC-E-JS1-jpg.webp",
-        "sourceUrl": "https://canalve.com.br/ficha-tecnica/jac/tudo-sobre-ejs-1/",
-        "sections": {
-          "Identificação": {
-            "Fabricante/Modelo": "JAC EJS 1",
-            "Ano": "2023",
-            "Carroceria": "Hatchback",
-            "Motorização": "Elétrico",
-            "Lugares": "5"
-          },
-          "Dimensões": {
-            "Peso": "1180 Kg",
-            "Comprimento": "3650 mm",
-            "Largura": "1670 mm",
-            "Altura": "1540 mm",
-            "Entre-eixos": "2390 mm",
-            "Porta-malas": "121 L"
-          },
-          "Especificações": {
-            "Tração": "Dianteira",
-            "Câmbio": "Automático (1 marcha)",
-            "Suspensão Dianteira": "Independente",
-            "Suspensão Traseira": "Eixo de torção",
-            "Freio Dianteiro": "Disco ventilado",
-            "Freio Traseiro": "Disco sólido",
-            "Direção": "Elétrica"
-          },
-          "Motor Elétrico": {
-            "Potência": "62  cv",
-            "Capacidade": "30.2 kWh",
-            "Torque": "15,3  kgfm",
-            "Autonomia": "161 Km",
-            "Velocidade Máxima": "110 Km/h",
-            "Potência de recarga": "7 /40  AC/DC"
-          }
-        }
-      },
-      {
-        "id": 18074,
-        "slug": "xc90-ultimate-t8",
-        "name": "Volvo XC90 Ultimate T8",
-        "title": "Volvo XC90 Ultimate T8",
-        "brand": "Volvo",
-        "year": "2024",
+        "id": 17338,
+        "slug": "tank-300-2-0",
+        "name": "GWM Tank 300 2.0",
+        "title": "GWM Tank 300 2.0",
+        "brand": "GWM",
+        "year": "2025",
         "powertrain": "Híbrido Plug-in",
-        "bodyType": "SUV",
-        "seats": "7",
-        "traction": "Integral sob demanda",
-        "transmission": "Automático (8 marchas)",
-        "power": "145  cv",
-        "torque": "31,5 kgfm",
-        "range": "49 Km",
-        "battery": "18.8 kWh",
-        "topSpeed": "180 Km/h",
-        "weight": "2354 Kg",
-        "trunk": "500 L",
-        "image": "data/images/18074-xc90-ultimate-t8.webp",
-        "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/06/volvo-e.webp",
-        "sourceUrl": "https://canalve.com.br/ficha-tecnica/volvo/tudo-sobre-xc90-ultimate-t8/",
+        "bodyType": "Jipe",
+        "seats": "5",
+        "traction": "Integral temporária",
+        "transmission": "Automático (9 marchas)",
+        "power": "163  cv",
+        "torque": "32,6 kgfm",
+        "range": "75 Km",
+        "battery": "37.1 kWh",
+        "topSpeed": "170 Km/h",
+        "weight": "2313 Kg",
+        "trunk": "400 L",
+        "image": "data/images/17338-tank-300-2-0.jpg",
+        "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/06/Tank-300.jpg",
+        "sourceUrl": "https://canalve.com.br/ficha-tecnica/gwm/tudo-sobre-tank-300-2-0/",
         "sections": {
           "Identificação": {
-            "Fabricante/Modelo": "Volvo XC90 Ultimate T8",
-            "Ano": "2024",
-            "Carroceria": "SUV",
+            "Fabricante/Modelo": "GWM Tank 300 2.0",
+            "Ano": "2025",
+            "Carroceria": "Jipe",
             "Motorização": "Híbrido Plug-in",
-            "Lugares": "7",
-            "Plataforma": "SPA"
+            "Lugares": "5",
+            "Plataforma": "Tank"
           },
           "Dimensões": {
-            "Peso": "2354 Kg",
-            "Comprimento": "4953 mm",
-            "Largura": "1923 mm",
-            "Altura": "1767 mm",
-            "Entre-eixos": "2984 mm",
-            "Bitola dianteira": "1664 mm",
-            "Bitola traseira": "1667 mm",
-            "Porta-malas": "500 L"
+            "Peso": "2313 Kg",
+            "Comprimento": "4760 mm",
+            "Largura": "1930 mm",
+            "Altura": "1903 mm",
+            "Entre-eixos": "2750 mm",
+            "Porta-malas": "400 L"
           },
           "Especificações": {
-            "Tração": "Integral sob demanda",
-            "Câmbio": "Automático (8 marchas)",
+            "Tração": "Integral temporária",
+            "Câmbio": "Automático (9 marchas)",
             "Suspensão Dianteira": "Independente",
             "Suspensão Traseira": "Independente",
             "Freio Dianteiro": "Disco ventilado",
-            "Freio Traseiro": "Disco ventilado",
+            "Freio Traseiro": "Disco sólido",
             "Direção": "Elétrica"
           },
           "Motor Elétrico": {
-            "Potência": "145  cv",
-            "Capacidade": "18.8 kWh",
-            "Torque": "31,5 kgfm",
-            "Autonomia": "49 Km",
-            "Velocidade Máxima": "180 Km/h"
+            "Potência": "163  cv",
+            "Capacidade": "37.1 kWh",
+            "Torque": "32,6 kgfm",
+            "Autonomia": "75 Km",
+            "Velocidade Máxima": "170 Km/h"
           },
           "Motor Combustão": {
-            "Potência": "310 cv 6000 rpm cv",
-            "Torque": "40,8 Kgfm 2200 rpm kgfm",
+            "Potência": "245 cv 5500 rpm cv",
+            "Torque": "38,7 Kgfm 1700 rpm kgfm",
             "Cilindros": "4 em linha",
-            "Cilindrada": "492",
             "Aspiração": "Turbocompressor",
             "Alimentação": "Injeção direta",
-            "Consumo Cidade": "10.3 Km/L",
-            "Consumo Estrada": "10.3 Km/L"
+            "Consumo Cidade": "10.4 Km/L"
           }
-        }
+        },
+        "sourceSite": "Canal VE"
+      },
+      {
+        "id": 20322,
+        "slug": "b5",
+        "name": "Denza B5",
+        "title": "Denza B5",
+        "brand": "Denza",
+        "year": "2025",
+        "powertrain": "Híbrido Plug-in",
+        "bodyType": "SUV",
+        "seats": "5",
+        "traction": "Integral",
+        "transmission": "Automático",
+        "power": "677 cv",
+        "torque": "77,5 kgfm",
+        "range": "1.200 Km",
+        "battery": "31.8 kWh",
+        "topSpeed": "180 Km/h",
+        "weight": "3.430 Kg",
+        "trunk": "430 L",
+        "image": "data/images/20322-b5.jpg",
+        "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/11/Denza_B5_7_0001.jpg",
+        "sourceUrl": "https://canalve.com.br/ficha-tecnica/denza/tudo-sobre-b5/",
+        "sections": {
+          "Identificação": {
+            "Fabricante/Modelo": "Denza B5",
+            "Ano": "2025",
+            "Carroceria": "SUV",
+            "Motorização": "Híbrido Plug-in",
+            "Lugares": "5"
+          },
+          "Dimensões": {
+            "Peso": "3.430 Kg",
+            "Comprimento": "4890 mm",
+            "Largura": "1970 mm",
+            "Altura": "1920 mm",
+            "Entre-eixos": "2800 mm",
+            "Porta-malas": "430 L"
+          },
+          "Especificações": {
+            "Tração": "Integral",
+            "Câmbio": "Automático",
+            "Suspensão Dianteira": "Disus-P",
+            "Suspensão Traseira": "Disus-P",
+            "Freio Dianteiro": "Discos ventilados, pinças fixas",
+            "Freio Traseiro": "Discos ventilados, pinças fixas",
+            "Direção": "R-EPS"
+          },
+          "Motor Elétrico": {
+            "Potência": "677 cv",
+            "Capacidade": "31.8 kWh",
+            "Torque": "77,5 kgfm",
+            "Autonomia": "1.200 Km",
+            "Velocidade Máxima": "180 Km/h",
+            "Potência de recarga": "6 kW / 100 kW AC/DC"
+          },
+          "Motor Combustão": {
+            "Potência": "677 cv",
+            "Torque": "77,5 kgfm",
+            "Alimentação": "Injeção direta"
+          }
+        },
+        "sourceSite": "Canal VE"
+      },
+      {
+        "id": 17235,
+        "slug": "dolphin-gs-180",
+        "name": "BYD Dolphin GS 180",
+        "title": "BYD Dolphin GS 180",
+        "brand": "BYD",
+        "year": "2024",
+        "powertrain": "Elétrico",
+        "bodyType": "Hatch",
+        "seats": "4",
+        "traction": "Dianteira",
+        "transmission": "Automático (1 marcha)",
+        "power": "95 cv",
+        "torque": "18,3 kgfm",
+        "range": "291 Km",
+        "battery": "44.9 kWh",
+        "topSpeed": "160 Km/h",
+        "weight": "1405 Kg",
+        "trunk": "250 L",
+        "image": "data/images/17235-dolphin-gs-180.webp",
+        "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/05/byd-dolphin-1-jpg.webp",
+        "sourceUrl": "https://canalve.com.br/ficha-tecnica/byd/tudo-sobre-dolphin-gs-180/",
+        "sections": {
+          "Identificação": {
+            "Fabricante/Modelo": "BYD Dolphin GS 180",
+            "Ano": "2024",
+            "Carroceria": "Hatchback",
+            "Motorização": "Elétrico",
+            "Lugares": "4",
+            "Plataforma": "e-Platform 3.0",
+            "Série": "Ocean"
+          },
+          "Dimensões": {
+            "Peso": "1405 Kg",
+            "Comprimento": "4125 mm",
+            "Largura": "1770 mm",
+            "Altura": "1570 mm",
+            "Entre-eixos": "2700 mm",
+            "Bitola dianteira": "1530 mm",
+            "Bitola traseira": "1530 mm",
+            "Porta-malas": "250 L"
+          },
+          "Especificações": {
+            "Tração": "Dianteira",
+            "Câmbio": "Automático (1 marcha)",
+            "Suspensão Dianteira": "Independente",
+            "Suspensão Traseira": "Eixo de torção",
+            "Freio Dianteiro": "Disco ventilado",
+            "Freio Traseiro": "Disco sólido",
+            "Direção": "Elétrica"
+          },
+          "Motor Elétrico": {
+            "Potência": "95 cv",
+            "Capacidade": "44.9 kWh",
+            "Torque": "18,3 kgfm",
+            "Autonomia": "291 Km",
+            "Velocidade Máxima": "160 Km/h",
+            "Potência de recarga": "6,6 / 60  AC/DC"
+          }
+        },
+        "sourceSite": "Canal VE"
       }
     ],
     "schedule": {
-      "2026-11-07": [
-        18303,
-        17248,
-        18074
-      ],
       "2026-11-08": [
-        17279,
-        18790,
-        18781
+        17338,
+        20322,
+        17235
       ],
       "2026-11-09": [
-        17322,
-        17291,
-        23225
+        22297,
+        18303,
+        17317
       ],
       "2026-11-10": [
-        17333,
-        17321,
-        17293
+        23213,
+        18074,
+        17300
       ],
       "2026-11-11": [
-        17330,
-        17301,
-        20322
-      ],
-      "2026-11-12": [
-        21722,
-        17336,
-        17346
-      ],
-      "2026-11-13": [
-        19956,
-        17323,
+        18670,
+        17242,
         23112
       ],
-      "2026-11-14": [
-        17235,
-        19744,
-        17273
+      "2026-11-12": [
+        18333,
+        17293,
+        23225
       ],
-      "2026-11-15": [
-        18668,
-        18724,
-        21221
-      ],
-      "2026-11-16": [
-        17317,
-        19830,
-        17242
-      ],
-      "2026-11-17": [
-        17302,
-        18751,
-        17244
-      ],
-      "2026-11-18": [
-        17332,
-        17264,
-        18705
-      ],
-      "2026-11-19": [
-        17331,
+      "2026-11-13": [
         19359,
-        20318
-      ],
-      "2026-11-20": [
-        17243,
-        17247,
-        21273
-      ],
-      "2026-11-21": [
-        17246,
-        19693,
-        23116
-      ],
-      "2026-11-22": [
-        20310,
-        18670,
-        17344
-      ],
-      "2026-11-23": [
-        17240,
-        17303,
-        18732
-      ],
-      "2026-11-24": [
-        23110,
-        18726,
+        147796,
         20313
       ],
-      "2026-11-25": [
-        20317,
-        17340,
-        23213
-      ],
-      "2026-11-26": [
-        17281,
-        19820,
-        22666
-      ],
-      "2026-11-27": [
-        17343,
-        18676,
-        21263
-      ],
-      "2026-11-28": [
-        17280,
+      "2026-11-14": [
         17290,
-        19958
+        17340,
+        23122
       ],
-      "2026-11-29": [
-        17335,
-        17315,
-        17259
-      ],
-      "2026-11-30": [
-        18827,
+      "2026-11-15": [
         21724,
+        148669,
+        18790
+      ],
+      "2026-11-16": [
+        17243,
+        17322,
+        18751
+      ],
+      "2026-11-17": [
+        17291,
+        17343,
         17318
       ],
-      "2026-12-01": [
-        22297,
-        17338,
+      "2026-11-18": [
+        17321,
+        17292,
+        19958
+      ],
+      "2026-11-19": [
+        17330,
+        17344,
+        17315
+      ],
+      "2026-11-20": [
+        20317,
+        208408,
         17316
       ],
+      "2026-11-21": [
+        17280,
+        239652,
+        19820
+      ],
+      "2026-11-22": [
+        149061,
+        18732,
+        17331
+      ],
+      "2026-11-23": [
+        17333,
+        18705,
+        17323
+      ],
+      "2026-11-24": [
+        21221,
+        17324,
+        18827
+      ],
+      "2026-11-25": [
+        224587,
+        17248,
+        21722
+      ],
+      "2026-11-26": [
+        17273,
+        271947,
+        19830
+      ],
+      "2026-11-27": [
+        20310,
+        17301,
+        149021
+      ],
+      "2026-11-28": [
+        19956,
+        151145,
+        147777
+      ],
+      "2026-11-29": [
+        17244,
+        22666,
+        270947
+      ],
+      "2026-11-30": [
+        23110,
+        151009,
+        18676
+      ],
+      "2026-12-01": [
+        17332,
+        19744,
+        17247
+      ],
       "2026-12-02": [
-        17292,
-        17300,
-        17319
+        21263,
+        17335,
+        222257
       ],
       "2026-12-03": [
-        18333,
-        17325,
-        19937
+        17281,
+        17336,
+        277887
       ],
       "2026-12-04": [
         19905,
-        17313,
-        17324
+        19693,
+        18781
       ],
       "2026-12-05": [
-        18726,
-        19693,
-        19744
+        18668,
+        17246,
+        17259
       ],
       "2026-12-06": [
-        17290,
-        19958,
-        17346
+        17241,
+        17302,
+        19937
       ],
       "2026-12-07": [
-        17325,
-        18303,
-        18751
+        18726,
+        152317,
+        17325
+      ],
+      "2026-12-08": [
+        21273,
+        151919,
+        17279
       ]
     }
   },
   "cars": [
+    {
+      "id": 270947,
+      "slug": "ic-fiat-strada",
+      "name": "Fiat Strada 1.0 T200 Cabine",
+      "title": "Fiat Strada 1.0 T200 Cabine Dupla Ranch AT cvt 2026",
+      "brand": "Fiat",
+      "year": "2026",
+      "powertrain": "Combustão (Flex)",
+      "bodyType": "Picape",
+      "seats": "5",
+      "traction": "Dianteira",
+      "transmission": "Automático",
+      "power": "130 cv",
+      "torque": "20,4 kgfm",
+      "range": "8,3 km/l",
+      "battery": "N/I",
+      "topSpeed": "N/I",
+      "weight": "1235 Kg",
+      "trunk": "N/I",
+      "image": "data/images/ic-203132-fiat-strada.webp",
+      "sourceImageUrl": "https://img1.icarros.com/dbimg/galeriaimgmodelo/0/149257_1.jpg",
+      "sourceUrl": "https://www.icarros.com.br/catalogo/marcas/fiat/strada",
+      "sourceSite": "iCarros",
+      "sections": {}
+    },
+    {
+      "id": 208408,
+      "slug": "ic-fiat-fastback",
+      "name": "Fiat Fastback 1.0 T 200",
+      "title": "Fiat Fastback 1.0 T 200 Hybrid Impetus AT cvt t200 mhev 2027",
+      "brand": "Fiat",
+      "year": "2027",
+      "powertrain": "Híbrido",
+      "bodyType": "SUV",
+      "seats": "5",
+      "traction": "Dianteira",
+      "transmission": "Automático",
+      "power": "130 cv",
+      "torque": "20,4 kgfm",
+      "range": "8,9 km/l",
+      "battery": "N/I",
+      "topSpeed": "193 Km/h",
+      "weight": "1271 Kg",
+      "trunk": "600 L",
+      "image": "data/images/ic-254570-fiat-fastback.webp",
+      "sourceImageUrl": "https://img0.icarros.com/dbimg/galeriaimgmodelo/0/155979_1.jpg",
+      "sourceUrl": "https://www.icarros.com.br/catalogo/marcas/fiat/fastback",
+      "sourceSite": "iCarros",
+      "sections": {}
+    },
+    {
+      "id": 205486,
+      "slug": "ic-volkswagen-saveiro",
+      "name": "Volkswagen Saveiro 1.6 CD Extreme",
+      "title": "Volkswagen Saveiro 1.6 CD Extreme 2027",
+      "brand": "Volkswagen",
+      "year": "2027",
+      "powertrain": "Combustão (Flex)",
+      "bodyType": "Picape",
+      "seats": "5",
+      "traction": "Dianteira",
+      "transmission": "Manual",
+      "power": "116 cv",
+      "torque": "16,1 kgfm",
+      "range": "7,9 km/l",
+      "battery": "N/I",
+      "topSpeed": "178 Km/h",
+      "weight": "1138 Kg",
+      "trunk": "N/I",
+      "image": "data/images/ic-261888-volkswagen-saveiro.webp",
+      "sourceImageUrl": "https://img2.icarros.com/dbimg/galeriaimgmodelo/0/154698_1.jpg",
+      "sourceUrl": "https://www.icarros.com.br/catalogo/marcas/volkswagen/saveiro",
+      "sourceSite": "iCarros",
+      "sections": {}
+    },
+    {
+      "id": 233798,
+      "slug": "ic-volkswagen-golf",
+      "name": "Volkswagen Golf 2.0 TSI GTI",
+      "title": "Volkswagen Golf 2.0 TSI GTI DSG 2026",
+      "brand": "Volkswagen",
+      "year": "2026",
+      "powertrain": "Combustão (Gasolina)",
+      "bodyType": "Hatch",
+      "seats": "5",
+      "traction": "Dianteira",
+      "transmission": "Automático",
+      "power": "245 cv",
+      "torque": "37,7 kgfm",
+      "range": "N/I",
+      "battery": "N/I",
+      "topSpeed": "N/I",
+      "weight": "1460 Kg",
+      "trunk": "374 L",
+      "image": "data/images/ic-235198-volkswagen-golf.webp",
+      "sourceImageUrl": "https://img1.icarros.com/dbimg/galeriaimgmodelo/0/151536_1.jpg",
+      "sourceUrl": "https://www.icarros.com.br/catalogo/marcas/volkswagen/golf",
+      "sourceSite": "iCarros",
+      "sections": {}
+    },
+    {
+      "id": 222257,
+      "slug": "ic-volkswagen-jetta",
+      "name": "Volkswagen Jetta 2.0 350 TSI",
+      "title": "Volkswagen Jetta 2.0 350 TSI GLI DSG 2026",
+      "brand": "Volkswagen",
+      "year": "2026",
+      "powertrain": "Combustão (Gasolina)",
+      "bodyType": "Sedã",
+      "seats": "5",
+      "traction": "Dianteira",
+      "transmission": "Automático",
+      "power": "231 cv",
+      "torque": "35,7 kgfm",
+      "range": "9,9 km/l",
+      "battery": "N/I",
+      "topSpeed": "249 Km/h",
+      "weight": "1476 Kg",
+      "trunk": "510 L",
+      "image": "data/images/ic-239575-volkswagen-jetta.jpg",
+      "sourceImageUrl": "https://img0.icarros.com/dbimg/galeriaimgmodelo/0/152561_1.jpg",
+      "sourceUrl": "https://www.icarros.com.br/catalogo/marcas/volkswagen/jetta",
+      "sourceSite": "iCarros",
+      "sections": {}
+    },
+    {
+      "id": 271947,
+      "slug": "ic-volkswagen-id.4",
+      "name": "Volkswagen ID.4 84kWh Pro",
+      "title": "Volkswagen ID.4 84kWh Pro Auto bev 2027",
+      "brand": "Volkswagen",
+      "year": "2027",
+      "powertrain": "Elétrico",
+      "bodyType": "SUV",
+      "seats": "5",
+      "traction": "Dianteira",
+      "transmission": "Automático",
+      "power": "286 cv",
+      "torque": "55,6 kgfm",
+      "range": "N/I",
+      "battery": "N/I",
+      "topSpeed": "N/I",
+      "weight": "2120 Kg",
+      "trunk": "533 L",
+      "image": "data/images/ic-263169-volkswagen-id-4.webp",
+      "sourceImageUrl": "https://img1.icarros.com/dbimg/galeriaimgmodelo/0/156323_1.jpg",
+      "sourceUrl": "https://www.icarros.com.br/catalogo/marcas/volkswagen/id.4",
+      "sourceSite": "iCarros",
+      "sections": {}
+    },
+    {
+      "id": 224587,
+      "slug": "ic-chevrolet-onix",
+      "name": "Chevrolet Onix 1.0 Turbo Activ",
+      "title": "Chevrolet Onix 1.0 Turbo Activ Auto 2027",
+      "brand": "Chevrolet",
+      "year": "2027",
+      "powertrain": "Combustão (Flex)",
+      "bodyType": "Hatch",
+      "seats": "5",
+      "traction": "Dianteira",
+      "transmission": "Automático",
+      "power": "115 cv",
+      "torque": "16,8 kgfm",
+      "range": "8,6 km/l",
+      "battery": "N/I",
+      "topSpeed": "N/I",
+      "weight": "1085 Kg",
+      "trunk": "303 L",
+      "image": "data/images/ic-250196-chevrolet-onix.webp",
+      "sourceImageUrl": "https://img1.icarros.com/dbimg/galeriaimgmodelo/0/155149_1.jpg",
+      "sourceUrl": "https://www.icarros.com.br/catalogo/marcas/chevrolet/onix",
+      "sourceSite": "iCarros",
+      "sections": {}
+    },
+    {
+      "id": 239652,
+      "slug": "ic-toyota-corolla",
+      "name": "Toyota Corolla 2.0 Altis Premium",
+      "title": "Toyota Corolla 2.0 Altis Premium CVT 2026",
+      "brand": "Toyota",
+      "year": "2026",
+      "powertrain": "Combustão (Flex)",
+      "bodyType": "Sedã",
+      "seats": "5",
+      "traction": "Dianteira",
+      "transmission": "Automático",
+      "power": "177 cv",
+      "torque": "21,4 kgfm",
+      "range": "8,0 km/l",
+      "battery": "N/I",
+      "topSpeed": "N/I",
+      "weight": "1415 Kg",
+      "trunk": "470 L",
+      "image": "data/images/ic-253769-toyota-corolla.webp",
+      "sourceImageUrl": "https://img0.icarros.com/dbimg/galeriaimgmodelo/0/150642_1.jpg",
+      "sourceUrl": "https://www.icarros.com.br/catalogo/marcas/toyota/corolla",
+      "sourceSite": "iCarros",
+      "sections": {}
+    },
+    {
+      "id": 277887,
+      "slug": "ic-toyota-hilux-cabine-dupla",
+      "name": "Toyota Hilux Cabine Dupla 2.8",
+      "title": "Toyota Hilux Cabine Dupla 2.8 TDI CD SRX Auto 4x4 4wd 2026",
+      "brand": "Toyota",
+      "year": "2026",
+      "powertrain": "Diesel",
+      "bodyType": "Picape",
+      "seats": "5",
+      "traction": "Dianteira",
+      "transmission": "Automático",
+      "power": "204 cv",
+      "torque": "50,9 kgfm",
+      "range": "9,3 km/l",
+      "battery": "N/I",
+      "topSpeed": "N/I",
+      "weight": "2125 Kg",
+      "trunk": "N/I",
+      "image": "data/images/ic-217630-toyota-hilux-cabine-dupla.webp",
+      "sourceImageUrl": "https://img1.icarros.com/dbimg/galeriaimgmodelo/0/153568_1.jpg",
+      "sourceUrl": "https://www.icarros.com.br/catalogo/marcas/toyota/hilux-cabine-dupla",
+      "sourceSite": "iCarros",
+      "sections": {}
+    },
     {
       "id": 23225,
       "slug": "ex5-em-i",
@@ -417,7 +650,8 @@ window.GUESS_THE_CAR_DATA = {
           "Consumo Cidade": "14.8 Km/L",
           "Consumo Estrada": "13.1 Km/L"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 23213,
@@ -478,7 +712,8 @@ window.GUESS_THE_CAR_DATA = {
           "Potência": "219 cv",
           "Torque": "30,59 kgfm"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 23122,
@@ -535,64 +770,8 @@ window.GUESS_THE_CAR_DATA = {
           "Velocidade Máxima": "160 Km/h",
           "Potência de recarga": "11 kW / 87 kW AC/DC"
         }
-      }
-    },
-    {
-      "id": 23116,
-      "slug": "urban-luxury-43-kwh",
-      "name": "MG4 Urban Luxury 43 kWh",
-      "title": "MG4 Urban Luxury 43 kWh",
-      "brand": "MG Motors",
-      "year": "2027",
-      "powertrain": "Elétrico",
-      "bodyType": "Hatch",
-      "seats": "5",
-      "traction": "Dianteira",
-      "transmission": "Automático",
-      "power": "150 cv",
-      "torque": "25,6 kgfm",
-      "range": "299 Km",
-      "battery": "42.8 kWh",
-      "topSpeed": "160 Km/h",
-      "weight": "1.422 Kg",
-      "trunk": "577 L",
-      "image": "data/images/23116-urban-luxury-43-kwh.jpg",
-      "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2026/08/mg4urban-luxury-43kwh.jpg",
-      "sourceUrl": "https://canalve.com.br/ficha-tecnica/mg-motors/tudo-sobre-urban-luxury-43-kwh/",
-      "sections": {
-        "Identificação": {
-          "Fabricante/Modelo": "MG4 Urban Luxury 43 kWh",
-          "Ano": "2027",
-          "Carroceria": "Hatch",
-          "Motorização": "Elétrico",
-          "Lugares": "5"
-        },
-        "Dimensões": {
-          "Peso": "1.422 Kg",
-          "Comprimento": "4395 mm",
-          "Largura": "1842 mm",
-          "Altura": "1549 mm",
-          "Entre-eixos": "2750 mm",
-          "Porta-malas": "577 L"
-        },
-        "Especificações": {
-          "Tração": "Dianteira",
-          "Câmbio": "Automático",
-          "Suspensão Dianteira": "Independente McPherson",
-          "Suspensão Traseira": "Barra de torção",
-          "Freio Dianteiro": "a disco",
-          "Freio Traseiro": "a disco",
-          "Direção": "C-EPS"
-        },
-        "Motor Elétrico": {
-          "Potência": "150 cv",
-          "Capacidade": "42.8 kWh",
-          "Torque": "25,6 kgfm",
-          "Autonomia": "299 Km",
-          "Velocidade Máxima": "160 Km/h",
-          "Potência de recarga": "11 kW / 82 kW AC/DC"
-        }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 23112,
@@ -649,7 +828,8 @@ window.GUESS_THE_CAR_DATA = {
           "Velocidade Máxima": "160 Km/h",
           "Potência de recarga": "11 kW / 82 kW  AC/DC"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 23110,
@@ -710,7 +890,8 @@ window.GUESS_THE_CAR_DATA = {
           "Potência": "197 cv",
           "Torque": "30,59 kgfm"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 22666,
@@ -765,7 +946,8 @@ window.GUESS_THE_CAR_DATA = {
           "Velocidade Máxima": "170 Km/h",
           "Potência de recarga": "11 kW / 120 kW AC/DC"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 22297,
@@ -822,7 +1004,8 @@ window.GUESS_THE_CAR_DATA = {
           "Velocidade Máxima": "215 Km/h",
           "Potência de recarga": "11 kW / 150 kW AC/DC"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 21724,
@@ -876,7 +1059,8 @@ window.GUESS_THE_CAR_DATA = {
           "Velocidade Máxima": "200 Km/h",
           "Potência de recarga": "11 kW / 205 kW AC/DC"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 21722,
@@ -931,7 +1115,8 @@ window.GUESS_THE_CAR_DATA = {
           "Velocidade Máxima": "160 Km/h",
           "Potência de recarga": "6,6 kW / 80 kW AC/DC"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 21273,
@@ -981,7 +1166,8 @@ window.GUESS_THE_CAR_DATA = {
           "Autonomia": "345 Km",
           "Potência de recarga": "9,9 kW / 80kW AC/DC"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 21263,
@@ -1031,7 +1217,8 @@ window.GUESS_THE_CAR_DATA = {
           "Autonomia": "304 Km",
           "Potência de recarga": "6,6 kW / 120 kW AC/DC"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 21221,
@@ -1088,7 +1275,8 @@ window.GUESS_THE_CAR_DATA = {
           "Transmissão": "DHT",
           "Consumo Cidade": "15.1 Km/L"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 20322,
@@ -1150,7 +1338,8 @@ window.GUESS_THE_CAR_DATA = {
           "Torque": "77,5 kgfm",
           "Alimentação": "Injeção direta"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 20318,
@@ -1200,7 +1389,8 @@ window.GUESS_THE_CAR_DATA = {
           "Autonomia": "279 Km",
           "Potência de recarga": "150 DC AC/DC"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 20317,
@@ -1250,7 +1440,8 @@ window.GUESS_THE_CAR_DATA = {
           "Autonomia": "351 Km",
           "Potência de recarga": "150 DC AC/DC"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 20313,
@@ -1302,7 +1493,8 @@ window.GUESS_THE_CAR_DATA = {
           "Velocidade Máxima": "200 Km/h",
           "Potência de recarga": "11 / 150 AC/DC"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 20310,
@@ -1362,7 +1554,8 @@ window.GUESS_THE_CAR_DATA = {
           "Torque": "23 kgfm",
           "Alimentação": "Injeção direta"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 19958,
@@ -1421,7 +1614,8 @@ window.GUESS_THE_CAR_DATA = {
           "Velocidade Máxima": "158 Km/h",
           "Potência de recarga": "6,6 KW / 60 KW  AC/DC"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 19956,
@@ -1480,7 +1674,8 @@ window.GUESS_THE_CAR_DATA = {
           "Velocidade Máxima": "130 Km/h",
           "Potência de recarga": "6,6 kW / 40kW AC/DC"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 19937,
@@ -1537,7 +1732,8 @@ window.GUESS_THE_CAR_DATA = {
           "Velocidade Máxima": "140 Km/h",
           "Potência de recarga": "6,6 KW / 70KW  AC/DC"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 19905,
@@ -1594,7 +1790,8 @@ window.GUESS_THE_CAR_DATA = {
           "Velocidade Máxima": "140 Km/h",
           "Potência de recarga": "6,6 KW / 70KW  AC/DC"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 19830,
@@ -1657,7 +1854,8 @@ window.GUESS_THE_CAR_DATA = {
           "Consumo Cidade": "14 Km/L",
           "Consumo Estrada": "11.9 Km/L"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 19820,
@@ -1719,7 +1917,8 @@ window.GUESS_THE_CAR_DATA = {
           "Consumo Cidade": "15.1 Km/L",
           "Consumo Estrada": "13.2 Km/L"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 19744,
@@ -1767,7 +1966,8 @@ window.GUESS_THE_CAR_DATA = {
           "Autonomia": "428 Km",
           "Velocidade Máxima": "230 Km/h"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 19693,
@@ -1826,7 +2026,8 @@ window.GUESS_THE_CAR_DATA = {
           "Cilindros": "4",
           "Alimentação": "Injeção direta"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 19359,
@@ -1880,7 +2081,8 @@ window.GUESS_THE_CAR_DATA = {
           "Autonomia": "180 Km",
           "Velocidade Máxima": "130 Km/h"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 18827,
@@ -1889,7 +2091,7 @@ window.GUESS_THE_CAR_DATA = {
       "title": "GWM Haval H6 1.5 PHEV19",
       "brand": "GWM",
       "year": "2025",
-      "powertrain": "Elétrico",
+      "powertrain": "Híbrido Plug-in",
       "bodyType": "SUV",
       "seats": "5",
       "traction": "Dianteira",
@@ -1949,7 +2151,8 @@ window.GUESS_THE_CAR_DATA = {
           "Consumo Cidade": "13.6 Km/L",
           "Consumo Estrada": "12.3 Km/L"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 18790,
@@ -2006,7 +2209,8 @@ window.GUESS_THE_CAR_DATA = {
           "Velocidade Máxima": "170 Km/h",
           "Potência de recarga": "6,6 kW AC/ 84 kW DC AC/DC"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 18781,
@@ -2065,7 +2269,8 @@ window.GUESS_THE_CAR_DATA = {
           "Velocidade Máxima": "190 Km/h",
           "Potência de recarga": "22 kW AC/ 190 kW DC AC/DC"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 18751,
@@ -2074,7 +2279,7 @@ window.GUESS_THE_CAR_DATA = {
       "title": "Chevrolet Equinox",
       "brand": "Chevrolet",
       "year": "2022",
-      "powertrain": "Elétrico",
+      "powertrain": "Híbrido",
       "bodyType": "SUV",
       "seats": "5",
       "traction": "Integral sob demanda",
@@ -2132,7 +2337,8 @@ window.GUESS_THE_CAR_DATA = {
           "Consumo Cidade": "9 Km/L",
           "Consumo Estrada": "10.8 Km/L"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 18732,
@@ -2189,7 +2395,8 @@ window.GUESS_THE_CAR_DATA = {
           "Velocidade Máxima": "130 Km/h",
           "Potência de recarga": "6,6 kW AC/ 68 kW DC AC/DC"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 18726,
@@ -2198,7 +2405,7 @@ window.GUESS_THE_CAR_DATA = {
       "title": "Tiggo 8 Pro PHEV",
       "brand": "Caoa Chery",
       "year": "2025",
-      "powertrain": "Elétrico",
+      "powertrain": "Híbrido Plug-in",
       "bodyType": "SUV",
       "seats": "7",
       "traction": "Dianteira",
@@ -2255,7 +2462,8 @@ window.GUESS_THE_CAR_DATA = {
           "Consumo Cidade": "11 Km/L",
           "Consumo Estrada": "10.9 Km/L"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 18724,
@@ -2264,7 +2472,7 @@ window.GUESS_THE_CAR_DATA = {
       "title": "Tiggo 7 Pro PHEV",
       "brand": "Caoa Chery",
       "year": "2025",
-      "powertrain": "Elétrico",
+      "powertrain": "Híbrido Plug-in",
       "bodyType": "SUV",
       "seats": "5",
       "traction": "Dianteira",
@@ -2324,7 +2532,8 @@ window.GUESS_THE_CAR_DATA = {
           "Consumo Cidade": "12.3 Km/L",
           "Consumo Estrada": "11.9 Km/L"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 18705,
@@ -2381,7 +2590,8 @@ window.GUESS_THE_CAR_DATA = {
           "Velocidade Máxima": "190 Km/h",
           "Potência de recarga": "22 kW AC/ 153 kW DC AC/DC"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 18676,
@@ -2438,7 +2648,8 @@ window.GUESS_THE_CAR_DATA = {
           "Velocidade Máxima": "200 Km/h",
           "Potência de recarga": "22 kW AC/ 200 kW DC AC/DC"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 18670,
@@ -2497,7 +2708,8 @@ window.GUESS_THE_CAR_DATA = {
           "Velocidade Máxima": "180 Km/h",
           "Potência de recarga": "11 kW AC/ 100 kW DC AC/DC"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 18668,
@@ -2556,7 +2768,8 @@ window.GUESS_THE_CAR_DATA = {
           "Velocidade Máxima": "180 Km/h",
           "Potência de recarga": "11 kW/h DC AC/DC"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 18333,
@@ -2615,7 +2828,8 @@ window.GUESS_THE_CAR_DATA = {
           "Autonomia": "430 Km",
           "Velocidade Máxima": "190 Km/h"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 18303,
@@ -2672,7 +2886,8 @@ window.GUESS_THE_CAR_DATA = {
           "Torque": "26,5 kgfm",
           "Autonomia": "23 Km"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 18074,
@@ -2741,7 +2956,8 @@ window.GUESS_THE_CAR_DATA = {
           "Consumo Cidade": "10.3 Km/L",
           "Consumo Estrada": "10.3 Km/L"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 17346,
@@ -2750,7 +2966,7 @@ window.GUESS_THE_CAR_DATA = {
       "title": "CAOA Chery Tiggo 8 Pro",
       "brand": "Caoa Chery",
       "year": "2025",
-      "powertrain": "Elétrico",
+      "powertrain": "Híbrido",
       "bodyType": "SUV",
       "seats": "7",
       "traction": "Dianteira",
@@ -2806,7 +3022,8 @@ window.GUESS_THE_CAR_DATA = {
           "Consumo Cidade": "11 Km/L",
           "Consumo Estrada": "10.9 Km/L"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 17344,
@@ -2875,7 +3092,8 @@ window.GUESS_THE_CAR_DATA = {
           "Consumo Cidade": "10.1 Km/L",
           "Consumo Estrada": "11.2 Km/L"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 17343,
@@ -2884,7 +3102,7 @@ window.GUESS_THE_CAR_DATA = {
       "title": "Volvo XC60 Plus T8 2.0",
       "brand": "Volvo",
       "year": "2025",
-      "powertrain": "Elétrico",
+      "powertrain": "Híbrido Plug-in",
       "bodyType": "SUV",
       "seats": "5",
       "traction": "Integral sob demanda",
@@ -2943,7 +3161,8 @@ window.GUESS_THE_CAR_DATA = {
           "Consumo Cidade": "9.5 Km/L",
           "Consumo Estrada": "9.4 Km/L"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 17340,
@@ -3013,7 +3232,8 @@ window.GUESS_THE_CAR_DATA = {
           "Consumo Cidade": "16 Km/L",
           "Consumo Estrada": "19.1 Km/L"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 17338,
@@ -3078,7 +3298,8 @@ window.GUESS_THE_CAR_DATA = {
           "Alimentação": "Injeção direta",
           "Consumo Cidade": "10.4 Km/L"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 17336,
@@ -3147,7 +3368,8 @@ window.GUESS_THE_CAR_DATA = {
           "Consumo Cidade": "11.4 Km/L",
           "Consumo Estrada": "10.4 Km/L"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 17335,
@@ -3215,7 +3437,8 @@ window.GUESS_THE_CAR_DATA = {
           "Consumo Cidade": "11.4 Km/L",
           "Consumo Estrada": "10.4 Km/L"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 17333,
@@ -3283,7 +3506,8 @@ window.GUESS_THE_CAR_DATA = {
           "Consumo Cidade": "15.2 Km/L",
           "Consumo Estrada": "13.2 Km/L"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 17332,
@@ -3292,7 +3516,7 @@ window.GUESS_THE_CAR_DATA = {
       "title": "BYD Song Plus GS DM",
       "brand": "BYD",
       "year": "2025",
-      "powertrain": "Elétrico",
+      "powertrain": "Híbrido Plug-in",
       "bodyType": "SUV",
       "seats": "5",
       "traction": "Dianteira",
@@ -3351,7 +3575,8 @@ window.GUESS_THE_CAR_DATA = {
           "Consumo Cidade": "14.9 Km/L",
           "Consumo Estrada": "12.1 Km/L"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 17331,
@@ -3421,7 +3646,8 @@ window.GUESS_THE_CAR_DATA = {
           "Consumo Cidade": "14.7 Km/L",
           "Consumo Estrada": "805 Km/L"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 17330,
@@ -3430,7 +3656,7 @@ window.GUESS_THE_CAR_DATA = {
       "title": "BYD King GL DM",
       "brand": "BYD",
       "year": "2025",
-      "powertrain": "Elétrico",
+      "powertrain": "Híbrido Plug-in",
       "bodyType": "Sedã",
       "seats": "5",
       "traction": "Dianteira",
@@ -3490,7 +3716,8 @@ window.GUESS_THE_CAR_DATA = {
           "Consumo Cidade": "16.3 Km/L",
           "Consumo Estrada": "14.3 Km/L"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 17325,
@@ -3499,7 +3726,7 @@ window.GUESS_THE_CAR_DATA = {
       "title": "BMW X6 xDrive 40i M Sport 3.0",
       "brand": "BMW",
       "year": "2024",
-      "powertrain": "Elétrico",
+      "powertrain": "Híbrido",
       "bodyType": "SUV",
       "seats": "5",
       "traction": "Integral sob demanda",
@@ -3558,7 +3785,8 @@ window.GUESS_THE_CAR_DATA = {
           "Consumo Cidade": "9 Km/L",
           "Consumo Estrada": "9.7 Km/L"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 17324,
@@ -3567,7 +3795,7 @@ window.GUESS_THE_CAR_DATA = {
       "title": "BMW X3 xDrive 30e",
       "brand": "BMW",
       "year": "2023",
-      "powertrain": "Elétrico",
+      "powertrain": "Híbrido Plug-in",
       "bodyType": "SUV",
       "seats": "5",
       "traction": "Integral sob demanda",
@@ -3627,7 +3855,8 @@ window.GUESS_THE_CAR_DATA = {
           "Consumo Cidade": "8.1 Km/L",
           "Consumo Estrada": "9.6 Km/L"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 17323,
@@ -3697,7 +3926,8 @@ window.GUESS_THE_CAR_DATA = {
           "Consumo Cidade": "9.5 Km/L",
           "Consumo Estrada": "11.2 Km/L"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 17322,
@@ -3706,7 +3936,7 @@ window.GUESS_THE_CAR_DATA = {
       "title": "Audi Q5 Sportback Performance 2.0 TFSI",
       "brand": "Audi",
       "year": "2023",
-      "powertrain": "Elétrico",
+      "powertrain": "Híbrido",
       "bodyType": "SUV",
       "seats": "5",
       "traction": "Integral sob demanda",
@@ -3766,7 +3996,8 @@ window.GUESS_THE_CAR_DATA = {
           "Consumo Cidade": "8.6 Km/L",
           "Consumo Estrada": "8.9 Km/L"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 17321,
@@ -3835,7 +4066,8 @@ window.GUESS_THE_CAR_DATA = {
           "Consumo Cidade": "13.8 Km/L",
           "Consumo Estrada": "12 Km/L"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 17319,
@@ -3844,7 +4076,7 @@ window.GUESS_THE_CAR_DATA = {
       "title": "Toyota RAV4 SX Connect Hybrid 2.5",
       "brand": "Toyota",
       "year": "2022",
-      "powertrain": "Elétrico",
+      "powertrain": "Híbrido",
       "bodyType": "SUV",
       "seats": "5",
       "traction": "Integral sob demanda",
@@ -3903,7 +4135,8 @@ window.GUESS_THE_CAR_DATA = {
           "Consumo Cidade": "17.1 Km/L",
           "Consumo Estrada": "14.5 Km/L"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 17318,
@@ -3972,7 +4205,8 @@ window.GUESS_THE_CAR_DATA = {
           "Consumo Cidade": "17.1 Km/L",
           "Consumo Estrada": "14.5 Km/L"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 17317,
@@ -4041,7 +4275,8 @@ window.GUESS_THE_CAR_DATA = {
           "Consumo Cidade": "11.1 Km/L",
           "Consumo Estrada": "13.9 Km/L"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 17316,
@@ -4109,7 +4344,8 @@ window.GUESS_THE_CAR_DATA = {
           "Alimentação": "Injeção multiponto",
           "Consumo Cidade": "14.7 Km/L"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 17315,
@@ -4179,7 +4415,8 @@ window.GUESS_THE_CAR_DATA = {
           "Consumo Cidade": "15.3 Km/L",
           "Consumo Estrada": "12.9 Km/L"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 17313,
@@ -4250,7 +4487,8 @@ window.GUESS_THE_CAR_DATA = {
           "Consumo Cidade": "15.7 Km/L",
           "Consumo Estrada": "13.8 Km/L"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 17303,
@@ -4259,7 +4497,7 @@ window.GUESS_THE_CAR_DATA = {
       "title": "Lexus ES300h",
       "brand": "Lexus",
       "year": "2023",
-      "powertrain": "Elétrico",
+      "powertrain": "Híbrido",
       "bodyType": "Sedã",
       "seats": "5",
       "traction": "Dianteira",
@@ -4320,7 +4558,8 @@ window.GUESS_THE_CAR_DATA = {
           "Consumo Cidade": "15.8 Km/L",
           "Consumo Estrada": "15.2 Km/L"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 17302,
@@ -4390,7 +4629,8 @@ window.GUESS_THE_CAR_DATA = {
           "Consumo Cidade": "19.8 Km/L",
           "Consumo Estrada": "18.7 Km/L"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 17301,
@@ -4459,7 +4699,8 @@ window.GUESS_THE_CAR_DATA = {
           "Consumo Cidade": "19.6 Km/L",
           "Consumo Estrada": "17.4 Km/L"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 17300,
@@ -4469,7 +4710,7 @@ window.GUESS_THE_CAR_DATA = {
       "brand": "Hyundai",
       "year": "2023",
       "powertrain": "Híbrido",
-      "bodyType": "Hatchback",
+      "bodyType": "Hatch",
       "seats": "5",
       "traction": "Dianteira",
       "transmission": "Automatizado (6 marchas)",
@@ -4527,7 +4768,8 @@ window.GUESS_THE_CAR_DATA = {
           "Consumo Cidade": "18.9 Km/L",
           "Consumo Estrada": "19.8 Km/L"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 17293,
@@ -4596,7 +4838,8 @@ window.GUESS_THE_CAR_DATA = {
           "Consumo Cidade": "14.2 Km/L",
           "Consumo Estrada": "11.6 Km/L"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 17292,
@@ -4666,7 +4909,8 @@ window.GUESS_THE_CAR_DATA = {
           "Consumo Cidade": "18.3 Km/L",
           "Consumo Estrada": "15.9 Km/L"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 17291,
@@ -4735,7 +4979,8 @@ window.GUESS_THE_CAR_DATA = {
           "Consumo Cidade": "17.8 Km/L",
           "Consumo Estrada": "16.1 Km/L"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 17290,
@@ -4797,7 +5042,8 @@ window.GUESS_THE_CAR_DATA = {
           "Consumo Cidade": "15.7 Km/L",
           "Consumo Estrada": "13.6 Km/L"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 17281,
@@ -4857,7 +5103,8 @@ window.GUESS_THE_CAR_DATA = {
           "Velocidade Máxima": "180 Km/h",
           "Potência de recarga": "11 /153  AC/DC"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 17280,
@@ -4917,7 +5164,8 @@ window.GUESS_THE_CAR_DATA = {
           "Velocidade Máxima": "180 Km/h",
           "Potência de recarga": "150  AC/DC"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 17279,
@@ -4977,7 +5225,8 @@ window.GUESS_THE_CAR_DATA = {
           "Velocidade Máxima": "180 Km/h",
           "Potência de recarga": "11 /150  AC/DC"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 17273,
@@ -4987,7 +5236,7 @@ window.GUESS_THE_CAR_DATA = {
       "brand": "Renault",
       "year": "2023",
       "powertrain": "Elétrico",
-      "bodyType": "Hatchback",
+      "bodyType": "Hatch",
       "seats": "4",
       "traction": "Dianteira",
       "transmission": "Automático (1 marcha)",
@@ -5035,7 +5284,8 @@ window.GUESS_THE_CAR_DATA = {
           "Velocidade Máxima": "130 Km/h",
           "Potência de recarga": "7 /30  AC/DC"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 17264,
@@ -5045,7 +5295,7 @@ window.GUESS_THE_CAR_DATA = {
       "brand": "ORA",
       "year": "2024",
       "powertrain": "Elétrico",
-      "bodyType": "Hatchback",
+      "bodyType": "Hatch",
       "seats": "5",
       "traction": "Dianteira",
       "transmission": "Automático (1 marcha)",
@@ -5096,7 +5346,8 @@ window.GUESS_THE_CAR_DATA = {
           "Velocidade Máxima": "160 Km/h",
           "Potência de recarga": "11 /64  AC/DC"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 17259,
@@ -5106,7 +5357,7 @@ window.GUESS_THE_CAR_DATA = {
       "brand": "ORA",
       "year": "2024",
       "powertrain": "Elétrico",
-      "bodyType": "Hatchback",
+      "bodyType": "Hatch",
       "seats": "5",
       "traction": "Dianteira",
       "transmission": "Automático (1 marcha)",
@@ -5157,7 +5408,8 @@ window.GUESS_THE_CAR_DATA = {
           "Velocidade Máxima": "160 Km/h",
           "Potência de recarga": "11/67  AC/DC"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 17248,
@@ -5167,7 +5419,7 @@ window.GUESS_THE_CAR_DATA = {
       "brand": "JAC",
       "year": "2023",
       "powertrain": "Elétrico",
-      "bodyType": "Hatchback",
+      "bodyType": "Hatch",
       "seats": "5",
       "traction": "Dianteira",
       "transmission": "Automático (1 marcha)",
@@ -5214,7 +5466,8 @@ window.GUESS_THE_CAR_DATA = {
           "Velocidade Máxima": "110 Km/h",
           "Potência de recarga": "7 /40  AC/DC"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 17247,
@@ -5224,7 +5477,7 @@ window.GUESS_THE_CAR_DATA = {
       "brand": "Caoa Chery",
       "year": "2023",
       "powertrain": "Elétrico",
-      "bodyType": "Hatchback",
+      "bodyType": "Hatch",
       "seats": "5",
       "traction": "Traseira",
       "transmission": "Automático (1 marcha)",
@@ -5270,7 +5523,8 @@ window.GUESS_THE_CAR_DATA = {
           "Autonomia": "197 Km",
           "Velocidade Máxima": "120 Km/h"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 17246,
@@ -5328,7 +5582,8 @@ window.GUESS_THE_CAR_DATA = {
           "Autonomia": "250 Km",
           "Velocidade Máxima": "160 Km/h"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 17244,
@@ -5370,7 +5625,8 @@ window.GUESS_THE_CAR_DATA = {
           "Entre-eixos": "2720 mm",
           "Porta-malas": "440 L"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 17243,
@@ -5429,7 +5685,8 @@ window.GUESS_THE_CAR_DATA = {
           "Autonomia": "372 Km",
           "Velocidade Máxima": "180 Km/h"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 17242,
@@ -5439,7 +5696,7 @@ window.GUESS_THE_CAR_DATA = {
       "brand": "BYD",
       "year": "2024",
       "powertrain": "Elétrico",
-      "bodyType": "Hatchback",
+      "bodyType": "Hatch",
       "seats": "5",
       "traction": "Dianteira",
       "transmission": "Automático (1 marcha)",
@@ -5490,7 +5747,8 @@ window.GUESS_THE_CAR_DATA = {
           "Velocidade Máxima": "159 Km/h",
           "Potência de recarga": "7 /80  AC/DC"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 17241,
@@ -5500,7 +5758,7 @@ window.GUESS_THE_CAR_DATA = {
       "brand": "BYD",
       "year": "2025",
       "powertrain": "Elétrico",
-      "bodyType": "Hatchback",
+      "bodyType": "Hatch",
       "seats": "4",
       "traction": "Dianteira",
       "transmission": "Automático (1 marcha)",
@@ -5551,68 +5809,8 @@ window.GUESS_THE_CAR_DATA = {
           "Velocidade Máxima": "130 Km/h",
           "Potência de recarga": "6,6 /40  AC/DC"
         }
-      }
-    },
-    {
-      "id": 17240,
-      "slug": "dolphin-mini-gs5",
-      "name": "BYD Dolphin Mini GS5",
-      "title": "BYD Dolphin Mini GS5",
-      "brand": "BYD",
-      "year": "2025",
-      "powertrain": "Elétrico",
-      "bodyType": "Hatchback",
-      "seats": "4",
-      "traction": "Dianteira",
-      "transmission": "Automático (1 marcha)",
-      "power": "75 cv",
-      "torque": "13,7 kgfm",
-      "range": "280 Km",
-      "battery": "38 kWh",
-      "topSpeed": "130 Km/h",
-      "weight": "1239 Kg",
-      "trunk": "230 L",
-      "image": "data/images/17240-dolphin-mini-gs5.png",
-      "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/05/byd-dolphin-mini.png",
-      "sourceUrl": "https://canalve.com.br/ficha-tecnica/byd/tudo-sobre-dolphin-mini-gs5/",
-      "sections": {
-        "Identificação": {
-          "Fabricante/Modelo": "BYD Dolphin Mini GS5",
-          "Ano": "2025",
-          "Carroceria": "Hatchback",
-          "Motorização": "Elétrico",
-          "Lugares": "4",
-          "Plataforma": "e-Platform 3.0",
-          "Série": "Ocean"
-        },
-        "Dimensões": {
-          "Peso": "1239 Kg",
-          "Comprimento": "3780 mm",
-          "Largura": "1710 mm",
-          "Altura": "1580 mm",
-          "Entre-eixos": "2500 mm",
-          "Bitola dianteira": "1500 mm",
-          "Bitola traseira": "1500 mm",
-          "Porta-malas": "230 L"
-        },
-        "Especificações": {
-          "Tração": "Dianteira",
-          "Câmbio": "Automático (1 marcha)",
-          "Suspensão Dianteira": "Independente",
-          "Suspensão Traseira": "Eixo de torção",
-          "Freio Dianteiro": "Disco ventilado",
-          "Freio Traseiro": "Disco sólido",
-          "Direção": "Elétrica"
-        },
-        "Motor Elétrico": {
-          "Potência": "75 cv",
-          "Capacidade": "38 kWh",
-          "Torque": "13,7 kgfm",
-          "Autonomia": "280 Km",
-          "Velocidade Máxima": "130 Km/h",
-          "Potência de recarga": "6,6 /40  AC/DC"
-        }
-      }
+      },
+      "sourceSite": "Canal VE"
     },
     {
       "id": 17235,
@@ -5622,7 +5820,7 @@ window.GUESS_THE_CAR_DATA = {
       "brand": "BYD",
       "year": "2024",
       "powertrain": "Elétrico",
-      "bodyType": "Hatchback",
+      "bodyType": "Hatch",
       "seats": "4",
       "traction": "Dianteira",
       "transmission": "Automático (1 marcha)",
@@ -5673,7 +5871,233 @@ window.GUESS_THE_CAR_DATA = {
           "Velocidade Máxima": "160 Km/h",
           "Potência de recarga": "6,6 / 60  AC/DC"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
+    },
+    {
+      "id": 149061,
+      "slug": "cnw-49061-chevrolet-onix-sedan-eco-1-0-turbo-at",
+      "name": "Chevrolet Onix Sedan Eco 1.0 Turbo AT",
+      "title": "Chevrolet Onix Sedan Eco 1.0 Turbo AT",
+      "brand": "Chevrolet",
+      "year": "2027",
+      "powertrain": "Combustão (Flex)",
+      "bodyType": "Sedã",
+      "seats": "5",
+      "traction": "Dianteira",
+      "transmission": "Automático",
+      "power": "121 cv",
+      "torque": "18,9 kgfm",
+      "range": "488 km",
+      "battery": "N/I",
+      "topSpeed": "180 km/h",
+      "weight": "1102 Kg",
+      "trunk": "500 L",
+      "image": "data/images/cnw-49061-chevrolet-onix-sedan-eco-1-0-turbo-at.jpg",
+      "sourceImageUrl": "https://www.carrosnaweb.com.br/imagensbd007/Onix-Sedan-Turbo-AT-2026-1.jpg",
+      "sourceUrl": "https://www.carrosnaweb.com.br/fichadetalhe.asp?codigo=49061",
+      "sourceSite": "Carros na Web",
+      "sections": {}
+    },
+    {
+      "id": 149021,
+      "slug": "cnw-49021-chevrolet-onix-eco-1-0-turbo-at",
+      "name": "Chevrolet Onix Eco 1.0 Turbo AT",
+      "title": "Chevrolet Onix Eco 1.0 Turbo AT",
+      "brand": "Chevrolet",
+      "year": "2027",
+      "powertrain": "Combustão (Flex)",
+      "bodyType": "Hatch",
+      "seats": "5",
+      "traction": "Dianteira",
+      "transmission": "Automático",
+      "power": "121 cv",
+      "torque": "18,9 kgfm",
+      "range": "470 km",
+      "battery": "N/I",
+      "topSpeed": "180 km/h",
+      "weight": "1085 Kg",
+      "trunk": "303 L",
+      "image": "data/images/cnw-49021-chevrolet-onix-eco-1-0-turbo-at.jpg",
+      "sourceImageUrl": "https://www.carrosnaweb.com.br/imagensbd007/onix-eco-2027-1.jpg",
+      "sourceUrl": "https://www.carrosnaweb.com.br/fichadetalhe.asp?codigo=49021",
+      "sourceSite": "Carros na Web",
+      "sections": {}
+    },
+    {
+      "id": 152317,
+      "slug": "cnw-52317-volkswagen-saveiro-robust-etanol-1-6-cs",
+      "name": "Volkswagen Saveiro Robust Etanol 1.6 CS",
+      "title": "Volkswagen Saveiro Robust Etanol 1.6 CS",
+      "brand": "Volkswagen",
+      "year": "2027",
+      "powertrain": "Combustão (Flex)",
+      "bodyType": "Picape",
+      "seats": "2",
+      "traction": "Dianteira",
+      "transmission": "Manual",
+      "power": "116 cv",
+      "torque": "16,1 kgfm",
+      "range": "490 km",
+      "battery": "N/I",
+      "topSpeed": "181 km/h",
+      "weight": "1075 Kg",
+      "trunk": "924 L",
+      "image": "data/images/cnw-52317-volkswagen-saveiro-robust-etanol-1-6-cs.jpg",
+      "sourceImageUrl": "https://www.carrosnaweb.com.br/imagensbd007/saveiro-robust-cs-2024-1.jpg",
+      "sourceUrl": "https://www.carrosnaweb.com.br/fichadetalhe.asp?codigo=52317",
+      "sourceSite": "Carros na Web",
+      "sections": {}
+    },
+    {
+      "id": 148669,
+      "slug": "cnw-48669-gac-aion-ut-elite",
+      "name": "GAC Aion UT Elite",
+      "title": "GAC Aion UT Elite",
+      "brand": "GAC",
+      "year": "2027",
+      "powertrain": "Elétrico",
+      "bodyType": "Hatch",
+      "seats": "5",
+      "traction": "Dianteira",
+      "transmission": "Automático",
+      "power": "136 cv",
+      "torque": "21,4 kgfm",
+      "range": "350 km",
+      "battery": "44 kWh",
+      "topSpeed": "150 km/h",
+      "weight": "1510 Kg",
+      "trunk": "440 L",
+      "image": "data/images/cnw-48669-gac-aion-ut-elite.jpg",
+      "sourceImageUrl": "https://www.carrosnaweb.com.br/imagensbd007/Aion-UT-2026-1.jpg",
+      "sourceUrl": "https://www.carrosnaweb.com.br/fichadetalhe.asp?codigo=48669",
+      "sourceSite": "Carros na Web",
+      "sections": {}
+    },
+    {
+      "id": 147777,
+      "slug": "cnw-47777-dongfeng-vigo-urban-plus",
+      "name": "Dongfeng Vigo Urban Plus",
+      "title": "Dongfeng Vigo Urban Plus",
+      "brand": "Dongfeng",
+      "year": "2027",
+      "powertrain": "Elétrico",
+      "bodyType": "SUV",
+      "seats": "5",
+      "traction": "Dianteira",
+      "transmission": "Automático",
+      "power": "95 cv",
+      "torque": "16,3 kgfm",
+      "range": "300 km",
+      "battery": "42 kWh",
+      "topSpeed": "140 km/h",
+      "weight": "1380 Kg",
+      "trunk": "326 L",
+      "image": "data/images/cnw-47777-dongfeng-vigo-urban-plus.jpg",
+      "sourceImageUrl": "https://www.carrosnaweb.com.br/imagensbd007/Vigo-2026-1.jpg",
+      "sourceUrl": "https://www.carrosnaweb.com.br/fichadetalhe.asp?codigo=47777",
+      "sourceSite": "Carros na Web",
+      "sections": {}
+    },
+    {
+      "id": 147796,
+      "slug": "cnw-47796-baic-arcfox-t1-pro",
+      "name": "BAIC Arcfox T1 Pro",
+      "title": "BAIC Arcfox T1 Pro",
+      "brand": "BAIC",
+      "year": "2027",
+      "powertrain": "Elétrico",
+      "bodyType": "Hatch",
+      "seats": "5",
+      "traction": "Dianteira",
+      "transmission": "Automático",
+      "power": "163 cv",
+      "torque": "24,5 kgfm",
+      "range": "320 km",
+      "battery": "48 kWh",
+      "topSpeed": "155 km/h",
+      "weight": "1490 Kg",
+      "trunk": "380 L",
+      "image": "data/images/cnw-47796-baic-arcfox-t1-pro.jpg",
+      "sourceImageUrl": "https://www.carrosnaweb.com.br/imagensbd007/Arcfox-T1-2026-1.jpg",
+      "sourceUrl": "https://www.carrosnaweb.com.br/fichadetalhe.asp?codigo=47796",
+      "sourceSite": "Carros na Web",
+      "sections": {}
+    },
+    {
+      "id": 151145,
+      "slug": "cnw-51145-renault-kardian-vibe-1-0",
+      "name": "Renault Kardian Vibe 1.0",
+      "title": "Renault Kardian Vibe 1.0",
+      "brand": "Renault",
+      "year": "2027",
+      "powertrain": "Combustão (Flex)",
+      "bodyType": "SUV",
+      "seats": "5",
+      "traction": "Dianteira",
+      "transmission": "Manual",
+      "power": "125 cv",
+      "torque": "22,4 kgfm",
+      "range": "450 km",
+      "battery": "N/I",
+      "topSpeed": "180 km/h",
+      "weight": "1186 Kg",
+      "trunk": "358 L",
+      "image": "data/images/cnw-51145-renault-kardian-vibe-1-0.jpg",
+      "sourceImageUrl": "https://www.carrosnaweb.com.br/imagensbd007/kardian-vibe-2026-1.jpg",
+      "sourceUrl": "https://www.carrosnaweb.com.br/fichadetalhe.asp?codigo=51145",
+      "sourceSite": "Carros na Web",
+      "sections": {}
+    },
+    {
+      "id": 151919,
+      "slug": "cnw-51919-omoda-qq-ev",
+      "name": "Omoda QQ EV",
+      "title": "Omoda QQ EV",
+      "brand": "Omoda",
+      "year": "2027",
+      "powertrain": "Elétrico",
+      "bodyType": "Hatch",
+      "seats": "4",
+      "traction": "Traseira",
+      "transmission": "Automático",
+      "power": "75 cv",
+      "torque": "15,3 kgfm",
+      "range": "250 km",
+      "battery": "30 kWh",
+      "topSpeed": "120 km/h",
+      "weight": "1120 Kg",
+      "trunk": "220 L",
+      "image": "data/images/cnw-51919-omoda-qq-ev.jpg",
+      "sourceImageUrl": "https://www.carrosnaweb.com.br/imagensbd007/qq-ev-2027-1.jpg",
+      "sourceUrl": "https://www.carrosnaweb.com.br/fichadetalhe.asp?codigo=51919",
+      "sourceSite": "Carros na Web",
+      "sections": {}
+    },
+    {
+      "id": 151009,
+      "slug": "cnw-51009-leapmotor-b05-bev",
+      "name": "Leapmotor B05 BEV",
+      "title": "Leapmotor B05 BEV",
+      "brand": "Leapmotor",
+      "year": "2027",
+      "powertrain": "Elétrico",
+      "bodyType": "Hatch",
+      "seats": "5",
+      "traction": "Traseira",
+      "transmission": "Automático",
+      "power": "218 cv",
+      "torque": "24,5 kgfm",
+      "range": "420 km",
+      "battery": "56 kWh",
+      "topSpeed": "170 km/h",
+      "weight": "1615 Kg",
+      "trunk": "410 L",
+      "image": "data/images/cnw-51009-leapmotor-b05-bev.jpg",
+      "sourceImageUrl": "https://www.carrosnaweb.com.br/imagensbd007/b05-2027-1.jpg",
+      "sourceUrl": "https://www.carrosnaweb.com.br/fichadetalhe.asp?codigo=51009",
+      "sourceSite": "Carros na Web",
+      "sections": {}
     }
   ]
 };

@@ -2,7 +2,7 @@
 
 👉 **Jogue online:** [https://eduardofelipecpdb.github.io/guess-the-car/](https://eduardofelipecpdb.github.io/guess-the-car/)
 
-Jogo web responsivo onde você tenta adivinhar **3 carros por dia** a partir da foto com zoom progressivo e dicas da ficha técnica extraídas do portal [Canal VE — Ficha Técnica](https://canalve.com.br/ficha-tecnica/).
+Jogo web responsivo onde você tenta adivinhar **3 carros por dia** a partir da foto com zoom progressivo e dicas da ficha técnica extraídas dos portais [Canal VE](https://canalve.com.br/ficha-tecnica/), [Carros na Web](https://www.carrosnaweb.com.br/catalogo.asp) e [iCarros](https://www.icarros.com.br/catalogo/).
 
 ## ✨ Funcionalidades
 
@@ -40,9 +40,13 @@ python scripts/daily_shuffle.py --force
 python scripts/daily_shuffle.py --reshuffle
 ```
 
-### 2. Atualizar catálogo e fotos do site Canal VE
+### 2. Atualizar catálogo e fotos (Canal VE + Carros na Web + iCarros)
 ```bash
+# Escaneia os 3 portais (Canal VE, Carros na Web e iCarros)
 python scripts/scrape_cars.py
+
+# Ou escaneia apenas fontes específicas com limite configurável:
+python scripts/scrape_cars.py --sources carrosnaweb,icarros --cnw-pages 10 --icarros-limit 60
 ```
-O script consulta a API e as páginas de ficha técnica de `https://canalve.com.br/ficha-tecnica/`, salva todas as especificações em `data/cars.json` e baixa as imagens em `data/images/`.
+O script extrai as fichas técnicas e baixa as fotos de `https://canalve.com.br/ficha-tecnica/`, `https://www.carrosnaweb.com.br/catalogo.asp` e `https://www.icarros.com.br/catalogo/`, consolidando tudo sem duplicatas em `data/cars.json` e `data/images/`.
 

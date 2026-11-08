@@ -1,355 +1,363 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "roundNumber": 1,
-  "updatedAt": "2026-11-07T20:37:36",
+  "updatedAt": "2026-11-08T10:02:30",
   "carsPerDay": 3,
-  "totalCatalogCars": 86,
-  "remainingInDeck": 75,
+  "totalCatalogCars": 102,
+  "remainingInDeck": 9,
   "todayIds": [
-    18303,
-    17248,
-    18074
+    17338,
+    20322,
+    17235
   ],
   "todayCars": [
     {
-      "id": 18303,
-      "slug": "e-2008-gt",
-      "name": "Peugeot E-2008 GT",
-      "title": "Peugeot E-2008 GT",
-      "brand": "Peugeot",
-      "year": "2023",
-      "powertrain": "Elétrico",
-      "bodyType": "SUV",
-      "seats": "5",
-      "traction": "Dianteira",
-      "transmission": "Automático (1 marcha)",
-      "power": "136 cv",
-      "torque": "26,5 kgfm",
-      "range": "23 Km",
-      "battery": "50 kWh",
-      "topSpeed": "N/I",
-      "weight": "1630 Kg",
-      "trunk": "375 L",
-      "image": "data/images/18303-e-2008-gt.png",
-      "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/07/peugeot-e.png",
-      "sourceUrl": "https://canalve.com.br/ficha-tecnica/sem-fabricante/tudo-sobre-e-2008-gt/",
-      "sections": {
-        "Identificação": {
-          "Fabricante/Modelo": "Peugeot E-2008 GT",
-          "Ano": "2023",
-          "Carroceria": "SUV",
-          "Lugares": "5",
-          "Plataforma": "e-CMP"
-        },
-        "Dimensões": {
-          "Peso": "1630 Kg",
-          "Comprimento": "4300 mm",
-          "Largura": "1770 mm",
-          "Altura": "1550 mm",
-          "Entre-eixos": "2605 mm",
-          "Bitola dianteira": "1540 mm",
-          "Bitola traseira": "1540 mm",
-          "Porta-malas": "375 L"
-        },
-        "Especificações": {
-          "Tração": "Dianteira",
-          "Câmbio": "Automático (1 marcha)",
-          "Suspensão Dianteira": "Independente",
-          "Suspensão Traseira": "Eixo de torção",
-          "Freio Dianteiro": "Disco ventilado",
-          "Freio Traseiro": "Disco sólido",
-          "Direção": "Elétrica"
-        },
-        "Motor Elétrico": {
-          "Potência": "136 cv",
-          "Capacidade": "50 kWh",
-          "Torque": "26,5 kgfm",
-          "Autonomia": "23 Km"
-        }
-      }
-    },
-    {
-      "id": 17248,
-      "slug": "ejs-1",
-      "name": "JAC EJS 1",
-      "title": "JAC EJS 1",
-      "brand": "JAC",
-      "year": "2023",
-      "powertrain": "Elétrico",
-      "bodyType": "Hatchback",
-      "seats": "5",
-      "traction": "Dianteira",
-      "transmission": "Automático (1 marcha)",
-      "power": "62  cv",
-      "torque": "15,3  kgfm",
-      "range": "161 Km",
-      "battery": "30.2 kWh",
-      "topSpeed": "110 Km/h",
-      "weight": "1180 Kg",
-      "trunk": "121 L",
-      "image": "data/images/17248-ejs-1.webp",
-      "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/05/JAC-E-JS1-jpg.webp",
-      "sourceUrl": "https://canalve.com.br/ficha-tecnica/jac/tudo-sobre-ejs-1/",
-      "sections": {
-        "Identificação": {
-          "Fabricante/Modelo": "JAC EJS 1",
-          "Ano": "2023",
-          "Carroceria": "Hatchback",
-          "Motorização": "Elétrico",
-          "Lugares": "5"
-        },
-        "Dimensões": {
-          "Peso": "1180 Kg",
-          "Comprimento": "3650 mm",
-          "Largura": "1670 mm",
-          "Altura": "1540 mm",
-          "Entre-eixos": "2390 mm",
-          "Porta-malas": "121 L"
-        },
-        "Especificações": {
-          "Tração": "Dianteira",
-          "Câmbio": "Automático (1 marcha)",
-          "Suspensão Dianteira": "Independente",
-          "Suspensão Traseira": "Eixo de torção",
-          "Freio Dianteiro": "Disco ventilado",
-          "Freio Traseiro": "Disco sólido",
-          "Direção": "Elétrica"
-        },
-        "Motor Elétrico": {
-          "Potência": "62  cv",
-          "Capacidade": "30.2 kWh",
-          "Torque": "15,3  kgfm",
-          "Autonomia": "161 Km",
-          "Velocidade Máxima": "110 Km/h",
-          "Potência de recarga": "7 /40  AC/DC"
-        }
-      }
-    },
-    {
-      "id": 18074,
-      "slug": "xc90-ultimate-t8",
-      "name": "Volvo XC90 Ultimate T8",
-      "title": "Volvo XC90 Ultimate T8",
-      "brand": "Volvo",
-      "year": "2024",
+      "id": 17338,
+      "slug": "tank-300-2-0",
+      "name": "GWM Tank 300 2.0",
+      "title": "GWM Tank 300 2.0",
+      "brand": "GWM",
+      "year": "2025",
       "powertrain": "Híbrido Plug-in",
-      "bodyType": "SUV",
-      "seats": "7",
-      "traction": "Integral sob demanda",
-      "transmission": "Automático (8 marchas)",
-      "power": "145  cv",
-      "torque": "31,5 kgfm",
-      "range": "49 Km",
-      "battery": "18.8 kWh",
-      "topSpeed": "180 Km/h",
-      "weight": "2354 Kg",
-      "trunk": "500 L",
-      "image": "data/images/18074-xc90-ultimate-t8.webp",
-      "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/06/volvo-e.webp",
-      "sourceUrl": "https://canalve.com.br/ficha-tecnica/volvo/tudo-sobre-xc90-ultimate-t8/",
+      "bodyType": "Jipe",
+      "seats": "5",
+      "traction": "Integral temporária",
+      "transmission": "Automático (9 marchas)",
+      "power": "163  cv",
+      "torque": "32,6 kgfm",
+      "range": "75 Km",
+      "battery": "37.1 kWh",
+      "topSpeed": "170 Km/h",
+      "weight": "2313 Kg",
+      "trunk": "400 L",
+      "image": "data/images/17338-tank-300-2-0.jpg",
+      "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/06/Tank-300.jpg",
+      "sourceUrl": "https://canalve.com.br/ficha-tecnica/gwm/tudo-sobre-tank-300-2-0/",
       "sections": {
         "Identificação": {
-          "Fabricante/Modelo": "Volvo XC90 Ultimate T8",
-          "Ano": "2024",
-          "Carroceria": "SUV",
+          "Fabricante/Modelo": "GWM Tank 300 2.0",
+          "Ano": "2025",
+          "Carroceria": "Jipe",
           "Motorização": "Híbrido Plug-in",
-          "Lugares": "7",
-          "Plataforma": "SPA"
+          "Lugares": "5",
+          "Plataforma": "Tank"
         },
         "Dimensões": {
-          "Peso": "2354 Kg",
-          "Comprimento": "4953 mm",
-          "Largura": "1923 mm",
-          "Altura": "1767 mm",
-          "Entre-eixos": "2984 mm",
-          "Bitola dianteira": "1664 mm",
-          "Bitola traseira": "1667 mm",
-          "Porta-malas": "500 L"
+          "Peso": "2313 Kg",
+          "Comprimento": "4760 mm",
+          "Largura": "1930 mm",
+          "Altura": "1903 mm",
+          "Entre-eixos": "2750 mm",
+          "Porta-malas": "400 L"
         },
         "Especificações": {
-          "Tração": "Integral sob demanda",
-          "Câmbio": "Automático (8 marchas)",
+          "Tração": "Integral temporária",
+          "Câmbio": "Automático (9 marchas)",
           "Suspensão Dianteira": "Independente",
           "Suspensão Traseira": "Independente",
           "Freio Dianteiro": "Disco ventilado",
-          "Freio Traseiro": "Disco ventilado",
+          "Freio Traseiro": "Disco sólido",
           "Direção": "Elétrica"
         },
         "Motor Elétrico": {
-          "Potência": "145  cv",
-          "Capacidade": "18.8 kWh",
-          "Torque": "31,5 kgfm",
-          "Autonomia": "49 Km",
-          "Velocidade Máxima": "180 Km/h"
+          "Potência": "163  cv",
+          "Capacidade": "37.1 kWh",
+          "Torque": "32,6 kgfm",
+          "Autonomia": "75 Km",
+          "Velocidade Máxima": "170 Km/h"
         },
         "Motor Combustão": {
-          "Potência": "310 cv 6000 rpm cv",
-          "Torque": "40,8 Kgfm 2200 rpm kgfm",
+          "Potência": "245 cv 5500 rpm cv",
+          "Torque": "38,7 Kgfm 1700 rpm kgfm",
           "Cilindros": "4 em linha",
-          "Cilindrada": "492",
           "Aspiração": "Turbocompressor",
           "Alimentação": "Injeção direta",
-          "Consumo Cidade": "10.3 Km/L",
-          "Consumo Estrada": "10.3 Km/L"
+          "Consumo Cidade": "10.4 Km/L"
         }
-      }
+      },
+      "sourceSite": "Canal VE"
+    },
+    {
+      "id": 20322,
+      "slug": "b5",
+      "name": "Denza B5",
+      "title": "Denza B5",
+      "brand": "Denza",
+      "year": "2025",
+      "powertrain": "Híbrido Plug-in",
+      "bodyType": "SUV",
+      "seats": "5",
+      "traction": "Integral",
+      "transmission": "Automático",
+      "power": "677 cv",
+      "torque": "77,5 kgfm",
+      "range": "1.200 Km",
+      "battery": "31.8 kWh",
+      "topSpeed": "180 Km/h",
+      "weight": "3.430 Kg",
+      "trunk": "430 L",
+      "image": "data/images/20322-b5.jpg",
+      "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/11/Denza_B5_7_0001.jpg",
+      "sourceUrl": "https://canalve.com.br/ficha-tecnica/denza/tudo-sobre-b5/",
+      "sections": {
+        "Identificação": {
+          "Fabricante/Modelo": "Denza B5",
+          "Ano": "2025",
+          "Carroceria": "SUV",
+          "Motorização": "Híbrido Plug-in",
+          "Lugares": "5"
+        },
+        "Dimensões": {
+          "Peso": "3.430 Kg",
+          "Comprimento": "4890 mm",
+          "Largura": "1970 mm",
+          "Altura": "1920 mm",
+          "Entre-eixos": "2800 mm",
+          "Porta-malas": "430 L"
+        },
+        "Especificações": {
+          "Tração": "Integral",
+          "Câmbio": "Automático",
+          "Suspensão Dianteira": "Disus-P",
+          "Suspensão Traseira": "Disus-P",
+          "Freio Dianteiro": "Discos ventilados, pinças fixas",
+          "Freio Traseiro": "Discos ventilados, pinças fixas",
+          "Direção": "R-EPS"
+        },
+        "Motor Elétrico": {
+          "Potência": "677 cv",
+          "Capacidade": "31.8 kWh",
+          "Torque": "77,5 kgfm",
+          "Autonomia": "1.200 Km",
+          "Velocidade Máxima": "180 Km/h",
+          "Potência de recarga": "6 kW / 100 kW AC/DC"
+        },
+        "Motor Combustão": {
+          "Potência": "677 cv",
+          "Torque": "77,5 kgfm",
+          "Alimentação": "Injeção direta"
+        }
+      },
+      "sourceSite": "Canal VE"
+    },
+    {
+      "id": 17235,
+      "slug": "dolphin-gs-180",
+      "name": "BYD Dolphin GS 180",
+      "title": "BYD Dolphin GS 180",
+      "brand": "BYD",
+      "year": "2024",
+      "powertrain": "Elétrico",
+      "bodyType": "Hatch",
+      "seats": "4",
+      "traction": "Dianteira",
+      "transmission": "Automático (1 marcha)",
+      "power": "95 cv",
+      "torque": "18,3 kgfm",
+      "range": "291 Km",
+      "battery": "44.9 kWh",
+      "topSpeed": "160 Km/h",
+      "weight": "1405 Kg",
+      "trunk": "250 L",
+      "image": "data/images/17235-dolphin-gs-180.webp",
+      "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/05/byd-dolphin-1-jpg.webp",
+      "sourceUrl": "https://canalve.com.br/ficha-tecnica/byd/tudo-sobre-dolphin-gs-180/",
+      "sections": {
+        "Identificação": {
+          "Fabricante/Modelo": "BYD Dolphin GS 180",
+          "Ano": "2024",
+          "Carroceria": "Hatchback",
+          "Motorização": "Elétrico",
+          "Lugares": "4",
+          "Plataforma": "e-Platform 3.0",
+          "Série": "Ocean"
+        },
+        "Dimensões": {
+          "Peso": "1405 Kg",
+          "Comprimento": "4125 mm",
+          "Largura": "1770 mm",
+          "Altura": "1570 mm",
+          "Entre-eixos": "2700 mm",
+          "Bitola dianteira": "1530 mm",
+          "Bitola traseira": "1530 mm",
+          "Porta-malas": "250 L"
+        },
+        "Especificações": {
+          "Tração": "Dianteira",
+          "Câmbio": "Automático (1 marcha)",
+          "Suspensão Dianteira": "Independente",
+          "Suspensão Traseira": "Eixo de torção",
+          "Freio Dianteiro": "Disco ventilado",
+          "Freio Traseiro": "Disco sólido",
+          "Direção": "Elétrica"
+        },
+        "Motor Elétrico": {
+          "Potência": "95 cv",
+          "Capacidade": "44.9 kWh",
+          "Torque": "18,3 kgfm",
+          "Autonomia": "291 Km",
+          "Velocidade Máxima": "160 Km/h",
+          "Potência de recarga": "6,6 / 60  AC/DC"
+        }
+      },
+      "sourceSite": "Canal VE"
     }
   ],
   "schedule": {
-    "2026-11-07": [
-      18303,
-      17248,
-      18074
-    ],
     "2026-11-08": [
-      17279,
-      18790,
-      18781
+      17338,
+      20322,
+      17235
     ],
     "2026-11-09": [
-      17322,
-      17291,
-      23225
+      22297,
+      18303,
+      17317
     ],
     "2026-11-10": [
-      17333,
-      17321,
-      17293
+      23213,
+      18074,
+      17300
     ],
     "2026-11-11": [
-      17330,
-      17301,
-      20322
-    ],
-    "2026-11-12": [
-      21722,
-      17336,
-      17346
-    ],
-    "2026-11-13": [
-      19956,
-      17323,
+      18670,
+      17242,
       23112
     ],
-    "2026-11-14": [
-      17235,
-      19744,
-      17273
+    "2026-11-12": [
+      18333,
+      17293,
+      23225
     ],
-    "2026-11-15": [
-      18668,
-      18724,
-      21221
-    ],
-    "2026-11-16": [
-      17317,
-      19830,
-      17242
-    ],
-    "2026-11-17": [
-      17302,
-      18751,
-      17244
-    ],
-    "2026-11-18": [
-      17332,
-      17264,
-      18705
-    ],
-    "2026-11-19": [
-      17331,
+    "2026-11-13": [
       19359,
-      20318
-    ],
-    "2026-11-20": [
-      17243,
-      17247,
-      21273
-    ],
-    "2026-11-21": [
-      17246,
-      19693,
-      23116
-    ],
-    "2026-11-22": [
-      20310,
-      18670,
-      17344
-    ],
-    "2026-11-23": [
-      17240,
-      17303,
-      18732
-    ],
-    "2026-11-24": [
-      23110,
-      18726,
+      147796,
       20313
     ],
-    "2026-11-25": [
-      20317,
-      17340,
-      23213
-    ],
-    "2026-11-26": [
-      17281,
-      19820,
-      22666
-    ],
-    "2026-11-27": [
-      17343,
-      18676,
-      21263
-    ],
-    "2026-11-28": [
-      17280,
+    "2026-11-14": [
       17290,
-      19958
+      17340,
+      23122
     ],
-    "2026-11-29": [
-      17335,
-      17315,
-      17259
-    ],
-    "2026-11-30": [
-      18827,
+    "2026-11-15": [
       21724,
+      148669,
+      18790
+    ],
+    "2026-11-16": [
+      17243,
+      17322,
+      18751
+    ],
+    "2026-11-17": [
+      17291,
+      17343,
       17318
     ],
-    "2026-12-01": [
-      22297,
-      17338,
+    "2026-11-18": [
+      17321,
+      17292,
+      19958
+    ],
+    "2026-11-19": [
+      17330,
+      17344,
+      17315
+    ],
+    "2026-11-20": [
+      20317,
+      208408,
       17316
     ],
+    "2026-11-21": [
+      17280,
+      239652,
+      19820
+    ],
+    "2026-11-22": [
+      149061,
+      18732,
+      17331
+    ],
+    "2026-11-23": [
+      17333,
+      18705,
+      17323
+    ],
+    "2026-11-24": [
+      21221,
+      17324,
+      18827
+    ],
+    "2026-11-25": [
+      224587,
+      17248,
+      21722
+    ],
+    "2026-11-26": [
+      17273,
+      271947,
+      19830
+    ],
+    "2026-11-27": [
+      20310,
+      17301,
+      149021
+    ],
+    "2026-11-28": [
+      19956,
+      151145,
+      147777
+    ],
+    "2026-11-29": [
+      17244,
+      22666,
+      270947
+    ],
+    "2026-11-30": [
+      23110,
+      151009,
+      18676
+    ],
+    "2026-12-01": [
+      17332,
+      19744,
+      17247
+    ],
     "2026-12-02": [
-      17292,
-      17300,
-      17319
+      21263,
+      17335,
+      222257
     ],
     "2026-12-03": [
-      18333,
-      17325,
-      19937
+      17281,
+      17336,
+      277887
     ],
     "2026-12-04": [
       19905,
-      17313,
-      17324
+      19693,
+      18781
     ],
     "2026-12-05": [
-      18726,
-      19693,
-      19744
+      18668,
+      17246,
+      17259
     ],
     "2026-12-06": [
-      17290,
-      19958,
-      17346
+      17241,
+      17302,
+      19937
     ],
     "2026-12-07": [
-      17325,
-      18303,
-      18751
+      18726,
+      152317,
+      17325
+    ],
+    "2026-12-08": [
+      21273,
+      151919,
+      17279
     ]
   }
 }
