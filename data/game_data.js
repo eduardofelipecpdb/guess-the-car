@@ -1,118 +1,61 @@
 // Arquivo gerado automaticamente por scripts/daily_shuffle.py
 window.GUESS_THE_CAR_DATA = {
   "daily": {
-    "date": "2026-11-08",
-    "roundNumber": 2,
-    "updatedAt": "2026-11-08T09:59:41",
+    "date": "2026-11-09",
+    "roundNumber": 3,
+    "updatedAt": "2026-11-09T11:08:54",
     "carsPerDay": 3,
-    "totalCatalogCars": 86,
-    "remainingInDeck": 69,
+    "totalCatalogCars": 102,
+    "remainingInDeck": 18,
     "todayIds": [
-      22666,
-      17242,
-      18790
+      17319,
+      17303,
+      18827
     ],
     "todayCars": [
       {
-        "id": 22666,
-        "slug": "ora-5",
-        "name": "GWM Ora 5",
-        "title": "GWM Ora 5",
-        "brand": "GWM",
-        "year": "2027",
-        "powertrain": "Elétrico",
+        "id": 17319,
+        "slug": "rav4-sx-connect-hybrid-2-5",
+        "name": "Toyota RAV4 SX Connect Hybrid 2.5",
+        "title": "Toyota RAV4 SX Connect Hybrid 2.5",
+        "brand": "Toyota",
+        "year": "2022",
+        "powertrain": "Híbrido",
         "bodyType": "SUV",
         "seats": "5",
-        "traction": "Dianteira",
-        "transmission": "Automático",
-        "power": "204 cv",
-        "torque": "26,5 kgfm",
-        "range": "349 Km",
-        "battery": "58.3 kWh",
-        "topSpeed": "170 Km/h",
-        "weight": "1.685 Kg",
-        "trunk": "362 L",
-        "image": "data/images/22666-ora-5.jpg",
-        "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2026/06/Ora-5.jpg",
-        "sourceUrl": "https://canalve.com.br/ficha-tecnica/gwm/tudo-sobre-ora-5/",
+        "traction": "Integral sob demanda",
+        "transmission": "CVT (6 marchas)",
+        "power": "59,5 /54  cv",
+        "torque": "10,3 /12,3  kgfm",
+        "range": "941 Km",
+        "battery": "1.6 kWh",
+        "topSpeed": "180 Km/h",
+        "weight": "1730 Kg",
+        "trunk": "580 L",
+        "image": "data/images/17319-rav4-sx-connect-hybrid-2-5.webp",
+        "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/06/toyota-e.webp",
+        "sourceUrl": "https://canalve.com.br/ficha-tecnica/toyota/tudo-sobre-rav4-sx-connect-hybrid-2-5/",
         "sections": {
           "Identificação": {
-            "Fabricante/Modelo": "GWM Ora 5",
-            "Ano": "2027",
+            "Fabricante/Modelo": "Toyota RAV4 SX Connect Hybrid 2.5",
+            "Ano": "2022",
             "Carroceria": "SUV",
-            "Motorização": "Elétrico",
-            "Lugares": "5"
-          },
-          "Dimensões": {
-            "Peso": "1.685 Kg",
-            "Comprimento": "4471 mm",
-            "Largura": "1833 mm",
-            "Altura": "1641 mm",
-            "Entre-eixos": "2720 mm",
-            "Porta-malas": "362 L"
-          },
-          "Especificações": {
-            "Tração": "Dianteira",
-            "Suspensão Dianteira": "McPherson independente",
-            "Suspensão Traseira": "Multi-Link independente",
-            "Freio Dianteiro": "Discos ventilados",
-            "Freio Traseiro": "Discos sólidos"
-          },
-          "Motor Elétrico": {
-            "Potência": "204 cv",
-            "Capacidade": "58.3 kWh",
-            "Torque": "26,5 kgfm",
-            "Autonomia": "349 Km",
-            "Velocidade Máxima": "170 Km/h",
-            "Potência de recarga": "11 kW / 120 kW AC/DC"
-          }
-        }
-      },
-      {
-        "id": 17242,
-        "slug": "dolphin-plus-310",
-        "name": "BYD Dolphin Plus 310",
-        "title": "BYD Dolphin Plus 310",
-        "brand": "BYD",
-        "year": "2024",
-        "powertrain": "Elétrico",
-        "bodyType": "Hatchback",
-        "seats": "5",
-        "traction": "Dianteira",
-        "transmission": "Automático (1 marcha)",
-        "power": "204  cv",
-        "torque": "31,6  kgfm",
-        "range": "330 Km",
-        "battery": "60.5 kWh",
-        "topSpeed": "159 Km/h",
-        "weight": "1658 Kg",
-        "trunk": "345 L",
-        "image": "data/images/17242-dolphin-plus-310.webp",
-        "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/05/dolphin-plus-byd-jpg.webp",
-        "sourceUrl": "https://canalve.com.br/ficha-tecnica/byd/tudo-sobre-dolphin-plus-310/",
-        "sections": {
-          "Identificação": {
-            "Fabricante/Modelo": "BYD Dolphin Plus 310",
-            "Ano": "2024",
-            "Carroceria": "Hatchback",
-            "Motorização": "Elétrico",
             "Lugares": "5",
-            "Plataforma": "e-Platform 3.0",
-            "Série": "Ocean"
+            "Plataforma": "TNGA"
           },
           "Dimensões": {
-            "Peso": "1658 Kg",
-            "Comprimento": "4290 mm",
-            "Largura": "1770 mm",
-            "Altura": "1570 mm",
-            "Entre-eixos": "2700 mm",
-            "Bitola dianteira": "1530 mm",
-            "Bitola traseira": "1530 mm",
-            "Porta-malas": "345 L"
+            "Peso": "1730 Kg",
+            "Comprimento": "4600 mm",
+            "Largura": "1855 mm",
+            "Altura": "1685 mm",
+            "Entre-eixos": "2690 mm",
+            "Bitola dianteira": "1600 mm",
+            "Bitola traseira": "1619 mm",
+            "Porta-malas": "580 L"
           },
           "Especificações": {
-            "Tração": "Dianteira",
-            "Câmbio": "Automático (1 marcha)",
+            "Tração": "Integral sob demanda",
+            "Câmbio": "CVT (6 marchas)",
             "Suspensão Dianteira": "Independente",
             "Suspensão Traseira": "Independente",
             "Freio Dianteiro": "Disco ventilado",
@@ -120,56 +63,139 @@ window.GUESS_THE_CAR_DATA = {
             "Direção": "Elétrica"
           },
           "Motor Elétrico": {
-            "Potência": "204  cv",
-            "Capacidade": "60.5 kWh",
-            "Torque": "31,6  kgfm",
-            "Autonomia": "330 Km",
-            "Velocidade Máxima": "159 Km/h",
-            "Potência de recarga": "7 /80  AC/DC"
+            "Potência": "59,5 /54  cv",
+            "Capacidade": "1.6 kWh",
+            "Torque": "10,3 /12,3  kgfm",
+            "Autonomia": "941 Km",
+            "Velocidade Máxima": "180 Km/h"
+          },
+          "Motor Combustão": {
+            "Potência": "178 cv 5700 rpm cv",
+            "Torque": "22,5 Kgfm 3600 rpm kgfm",
+            "Cilindros": "4 em linha",
+            "Cilindrada": "622",
+            "Aspiração": "Aspirado naturalmente",
+            "Alimentação": "Injeção direta e indireta",
+            "Consumo Cidade": "17.1 Km/L",
+            "Consumo Estrada": "14.5 Km/L"
           }
-        }
+        },
+        "sourceSite": "Canal VE"
       },
       {
-        "id": 18790,
-        "slug": "c10",
-        "name": "Leapmotor C10",
-        "title": "Leapmotor C10",
-        "brand": "Leapmotor",
-        "year": "2026",
-        "powertrain": "Elétrico",
-        "bodyType": "SUV",
+        "id": 17303,
+        "slug": "es300h",
+        "name": "Lexus ES300h",
+        "title": "Lexus ES300h",
+        "brand": "Lexus",
+        "year": "2023",
+        "powertrain": "Híbrido",
+        "bodyType": "Sedã",
         "seats": "5",
-        "traction": "Traseira",
-        "transmission": "Automático (1 marcha)",
-        "power": "218 cv",
-        "torque": "32,6 kgfm",
-        "range": "355 Km",
-        "battery": "69.9 kWh",
-        "topSpeed": "170 Km/h",
-        "weight": "1980 Kg",
-        "trunk": "475 L",
-        "image": "data/images/18790-c10.jpg",
-        "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/07/LEAPMOTOR-C10.jpg",
-        "sourceUrl": "https://canalve.com.br/ficha-tecnica/leapmotor/tudo-sobre-c10/",
+        "traction": "Dianteira",
+        "transmission": "CVT (0 marchas)",
+        "power": "120 cv",
+        "torque": "20,2  kgfm",
+        "range": "790 Km",
+        "battery": "1.3 kWh",
+        "topSpeed": "180 Km/h",
+        "weight": "1680 Kg",
+        "trunk": "454 L",
+        "image": "data/images/17303-es300h.webp",
+        "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/06/lexus-e.webp",
+        "sourceUrl": "https://canalve.com.br/ficha-tecnica/lexus/tudo-sobre-es300h/",
         "sections": {
           "Identificação": {
-            "Fabricante/Modelo": "Leapmotor C10",
-            "Ano": "2026",
-            "Carroceria": "SUV",
+            "Fabricante/Modelo": "Lexus ES300h",
+            "Ano": "2023",
+            "Carroceria": "Sedã",
+            "Motorização": "Elétrico",
             "Lugares": "5",
-            "Plataforma": "Leap 3.0"
+            "Plataforma": "TNGA",
+            "Série": "XZ10"
           },
           "Dimensões": {
-            "Peso": "1980 Kg",
-            "Comprimento": "4739 mm",
-            "Largura": "1900 mm",
-            "Altura": "1680 mm",
-            "Entre-eixos": "2825 mm",
-            "Porta-malas": "475 L"
+            "Peso": "1680 Kg",
+            "Comprimento": "4976 mm",
+            "Largura": "1864 mm",
+            "Altura": "1445 mm",
+            "Entre-eixos": "2870 mm",
+            "Bitola dianteira": "1600 mm",
+            "Bitola traseira": "1610 mm",
+            "Porta-malas": "454 L"
           },
           "Especificações": {
-            "Tração": "Traseira",
-            "Câmbio": "Automático (1 marcha)",
+            "Tração": "Dianteira",
+            "Câmbio": "CVT (0 marchas)",
+            "Suspensão Dianteira": "Independente",
+            "Suspensão Traseira": "Independente",
+            "Freio Dianteiro": "Disco ventilado",
+            "Freio Traseiro": "Disco sólido",
+            "Direção": "Elétrica"
+          },
+          "Motor Elétrico": {
+            "Potência": "120 cv",
+            "Capacidade": "1.3 kWh",
+            "Torque": "20,2  kgfm",
+            "Autonomia": "790 Km",
+            "Velocidade Máxima": "180 Km/h"
+          },
+          "Motor Combustão": {
+            "Potência": "178 cv 5700 rpm cv",
+            "Torque": "22,1 Kgfm 5200 rpm kgfm",
+            "Cilindros": "4 em linha",
+            "Cilindrada": "622",
+            "Aspiração": "Aspirado naturalmente",
+            "Alimentação": "Injeção direta e indireta",
+            "Consumo Cidade": "15.8 Km/L",
+            "Consumo Estrada": "15.2 Km/L"
+          }
+        },
+        "sourceSite": "Canal VE"
+      },
+      {
+        "id": 18827,
+        "slug": "haval-h6-1-5-phev19",
+        "name": "GWM Haval H6 1.5 PHEV19",
+        "title": "GWM Haval H6 1.5 PHEV19",
+        "brand": "GWM",
+        "year": "2025",
+        "powertrain": "Híbrido Plug-in",
+        "bodyType": "SUV",
+        "seats": "5",
+        "traction": "Dianteira",
+        "transmission": "Automatizado (2 marchas)",
+        "power": "177 cv",
+        "torque": "30,6 kgfm",
+        "range": "74 Km",
+        "battery": "19 kWh",
+        "topSpeed": "180 Km/h",
+        "weight": "1890 Kg",
+        "trunk": "560 L",
+        "image": "data/images/18827-haval-h6-1-5-phev19.png",
+        "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/08/haval-h6-phev19-aaa.png",
+        "sourceUrl": "https://canalve.com.br/ficha-tecnica/gwm/tudo-sobre-haval-h6-1-5-phev19/",
+        "sections": {
+          "Identificação": {
+            "Fabricante/Modelo": "GWM Haval H6 1.5 PHEV19",
+            "Ano": "2025",
+            "Carroceria": "SUV",
+            "Lugares": "5",
+            "Plataforma": "Lemon"
+          },
+          "Dimensões": {
+            "Peso": "1890 Kg",
+            "Comprimento": "4683 mm",
+            "Largura": "1886 mm",
+            "Altura": "1730 mm",
+            "Entre-eixos": "2738 mm",
+            "Bitola dianteira": "1631 mm",
+            "Bitola traseira": "1640 mm",
+            "Porta-malas": "560 L"
+          },
+          "Especificações": {
+            "Tração": "Dianteira",
+            "Câmbio": "Automatizado (2 marchas)",
             "Suspensão Dianteira": "Independente, McPherson",
             "Suspensão Traseira": "Independente, multibraço",
             "Freio Dianteiro": "Disco ventilado",
@@ -177,137 +203,22 @@ window.GUESS_THE_CAR_DATA = {
             "Direção": "Elétrica"
           },
           "Motor Elétrico": {
-            "Potência": "218 cv",
-            "Capacidade": "69.9 kWh",
-            "Torque": "32,6 kgfm",
-            "Autonomia": "355 Km",
-            "Velocidade Máxima": "170 Km/h",
-            "Potência de recarga": "6,6 kW AC/ 84 kW DC AC/DC"
-          }
-        },
-        "sourceSite": "Canal VE"
-      },
-      {
-        "id": 20322,
-        "slug": "b5",
-        "name": "Denza B5",
-        "title": "Denza B5",
-        "brand": "Denza",
-        "year": "2025",
-        "powertrain": "Híbrido Plug-in",
-        "bodyType": "SUV",
-        "seats": "5",
-        "traction": "Integral",
-        "transmission": "Automático",
-        "power": "677 cv",
-        "torque": "77,5 kgfm",
-        "range": "1.200 Km",
-        "battery": "31.8 kWh",
-        "topSpeed": "180 Km/h",
-        "weight": "3.430 Kg",
-        "trunk": "430 L",
-        "image": "data/images/20322-b5.jpg",
-        "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/11/Denza_B5_7_0001.jpg",
-        "sourceUrl": "https://canalve.com.br/ficha-tecnica/denza/tudo-sobre-b5/",
-        "sections": {
-          "Identificação": {
-            "Fabricante/Modelo": "Denza B5",
-            "Ano": "2025",
-            "Carroceria": "SUV",
-            "Motorização": "Híbrido Plug-in",
-            "Lugares": "5"
-          },
-          "Dimensões": {
-            "Peso": "3.430 Kg",
-            "Comprimento": "4890 mm",
-            "Largura": "1970 mm",
-            "Altura": "1920 mm",
-            "Entre-eixos": "2800 mm",
-            "Porta-malas": "430 L"
-          },
-          "Especificações": {
-            "Tração": "Integral",
-            "Câmbio": "Automático",
-            "Suspensão Dianteira": "Disus-P",
-            "Suspensão Traseira": "Disus-P",
-            "Freio Dianteiro": "Discos ventilados, pinças fixas",
-            "Freio Traseiro": "Discos ventilados, pinças fixas",
-            "Direção": "R-EPS"
-          },
-          "Motor Elétrico": {
-            "Potência": "677 cv",
-            "Capacidade": "31.8 kWh",
-            "Torque": "77,5 kgfm",
-            "Autonomia": "1.200 Km",
+            "Potência": "177 cv",
+            "Capacidade": "19 kWh",
+            "Torque": "30,6 kgfm",
+            "Autonomia": "74 Km",
             "Velocidade Máxima": "180 Km/h",
-            "Potência de recarga": "6 kW / 100 kW AC/DC"
+            "Potência de recarga": "6,6 kW AC/ 33 kW DC AC/DC"
           },
           "Motor Combustão": {
-            "Potência": "677 cv",
-            "Torque": "77,5 kgfm",
-            "Alimentação": "Injeção direta"
-          }
-        },
-        "sourceSite": "Canal VE"
-      },
-      {
-        "id": 17235,
-        "slug": "dolphin-gs-180",
-        "name": "BYD Dolphin GS 180",
-        "title": "BYD Dolphin GS 180",
-        "brand": "BYD",
-        "year": "2024",
-        "powertrain": "Elétrico",
-        "bodyType": "Hatch",
-        "seats": "4",
-        "traction": "Dianteira",
-        "transmission": "Automático (1 marcha)",
-        "power": "95 cv",
-        "torque": "18,3 kgfm",
-        "range": "291 Km",
-        "battery": "44.9 kWh",
-        "topSpeed": "160 Km/h",
-        "weight": "1405 Kg",
-        "trunk": "250 L",
-        "image": "data/images/17235-dolphin-gs-180.webp",
-        "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/05/byd-dolphin-1-jpg.webp",
-        "sourceUrl": "https://canalve.com.br/ficha-tecnica/byd/tudo-sobre-dolphin-gs-180/",
-        "sections": {
-          "Identificação": {
-            "Fabricante/Modelo": "BYD Dolphin GS 180",
-            "Ano": "2024",
-            "Carroceria": "Hatchback",
-            "Motorização": "Elétrico",
-            "Lugares": "4",
-            "Plataforma": "e-Platform 3.0",
-            "Série": "Ocean"
-          },
-          "Dimensões": {
-            "Peso": "1405 Kg",
-            "Comprimento": "4125 mm",
-            "Largura": "1770 mm",
-            "Altura": "1570 mm",
-            "Entre-eixos": "2700 mm",
-            "Bitola dianteira": "1530 mm",
-            "Bitola traseira": "1530 mm",
-            "Porta-malas": "250 L"
-          },
-          "Especificações": {
-            "Tração": "Dianteira",
-            "Câmbio": "Automático (1 marcha)",
-            "Suspensão Dianteira": "Independente",
-            "Suspensão Traseira": "Eixo de torção",
-            "Freio Dianteiro": "Disco ventilado",
-            "Freio Traseiro": "Disco sólido",
-            "Direção": "Elétrica"
-          },
-          "Motor Elétrico": {
-            "Potência": "95 cv",
-            "Capacidade": "44.9 kWh",
-            "Torque": "18,3 kgfm",
-            "Autonomia": "291 Km",
-            "Velocidade Máxima": "160 Km/h",
-            "Potência de recarga": "6,6 / 60  AC/DC"
+            "Potência": "177 cv",
+            "Torque": "30,6 kgfm",
+            "Cilindros": "4 em linha",
+            "Cilindrada": "375",
+            "Aspiração": "Turbocompressor",
+            "Alimentação": "Injeção direta",
+            "Consumo Cidade": "13.6 Km/L",
+            "Consumo Estrada": "12.3 Km/L"
           }
         },
         "sourceSite": "Canal VE"
@@ -320,9 +231,9 @@ window.GUESS_THE_CAR_DATA = {
         18790
       ],
       "2026-11-09": [
-        22297,
-        18303,
-        17317
+        17319,
+        17303,
+        18827
       ],
       "2026-11-10": [
         23213,
@@ -468,6 +379,11 @@ window.GUESS_THE_CAR_DATA = {
         17313,
         19830,
         17248
+      ],
+      "2026-12-09": [
+        17301,
+        19905,
+        17259
       ]
     }
   },
