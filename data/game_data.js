@@ -1,224 +1,198 @@
 // Arquivo gerado automaticamente por scripts/daily_shuffle.py
 window.GUESS_THE_CAR_DATA = {
   "daily": {
-    "date": "2026-11-09",
-    "roundNumber": 3,
-    "updatedAt": "2026-11-09T11:08:54",
+    "date": "2026-11-10",
+    "roundNumber": 4,
+    "updatedAt": "2026-11-10T10:53:28",
     "carsPerDay": 3,
     "totalCatalogCars": 102,
-    "remainingInDeck": 18,
+    "remainingInDeck": 12,
     "todayIds": [
-      17319,
-      17303,
-      18827
+      17343,
+      17247,
+      18705
     ],
     "todayCars": [
       {
-        "id": 17319,
-        "slug": "rav4-sx-connect-hybrid-2-5",
-        "name": "Toyota RAV4 SX Connect Hybrid 2.5",
-        "title": "Toyota RAV4 SX Connect Hybrid 2.5",
-        "brand": "Toyota",
-        "year": "2022",
-        "powertrain": "Híbrido",
-        "bodyType": "SUV",
-        "seats": "5",
-        "traction": "Integral sob demanda",
-        "transmission": "CVT (6 marchas)",
-        "power": "59,5 /54  cv",
-        "torque": "10,3 /12,3  kgfm",
-        "range": "941 Km",
-        "battery": "1.6 kWh",
-        "topSpeed": "180 Km/h",
-        "weight": "1730 Kg",
-        "trunk": "580 L",
-        "image": "data/images/17319-rav4-sx-connect-hybrid-2-5.webp",
-        "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/06/toyota-e.webp",
-        "sourceUrl": "https://canalve.com.br/ficha-tecnica/toyota/tudo-sobre-rav4-sx-connect-hybrid-2-5/",
-        "sections": {
-          "Identificação": {
-            "Fabricante/Modelo": "Toyota RAV4 SX Connect Hybrid 2.5",
-            "Ano": "2022",
-            "Carroceria": "SUV",
-            "Lugares": "5",
-            "Plataforma": "TNGA"
-          },
-          "Dimensões": {
-            "Peso": "1730 Kg",
-            "Comprimento": "4600 mm",
-            "Largura": "1855 mm",
-            "Altura": "1685 mm",
-            "Entre-eixos": "2690 mm",
-            "Bitola dianteira": "1600 mm",
-            "Bitola traseira": "1619 mm",
-            "Porta-malas": "580 L"
-          },
-          "Especificações": {
-            "Tração": "Integral sob demanda",
-            "Câmbio": "CVT (6 marchas)",
-            "Suspensão Dianteira": "Independente",
-            "Suspensão Traseira": "Independente",
-            "Freio Dianteiro": "Disco ventilado",
-            "Freio Traseiro": "Disco sólido",
-            "Direção": "Elétrica"
-          },
-          "Motor Elétrico": {
-            "Potência": "59,5 /54  cv",
-            "Capacidade": "1.6 kWh",
-            "Torque": "10,3 /12,3  kgfm",
-            "Autonomia": "941 Km",
-            "Velocidade Máxima": "180 Km/h"
-          },
-          "Motor Combustão": {
-            "Potência": "178 cv 5700 rpm cv",
-            "Torque": "22,5 Kgfm 3600 rpm kgfm",
-            "Cilindros": "4 em linha",
-            "Cilindrada": "622",
-            "Aspiração": "Aspirado naturalmente",
-            "Alimentação": "Injeção direta e indireta",
-            "Consumo Cidade": "17.1 Km/L",
-            "Consumo Estrada": "14.5 Km/L"
-          }
-        },
-        "sourceSite": "Canal VE"
-      },
-      {
-        "id": 17303,
-        "slug": "es300h",
-        "name": "Lexus ES300h",
-        "title": "Lexus ES300h",
-        "brand": "Lexus",
-        "year": "2023",
-        "powertrain": "Híbrido",
-        "bodyType": "Sedã",
-        "seats": "5",
-        "traction": "Dianteira",
-        "transmission": "CVT (0 marchas)",
-        "power": "120 cv",
-        "torque": "20,2  kgfm",
-        "range": "790 Km",
-        "battery": "1.3 kWh",
-        "topSpeed": "180 Km/h",
-        "weight": "1680 Kg",
-        "trunk": "454 L",
-        "image": "data/images/17303-es300h.webp",
-        "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/06/lexus-e.webp",
-        "sourceUrl": "https://canalve.com.br/ficha-tecnica/lexus/tudo-sobre-es300h/",
-        "sections": {
-          "Identificação": {
-            "Fabricante/Modelo": "Lexus ES300h",
-            "Ano": "2023",
-            "Carroceria": "Sedã",
-            "Motorização": "Elétrico",
-            "Lugares": "5",
-            "Plataforma": "TNGA",
-            "Série": "XZ10"
-          },
-          "Dimensões": {
-            "Peso": "1680 Kg",
-            "Comprimento": "4976 mm",
-            "Largura": "1864 mm",
-            "Altura": "1445 mm",
-            "Entre-eixos": "2870 mm",
-            "Bitola dianteira": "1600 mm",
-            "Bitola traseira": "1610 mm",
-            "Porta-malas": "454 L"
-          },
-          "Especificações": {
-            "Tração": "Dianteira",
-            "Câmbio": "CVT (0 marchas)",
-            "Suspensão Dianteira": "Independente",
-            "Suspensão Traseira": "Independente",
-            "Freio Dianteiro": "Disco ventilado",
-            "Freio Traseiro": "Disco sólido",
-            "Direção": "Elétrica"
-          },
-          "Motor Elétrico": {
-            "Potência": "120 cv",
-            "Capacidade": "1.3 kWh",
-            "Torque": "20,2  kgfm",
-            "Autonomia": "790 Km",
-            "Velocidade Máxima": "180 Km/h"
-          },
-          "Motor Combustão": {
-            "Potência": "178 cv 5700 rpm cv",
-            "Torque": "22,1 Kgfm 5200 rpm kgfm",
-            "Cilindros": "4 em linha",
-            "Cilindrada": "622",
-            "Aspiração": "Aspirado naturalmente",
-            "Alimentação": "Injeção direta e indireta",
-            "Consumo Cidade": "15.8 Km/L",
-            "Consumo Estrada": "15.2 Km/L"
-          }
-        },
-        "sourceSite": "Canal VE"
-      },
-      {
-        "id": 18827,
-        "slug": "haval-h6-1-5-phev19",
-        "name": "GWM Haval H6 1.5 PHEV19",
-        "title": "GWM Haval H6 1.5 PHEV19",
-        "brand": "GWM",
+        "id": 17343,
+        "slug": "xc60-plus-t8-2-0",
+        "name": "Volvo XC60 Plus T8 2.0",
+        "title": "Volvo XC60 Plus T8 2.0",
+        "brand": "Volvo",
         "year": "2025",
         "powertrain": "Híbrido Plug-in",
         "bodyType": "SUV",
         "seats": "5",
-        "traction": "Dianteira",
-        "transmission": "Automatizado (2 marchas)",
-        "power": "177 cv",
-        "torque": "30,6 kgfm",
-        "range": "74 Km",
-        "battery": "19 kWh",
+        "traction": "Integral sob demanda",
+        "transmission": "Automático (8 marchas)",
+        "power": "145  cv",
+        "torque": "31,5 kgfm",
+        "range": "48 Km",
+        "battery": "18.8 kWh",
         "topSpeed": "180 Km/h",
-        "weight": "1890 Kg",
-        "trunk": "560 L",
-        "image": "data/images/18827-haval-h6-1-5-phev19.png",
-        "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/08/haval-h6-phev19-aaa.png",
-        "sourceUrl": "https://canalve.com.br/ficha-tecnica/gwm/tudo-sobre-haval-h6-1-5-phev19/",
+        "weight": "2174 Kg",
+        "trunk": "468 L",
+        "image": "data/images/17343-xc60-plus-t8-2-0.webp",
+        "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/06/volvo-e-2.webp",
+        "sourceUrl": "https://canalve.com.br/ficha-tecnica/volvo/tudo-sobre-xc60-plus-t8-2-0/",
         "sections": {
           "Identificação": {
-            "Fabricante/Modelo": "GWM Haval H6 1.5 PHEV19",
+            "Fabricante/Modelo": "Volvo XC60 Plus T8 2.0",
             "Ano": "2025",
             "Carroceria": "SUV",
             "Lugares": "5",
-            "Plataforma": "Lemon"
+            "Plataforma": "SPA"
           },
           "Dimensões": {
-            "Peso": "1890 Kg",
-            "Comprimento": "4683 mm",
-            "Largura": "1886 mm",
-            "Altura": "1730 mm",
-            "Entre-eixos": "2738 mm",
-            "Bitola dianteira": "1631 mm",
-            "Bitola traseira": "1640 mm",
-            "Porta-malas": "560 L"
+            "Peso": "2174 Kg",
+            "Comprimento": "4708 mm",
+            "Largura": "1902 mm",
+            "Altura": "1651 mm",
+            "Entre-eixos": "2865 mm",
+            "Bitola dianteira": "1655 mm",
+            "Bitola traseira": "1659 mm",
+            "Porta-malas": "468 L"
           },
           "Especificações": {
-            "Tração": "Dianteira",
-            "Câmbio": "Automatizado (2 marchas)",
-            "Suspensão Dianteira": "Independente, McPherson",
-            "Suspensão Traseira": "Independente, multibraço",
+            "Tração": "Integral sob demanda",
+            "Câmbio": "Automático (8 marchas)",
+            "Suspensão Dianteira": "Independente",
+            "Suspensão Traseira": "Independente",
+            "Freio Dianteiro": "Disco ventilado",
+            "Freio Traseiro": "Disco ventilado",
+            "Direção": "Elétrica"
+          },
+          "Motor Elétrico": {
+            "Potência": "145  cv",
+            "Capacidade": "18.8 kWh",
+            "Torque": "31,5 kgfm",
+            "Autonomia": "48 Km",
+            "Velocidade Máxima": "180 Km/h"
+          },
+          "Motor Combustão": {
+            "Potência": "310 cv 6000 rpm cv",
+            "Torque": "40,8 Kgfm 2200 rpm kgfm",
+            "Cilindros": "4 em linha",
+            "Cilindrada": "492",
+            "Aspiração": "Turbocompressor",
+            "Alimentação": "Injeção direta",
+            "Consumo Cidade": "9.5 Km/L",
+            "Consumo Estrada": "9.4 Km/L"
+          }
+        },
+        "sourceSite": "Canal VE"
+      },
+      {
+        "id": 17247,
+        "slug": "chery-icar-eq1-tec",
+        "name": "CAOA Chery iCar EQ1 TEC",
+        "title": "CAOA Chery iCar EQ1 TEC",
+        "brand": "Caoa Chery",
+        "year": "2023",
+        "powertrain": "Elétrico",
+        "bodyType": "Hatch",
+        "seats": "5",
+        "traction": "Traseira",
+        "transmission": "Automático (1 marcha)",
+        "power": "61  cv",
+        "torque": "15,3  kgfm",
+        "range": "197 Km",
+        "battery": "30.8 kWh",
+        "topSpeed": "120 Km/h",
+        "weight": "995 Kg",
+        "trunk": "100 L",
+        "image": "data/images/17247-chery-icar-eq1-tec.webp",
+        "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/05/icar_design-jpg.webp",
+        "sourceUrl": "https://canalve.com.br/ficha-tecnica/caoa-chery/tudo-sobre-chery-icar-eq1-tec/",
+        "sections": {
+          "Identificação": {
+            "Fabricante/Modelo": "CAOA Chery iCar EQ1 TEC",
+            "Ano": "2023",
+            "Carroceria": "Hatchback",
+            "Motorização": "Elétrico",
+            "Lugares": "5"
+          },
+          "Dimensões": {
+            "Peso": "995 Kg",
+            "Comprimento": "3200 mm",
+            "Largura": "1670 mm",
+            "Altura": "1590 mm",
+            "Entre-eixos": "2150 mm",
+            "Porta-malas": "100 L"
+          },
+          "Especificações": {
+            "Tração": "Traseira",
+            "Câmbio": "Automático (1 marcha)",
+            "Suspensão Dianteira": "Independente",
+            "Suspensão Traseira": "Independente",
             "Freio Dianteiro": "Disco ventilado",
             "Freio Traseiro": "Disco sólido",
             "Direção": "Elétrica"
           },
           "Motor Elétrico": {
-            "Potência": "177 cv",
-            "Capacidade": "19 kWh",
-            "Torque": "30,6 kgfm",
-            "Autonomia": "74 Km",
-            "Velocidade Máxima": "180 Km/h",
-            "Potência de recarga": "6,6 kW AC/ 33 kW DC AC/DC"
+            "Potência": "61  cv",
+            "Capacidade": "30.8 kWh",
+            "Torque": "15,3  kgfm",
+            "Autonomia": "197 Km",
+            "Velocidade Máxima": "120 Km/h"
+          }
+        },
+        "sourceSite": "Canal VE"
+      },
+      {
+        "id": 18705,
+        "slug": "x",
+        "name": "Zeekr X",
+        "title": "Zeekr X",
+        "brand": "Zeekr",
+        "year": "2025",
+        "powertrain": "Elétrico",
+        "bodyType": "SUV",
+        "seats": "5",
+        "traction": "Integral sob demanda",
+        "transmission": "Automático (1 marcha)",
+        "power": "428 cv",
+        "torque": "55 kgfm kgfm",
+        "range": "304 Km",
+        "battery": "66 kWh",
+        "topSpeed": "190 Km/h",
+        "weight": "1960 Kg",
+        "trunk": "362 L",
+        "image": "data/images/18705-x.jpg",
+        "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/08/Zeekr-X.jpg",
+        "sourceUrl": "https://canalve.com.br/ficha-tecnica/zeekr/tudo-sobre-x/",
+        "sections": {
+          "Identificação": {
+            "Fabricante/Modelo": "Zeekr X",
+            "Ano": "2025",
+            "Carroceria": "SUV",
+            "Lugares": "5",
+            "Plataforma": "SEA"
           },
-          "Motor Combustão": {
-            "Potência": "177 cv",
-            "Torque": "30,6 kgfm",
-            "Cilindros": "4 em linha",
-            "Cilindrada": "375",
-            "Aspiração": "Turbocompressor",
-            "Alimentação": "Injeção direta",
-            "Consumo Cidade": "13.6 Km/L",
-            "Consumo Estrada": "12.3 Km/L"
+          "Dimensões": {
+            "Peso": "1960 Kg",
+            "Comprimento": "4432 mm",
+            "Largura": "1836 mm",
+            "Altura": "1566 mm",
+            "Entre-eixos": "2750 mm",
+            "Porta-malas": "362 L"
+          },
+          "Especificações": {
+            "Tração": "Integral sob demanda",
+            "Câmbio": "Automático (1 marcha)",
+            "Suspensão Dianteira": "Independente",
+            "Suspensão Traseira": "Independente",
+            "Freio Dianteiro": "Disco ventilado",
+            "Freio Traseiro": "Disco ventilado",
+            "Direção": "Elétrica"
+          },
+          "Motor Elétrico": {
+            "Potência": "428 cv",
+            "Capacidade": "66 kWh",
+            "Torque": "55 kgfm kgfm",
+            "Autonomia": "304 Km",
+            "Velocidade Máxima": "190 Km/h",
+            "Potência de recarga": "22 kW AC/ 153 kW DC AC/DC"
           }
         },
         "sourceSite": "Canal VE"
@@ -236,9 +210,9 @@ window.GUESS_THE_CAR_DATA = {
         18827
       ],
       "2026-11-10": [
-        23213,
-        18074,
-        17300
+        17343,
+        17247,
+        18705
       ],
       "2026-11-11": [
         18670,
@@ -384,6 +358,11 @@ window.GUESS_THE_CAR_DATA = {
         17301,
         19905,
         17259
+      ],
+      "2026-12-10": [
+        17318,
+        21722,
+        17302
       ]
     }
   },
