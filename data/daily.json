@@ -1,55 +1,163 @@
 {
-  "date": "2026-11-10",
-  "roundNumber": 4,
-  "updatedAt": "2026-11-10T10:53:28",
+  "date": "2026-11-11",
+  "roundNumber": 5,
+  "updatedAt": "2026-11-11T10:33:49",
   "carsPerDay": 3,
   "totalCatalogCars": 102,
-  "remainingInDeck": 12,
+  "remainingInDeck": 6,
   "todayIds": [
-    17343,
-    17247,
-    18705
+    21263,
+    21724,
+    17340
   ],
   "todayCars": [
     {
-      "id": 17343,
-      "slug": "xc60-plus-t8-2-0",
-      "name": "Volvo XC60 Plus T8 2.0",
-      "title": "Volvo XC60 Plus T8 2.0",
-      "brand": "Volvo",
-      "year": "2025",
+      "id": 21263,
+      "slug": "captiva-ev",
+      "name": "Chevrolet Captiva EV",
+      "title": "Chevrolet Captiva EV",
+      "brand": "Chevrolet",
+      "year": "2026",
+      "powertrain": "Elétrico",
+      "bodyType": "SUV",
+      "seats": "5",
+      "traction": "Dianteira",
+      "transmission": "Automático",
+      "power": "201 cv",
+      "torque": "31,6 kgfm",
+      "range": "304 Km",
+      "battery": "60 kWh",
+      "topSpeed": "N/I",
+      "weight": "N/I",
+      "trunk": "400 L",
+      "image": "data/images/21263-captiva-ev.jpg",
+      "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2026/02/GM_CaptivaEV_04_0004.jpg",
+      "sourceUrl": "https://canalve.com.br/ficha-tecnica/chevrolet/tudo-sobre-captiva-ev/",
+      "sections": {
+        "Identificação": {
+          "Fabricante/Modelo": "Chevrolet Captiva EV",
+          "Ano": "2026",
+          "Carroceria": "SUV",
+          "Motorização": "Elétrico",
+          "Lugares": "5"
+        },
+        "Dimensões": {
+          "Comprimento": "4740 mm",
+          "Largura": "1.980 mm",
+          "Altura": "1.650 mm",
+          "Entre-eixos": "2.800 mm",
+          "Porta-malas": "400 L"
+        },
+        "Especificações": {
+          "Tração": "Dianteira",
+          "Câmbio": "Automático"
+        },
+        "Motor Elétrico": {
+          "Potência": "201 cv",
+          "Capacidade": "60 kWh",
+          "Torque": "31,6 kgfm",
+          "Autonomia": "304 Km",
+          "Potência de recarga": "6,6 kW / 120 kW AC/DC"
+        }
+      },
+      "sourceSite": "Canal VE"
+    },
+    {
+      "id": 21724,
+      "slug": "yuan-plus-2027",
+      "name": "BYD Yuan Plus 2027",
+      "title": "BYD Yuan Plus 2027",
+      "brand": "BYD",
+      "year": "2027",
+      "powertrain": "Elétrico",
+      "bodyType": "SUV",
+      "seats": "5",
+      "traction": "Integral (AWD)",
+      "transmission": "Automático",
+      "power": "449 cv",
+      "torque": "57,1 kgfm",
+      "range": "N/I",
+      "battery": "74.88 kWh",
+      "topSpeed": "200 Km/h",
+      "weight": "2520 Kg",
+      "trunk": "490 L",
+      "image": "data/images/21724-yuan-plus-2027.jpg",
+      "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2026/04/yp27.jpg",
+      "sourceUrl": "https://canalve.com.br/ficha-tecnica/byd/tudo-sobre-yuan-plus-2027/",
+      "sections": {
+        "Identificação": {
+          "Fabricante/Modelo": "BYD Yuan Plus 2027",
+          "Ano": "2027",
+          "Carroceria": "SUV",
+          "Motorização": "Elétrico",
+          "Lugares": "5"
+        },
+        "Dimensões": {
+          "Peso": "2520 Kg",
+          "Comprimento": "4455 mm",
+          "Largura": "1875 mm",
+          "Altura": "1615 mm",
+          "Entre-eixos": "2720 mm",
+          "Porta-malas": "490 L"
+        },
+        "Especificações": {
+          "Tração": "Integral (AWD)",
+          "Suspensão Dianteira": "McPherson",
+          "Suspensão Traseira": "Multi-link",
+          "Freio Dianteiro": "Disco ventilado",
+          "Freio Traseiro": "Disco ventilado"
+        },
+        "Motor Elétrico": {
+          "Potência": "449 cv",
+          "Capacidade": "74.88 kWh",
+          "Torque": "57,1 kgfm",
+          "Velocidade Máxima": "200 Km/h",
+          "Potência de recarga": "11 kW / 205 kW AC/DC"
+        }
+      },
+      "sourceSite": "Canal VE"
+    },
+    {
+      "id": 17340,
+      "slug": "cayenne-coupe-e-hybrid-3-0-v6",
+      "name": "Porsche Cayenne Coupé E-Hybrid 3.0 V6",
+      "title": "Porsche Cayenne Coupé E-Hybrid 3.0 V6",
+      "brand": "Porsche",
+      "year": "2022",
       "powertrain": "Híbrido Plug-in",
       "bodyType": "SUV",
       "seats": "5",
       "traction": "Integral sob demanda",
       "transmission": "Automático (8 marchas)",
-      "power": "145  cv",
-      "torque": "31,5 kgfm",
-      "range": "48 Km",
-      "battery": "18.8 kWh",
-      "topSpeed": "180 Km/h",
-      "weight": "2174 Kg",
-      "trunk": "468 L",
-      "image": "data/images/17343-xc60-plus-t8-2-0.webp",
-      "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/06/volvo-e-2.webp",
-      "sourceUrl": "https://canalve.com.br/ficha-tecnica/volvo/tudo-sobre-xc60-plus-t8-2-0/",
+      "power": "136  cv",
+      "torque": "40,8 kgfm",
+      "range": "44 Km",
+      "battery": "13.1 kWh",
+      "topSpeed": "253 Km/h",
+      "weight": "2295 Kg",
+      "trunk": "645 L",
+      "image": "data/images/17340-cayenne-coupe-e-hybrid-3-0-v6.jpg",
+      "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/06/porsche-e.jpg",
+      "sourceUrl": "https://canalve.com.br/ficha-tecnica/porsche/tudo-sobre-cayenne-coupe-e-hybrid-3-0-v6/",
       "sections": {
         "Identificação": {
-          "Fabricante/Modelo": "Volvo XC60 Plus T8 2.0",
-          "Ano": "2025",
+          "Fabricante/Modelo": "Porsche Cayenne Coupé E-Hybrid 3.0 V6",
+          "Ano": "2022",
           "Carroceria": "SUV",
+          "Motorização": "Híbrido Plug-in",
           "Lugares": "5",
-          "Plataforma": "SPA"
+          "Plataforma": "MLB Evo",
+          "Série": "958"
         },
         "Dimensões": {
-          "Peso": "2174 Kg",
-          "Comprimento": "4708 mm",
-          "Largura": "1902 mm",
-          "Altura": "1651 mm",
-          "Entre-eixos": "2865 mm",
-          "Bitola dianteira": "1655 mm",
-          "Bitola traseira": "1659 mm",
-          "Porta-malas": "468 L"
+          "Peso": "2295 Kg",
+          "Comprimento": "4918 mm",
+          "Largura": "1983 mm",
+          "Altura": "1696 mm",
+          "Entre-eixos": "2895 mm",
+          "Bitola dianteira": "1680 mm",
+          "Bitola traseira": "1673 mm",
+          "Porta-malas": "645 L"
         },
         "Especificações": {
           "Tração": "Integral sob demanda",
@@ -61,136 +169,21 @@
           "Direção": "Elétrica"
         },
         "Motor Elétrico": {
-          "Potência": "145  cv",
-          "Capacidade": "18.8 kWh",
-          "Torque": "31,5 kgfm",
-          "Autonomia": "48 Km",
-          "Velocidade Máxima": "180 Km/h"
+          "Potência": "136  cv",
+          "Capacidade": "13.1 kWh",
+          "Torque": "40,8 kgfm",
+          "Autonomia": "44 Km",
+          "Velocidade Máxima": "253 Km/h"
         },
         "Motor Combustão": {
-          "Potência": "310 cv 6000 rpm cv",
-          "Torque": "40,8 Kgfm 2200 rpm kgfm",
-          "Cilindros": "4 em linha",
-          "Cilindrada": "492",
+          "Potência": "340 cv 5400 rpm cv",
+          "Torque": "45,9 Kgfm 1300 rpm kgfm",
+          "Cilindros": "6 em linha",
+          "Cilindrada": "499",
           "Aspiração": "Turbocompressor",
-          "Alimentação": "Injeção direta",
-          "Consumo Cidade": "9.5 Km/L",
-          "Consumo Estrada": "9.4 Km/L"
-        }
-      },
-      "sourceSite": "Canal VE"
-    },
-    {
-      "id": 17247,
-      "slug": "chery-icar-eq1-tec",
-      "name": "CAOA Chery iCar EQ1 TEC",
-      "title": "CAOA Chery iCar EQ1 TEC",
-      "brand": "Caoa Chery",
-      "year": "2023",
-      "powertrain": "Elétrico",
-      "bodyType": "Hatch",
-      "seats": "5",
-      "traction": "Traseira",
-      "transmission": "Automático (1 marcha)",
-      "power": "61  cv",
-      "torque": "15,3  kgfm",
-      "range": "197 Km",
-      "battery": "30.8 kWh",
-      "topSpeed": "120 Km/h",
-      "weight": "995 Kg",
-      "trunk": "100 L",
-      "image": "data/images/17247-chery-icar-eq1-tec.webp",
-      "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/05/icar_design-jpg.webp",
-      "sourceUrl": "https://canalve.com.br/ficha-tecnica/caoa-chery/tudo-sobre-chery-icar-eq1-tec/",
-      "sections": {
-        "Identificação": {
-          "Fabricante/Modelo": "CAOA Chery iCar EQ1 TEC",
-          "Ano": "2023",
-          "Carroceria": "Hatchback",
-          "Motorização": "Elétrico",
-          "Lugares": "5"
-        },
-        "Dimensões": {
-          "Peso": "995 Kg",
-          "Comprimento": "3200 mm",
-          "Largura": "1670 mm",
-          "Altura": "1590 mm",
-          "Entre-eixos": "2150 mm",
-          "Porta-malas": "100 L"
-        },
-        "Especificações": {
-          "Tração": "Traseira",
-          "Câmbio": "Automático (1 marcha)",
-          "Suspensão Dianteira": "Independente",
-          "Suspensão Traseira": "Independente",
-          "Freio Dianteiro": "Disco ventilado",
-          "Freio Traseiro": "Disco sólido",
-          "Direção": "Elétrica"
-        },
-        "Motor Elétrico": {
-          "Potência": "61  cv",
-          "Capacidade": "30.8 kWh",
-          "Torque": "15,3  kgfm",
-          "Autonomia": "197 Km",
-          "Velocidade Máxima": "120 Km/h"
-        }
-      },
-      "sourceSite": "Canal VE"
-    },
-    {
-      "id": 18705,
-      "slug": "x",
-      "name": "Zeekr X",
-      "title": "Zeekr X",
-      "brand": "Zeekr",
-      "year": "2025",
-      "powertrain": "Elétrico",
-      "bodyType": "SUV",
-      "seats": "5",
-      "traction": "Integral sob demanda",
-      "transmission": "Automático (1 marcha)",
-      "power": "428 cv",
-      "torque": "55 kgfm kgfm",
-      "range": "304 Km",
-      "battery": "66 kWh",
-      "topSpeed": "190 Km/h",
-      "weight": "1960 Kg",
-      "trunk": "362 L",
-      "image": "data/images/18705-x.jpg",
-      "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/08/Zeekr-X.jpg",
-      "sourceUrl": "https://canalve.com.br/ficha-tecnica/zeekr/tudo-sobre-x/",
-      "sections": {
-        "Identificação": {
-          "Fabricante/Modelo": "Zeekr X",
-          "Ano": "2025",
-          "Carroceria": "SUV",
-          "Lugares": "5",
-          "Plataforma": "SEA"
-        },
-        "Dimensões": {
-          "Peso": "1960 Kg",
-          "Comprimento": "4432 mm",
-          "Largura": "1836 mm",
-          "Altura": "1566 mm",
-          "Entre-eixos": "2750 mm",
-          "Porta-malas": "362 L"
-        },
-        "Especificações": {
-          "Tração": "Integral sob demanda",
-          "Câmbio": "Automático (1 marcha)",
-          "Suspensão Dianteira": "Independente",
-          "Suspensão Traseira": "Independente",
-          "Freio Dianteiro": "Disco ventilado",
-          "Freio Traseiro": "Disco ventilado",
-          "Direção": "Elétrica"
-        },
-        "Motor Elétrico": {
-          "Potência": "428 cv",
-          "Capacidade": "66 kWh",
-          "Torque": "55 kgfm kgfm",
-          "Autonomia": "304 Km",
-          "Velocidade Máxima": "190 Km/h",
-          "Potência de recarga": "22 kW AC/ 153 kW DC AC/DC"
+          "Alimentação": "Injeção direta e indireta",
+          "Consumo Cidade": "16 Km/L",
+          "Consumo Estrada": "19.1 Km/L"
         }
       },
       "sourceSite": "Canal VE"
@@ -213,9 +206,9 @@
       18705
     ],
     "2026-11-11": [
-      18670,
-      17242,
-      23112
+      21263,
+      21724,
+      17340
     ],
     "2026-11-12": [
       18333,
@@ -361,6 +354,11 @@
       17318,
       21722,
       17302
+    ],
+    "2026-12-11": [
+      17336,
+      17264,
+      17319
     ]
   }
 }
