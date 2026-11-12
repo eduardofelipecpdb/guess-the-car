@@ -1,191 +1,180 @@
 // Arquivo gerado automaticamente por scripts/daily_shuffle.py
 window.GUESS_THE_CAR_DATA = {
   "daily": {
-    "date": "2026-11-11",
-    "roundNumber": 5,
-    "updatedAt": "2026-11-11T10:33:49",
+    "date": "2026-11-12",
+    "roundNumber": 6,
+    "updatedAt": "2026-11-12T10:48:15",
     "carsPerDay": 3,
     "totalCatalogCars": 102,
-    "remainingInDeck": 6,
+    "remainingInDeck": 0,
     "todayIds": [
-      21263,
-      21724,
-      17340
+      205486,
+      18724,
+      17303
     ],
     "todayCars": [
       {
-        "id": 21263,
-        "slug": "captiva-ev",
-        "name": "Chevrolet Captiva EV",
-        "title": "Chevrolet Captiva EV",
-        "brand": "Chevrolet",
-        "year": "2026",
-        "powertrain": "Elétrico",
-        "bodyType": "SUV",
+        "id": 205486,
+        "slug": "ic-volkswagen-saveiro",
+        "name": "Volkswagen Saveiro 1.6 CD Extreme",
+        "title": "Volkswagen Saveiro 1.6 CD Extreme 2027",
+        "brand": "Volkswagen",
+        "year": "2027",
+        "powertrain": "Combustão (Flex)",
+        "bodyType": "Picape",
         "seats": "5",
         "traction": "Dianteira",
-        "transmission": "Automático",
-        "power": "201 cv",
-        "torque": "31,6 kgfm",
-        "range": "304 Km",
-        "battery": "60 kWh",
-        "topSpeed": "N/I",
-        "weight": "N/I",
-        "trunk": "400 L",
-        "image": "data/images/21263-captiva-ev.jpg",
-        "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2026/02/GM_CaptivaEV_04_0004.jpg",
-        "sourceUrl": "https://canalve.com.br/ficha-tecnica/chevrolet/tudo-sobre-captiva-ev/",
-        "sections": {
-          "Identificação": {
-            "Fabricante/Modelo": "Chevrolet Captiva EV",
-            "Ano": "2026",
-            "Carroceria": "SUV",
-            "Motorização": "Elétrico",
-            "Lugares": "5"
-          },
-          "Dimensões": {
-            "Comprimento": "4740 mm",
-            "Largura": "1.980 mm",
-            "Altura": "1.650 mm",
-            "Entre-eixos": "2.800 mm",
-            "Porta-malas": "400 L"
-          },
-          "Especificações": {
-            "Tração": "Dianteira",
-            "Câmbio": "Automático"
-          },
-          "Motor Elétrico": {
-            "Potência": "201 cv",
-            "Capacidade": "60 kWh",
-            "Torque": "31,6 kgfm",
-            "Autonomia": "304 Km",
-            "Potência de recarga": "6,6 kW / 120 kW AC/DC"
-          }
-        },
-        "sourceSite": "Canal VE"
+        "transmission": "Manual",
+        "power": "116 cv",
+        "torque": "16,1 kgfm",
+        "range": "7,9 km/l",
+        "battery": "N/I",
+        "topSpeed": "178 Km/h",
+        "weight": "1138 Kg",
+        "trunk": "N/I",
+        "image": "data/images/ic-261888-volkswagen-saveiro.webp",
+        "sourceImageUrl": "https://img2.icarros.com/dbimg/galeriaimgmodelo/0/154698_1.jpg",
+        "sourceUrl": "https://www.icarros.com.br/catalogo/marcas/volkswagen/saveiro",
+        "sourceSite": "iCarros",
+        "sections": {}
       },
       {
-        "id": 21724,
-        "slug": "yuan-plus-2027",
-        "name": "BYD Yuan Plus 2027",
-        "title": "BYD Yuan Plus 2027",
-        "brand": "BYD",
-        "year": "2027",
-        "powertrain": "Elétrico",
-        "bodyType": "SUV",
-        "seats": "5",
-        "traction": "Integral (AWD)",
-        "transmission": "Automático",
-        "power": "449 cv",
-        "torque": "57,1 kgfm",
-        "range": "N/I",
-        "battery": "74.88 kWh",
-        "topSpeed": "200 Km/h",
-        "weight": "2520 Kg",
-        "trunk": "490 L",
-        "image": "data/images/21724-yuan-plus-2027.jpg",
-        "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2026/04/yp27.jpg",
-        "sourceUrl": "https://canalve.com.br/ficha-tecnica/byd/tudo-sobre-yuan-plus-2027/",
-        "sections": {
-          "Identificação": {
-            "Fabricante/Modelo": "BYD Yuan Plus 2027",
-            "Ano": "2027",
-            "Carroceria": "SUV",
-            "Motorização": "Elétrico",
-            "Lugares": "5"
-          },
-          "Dimensões": {
-            "Peso": "2520 Kg",
-            "Comprimento": "4455 mm",
-            "Largura": "1875 mm",
-            "Altura": "1615 mm",
-            "Entre-eixos": "2720 mm",
-            "Porta-malas": "490 L"
-          },
-          "Especificações": {
-            "Tração": "Integral (AWD)",
-            "Suspensão Dianteira": "McPherson",
-            "Suspensão Traseira": "Multi-link",
-            "Freio Dianteiro": "Disco ventilado",
-            "Freio Traseiro": "Disco ventilado"
-          },
-          "Motor Elétrico": {
-            "Potência": "449 cv",
-            "Capacidade": "74.88 kWh",
-            "Torque": "57,1 kgfm",
-            "Velocidade Máxima": "200 Km/h",
-            "Potência de recarga": "11 kW / 205 kW AC/DC"
-          }
-        },
-        "sourceSite": "Canal VE"
-      },
-      {
-        "id": 17340,
-        "slug": "cayenne-coupe-e-hybrid-3-0-v6",
-        "name": "Porsche Cayenne Coupé E-Hybrid 3.0 V6",
-        "title": "Porsche Cayenne Coupé E-Hybrid 3.0 V6",
-        "brand": "Porsche",
-        "year": "2022",
+        "id": 18724,
+        "slug": "7-pro-phev",
+        "name": "Caoa Chery Tiggo 7 Pro PHEV",
+        "title": "Tiggo 7 Pro PHEV",
+        "brand": "Caoa Chery",
+        "year": "2025",
         "powertrain": "Híbrido Plug-in",
         "bodyType": "SUV",
         "seats": "5",
-        "traction": "Integral sob demanda",
-        "transmission": "Automático (8 marchas)",
-        "power": "136  cv",
-        "torque": "40,8 kgfm",
-        "range": "44 Km",
-        "battery": "13.1 kWh",
-        "topSpeed": "253 Km/h",
-        "weight": "2295 Kg",
-        "trunk": "645 L",
-        "image": "data/images/17340-cayenne-coupe-e-hybrid-3-0-v6.jpg",
-        "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/06/porsche-e.jpg",
-        "sourceUrl": "https://canalve.com.br/ficha-tecnica/porsche/tudo-sobre-cayenne-coupe-e-hybrid-3-0-v6/",
+        "traction": "Dianteira",
+        "transmission": "CVT de 1 marcha",
+        "power": "317 cv cv",
+        "torque": "56,6 kgfm kgfm",
+        "range": "60 Km",
+        "battery": "19.3 kWh",
+        "topSpeed": "190 Km/h",
+        "weight": "1704 Kg",
+        "trunk": "475 L",
+        "image": "data/images/18724-7-pro-phev.jpg",
+        "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/08/tiggo.jpg",
+        "sourceUrl": "https://canalve.com.br/ficha-tecnica/sem-fabricante/tudo-sobre-7-pro-phev/",
         "sections": {
           "Identificação": {
-            "Fabricante/Modelo": "Porsche Cayenne Coupé E-Hybrid 3.0 V6",
-            "Ano": "2022",
+            "Fabricante/Modelo": "Tiggo 7 Pro PHEV",
+            "Ano": "2025",
             "Carroceria": "SUV",
-            "Motorização": "Híbrido Plug-in",
             "Lugares": "5",
-            "Plataforma": "MLB Evo",
-            "Série": "958"
+            "Plataforma": "T1X"
           },
           "Dimensões": {
-            "Peso": "2295 Kg",
-            "Comprimento": "4918 mm",
-            "Largura": "1983 mm",
+            "Peso": "1704 Kg",
+            "Comprimento": "4513 mm",
+            "Largura": "1862 mm",
             "Altura": "1696 mm",
-            "Entre-eixos": "2895 mm",
-            "Bitola dianteira": "1680 mm",
-            "Bitola traseira": "1673 mm",
-            "Porta-malas": "645 L"
+            "Entre-eixos": "2670 mm",
+            "Bitola dianteira": "1550 mm",
+            "Bitola traseira": "1550 mm",
+            "Porta-malas": "475 L"
           },
           "Especificações": {
-            "Tração": "Integral sob demanda",
-            "Câmbio": "Automático (8 marchas)",
-            "Suspensão Dianteira": "Independente",
-            "Suspensão Traseira": "Independente",
+            "Tração": "Dianteira",
+            "Câmbio": "CVT de 1 marcha",
+            "Suspensão Dianteira": "Independente, McPherson",
+            "Suspensão Traseira": "Independente,  multibraço",
             "Freio Dianteiro": "Disco ventilado",
-            "Freio Traseiro": "Disco ventilado",
+            "Freio Traseiro": "Disco sólido",
             "Direção": "Elétrica"
           },
           "Motor Elétrico": {
-            "Potência": "136  cv",
-            "Capacidade": "13.1 kWh",
-            "Torque": "40,8 kgfm",
-            "Autonomia": "44 Km",
-            "Velocidade Máxima": "253 Km/h"
+            "Potência": "317 cv cv",
+            "Capacidade": "19.3 kWh",
+            "Torque": "56,6 kgfm kgfm",
+            "Autonomia": "60 Km",
+            "Velocidade Máxima": "190 Km/h",
+            "Potência de recarga": "7 kW/h AC AC/DC"
           },
           "Motor Combustão": {
-            "Potência": "340 cv 5400 rpm cv",
-            "Torque": "45,9 Kgfm 1300 rpm kgfm",
-            "Cilindros": "6 em linha",
-            "Cilindrada": "499",
+            "Potência": "147 cv cv",
+            "Torque": "22,5 kgfm kgfm",
+            "Cilindros": "4 em linha",
+            "Cilindrada": "375",
             "Aspiração": "Turbocompressor",
+            "Alimentação": "Injeção multiponto",
+            "Consumo Cidade": "12.3 Km/L",
+            "Consumo Estrada": "11.9 Km/L"
+          }
+        },
+        "sourceSite": "Canal VE"
+      },
+      {
+        "id": 17303,
+        "slug": "es300h",
+        "name": "Lexus ES300h",
+        "title": "Lexus ES300h",
+        "brand": "Lexus",
+        "year": "2023",
+        "powertrain": "Híbrido",
+        "bodyType": "Sedã",
+        "seats": "5",
+        "traction": "Dianteira",
+        "transmission": "CVT (0 marchas)",
+        "power": "120 cv",
+        "torque": "20,2  kgfm",
+        "range": "790 Km",
+        "battery": "1.3 kWh",
+        "topSpeed": "180 Km/h",
+        "weight": "1680 Kg",
+        "trunk": "454 L",
+        "image": "data/images/17303-es300h.webp",
+        "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/06/lexus-e.webp",
+        "sourceUrl": "https://canalve.com.br/ficha-tecnica/lexus/tudo-sobre-es300h/",
+        "sections": {
+          "Identificação": {
+            "Fabricante/Modelo": "Lexus ES300h",
+            "Ano": "2023",
+            "Carroceria": "Sedã",
+            "Motorização": "Elétrico",
+            "Lugares": "5",
+            "Plataforma": "TNGA",
+            "Série": "XZ10"
+          },
+          "Dimensões": {
+            "Peso": "1680 Kg",
+            "Comprimento": "4976 mm",
+            "Largura": "1864 mm",
+            "Altura": "1445 mm",
+            "Entre-eixos": "2870 mm",
+            "Bitola dianteira": "1600 mm",
+            "Bitola traseira": "1610 mm",
+            "Porta-malas": "454 L"
+          },
+          "Especificações": {
+            "Tração": "Dianteira",
+            "Câmbio": "CVT (0 marchas)",
+            "Suspensão Dianteira": "Independente",
+            "Suspensão Traseira": "Independente",
+            "Freio Dianteiro": "Disco ventilado",
+            "Freio Traseiro": "Disco sólido",
+            "Direção": "Elétrica"
+          },
+          "Motor Elétrico": {
+            "Potência": "120 cv",
+            "Capacidade": "1.3 kWh",
+            "Torque": "20,2  kgfm",
+            "Autonomia": "790 Km",
+            "Velocidade Máxima": "180 Km/h"
+          },
+          "Motor Combustão": {
+            "Potência": "178 cv 5700 rpm cv",
+            "Torque": "22,1 Kgfm 5200 rpm kgfm",
+            "Cilindros": "4 em linha",
+            "Cilindrada": "622",
+            "Aspiração": "Aspirado naturalmente",
             "Alimentação": "Injeção direta e indireta",
-            "Consumo Cidade": "16 Km/L",
-            "Consumo Estrada": "19.1 Km/L"
+            "Consumo Cidade": "15.8 Km/L",
+            "Consumo Estrada": "15.2 Km/L"
           }
         },
         "sourceSite": "Canal VE"
@@ -213,9 +202,9 @@ window.GUESS_THE_CAR_DATA = {
         17340
       ],
       "2026-11-12": [
-        18333,
-        17293,
-        23225
+        205486,
+        18724,
+        17303
       ],
       "2026-11-13": [
         19359,
@@ -361,6 +350,11 @@ window.GUESS_THE_CAR_DATA = {
         17336,
         17264,
         17319
+      ],
+      "2026-12-12": [
+        17313,
+        17346,
+        20318
       ]
     }
   },
