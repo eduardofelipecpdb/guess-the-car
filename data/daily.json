@@ -1,57 +1,114 @@
 {
-  "date": "2026-11-13",
-  "roundNumber": 7,
-  "updatedAt": "2026-11-13T10:43:48",
+  "date": "2026-11-14",
+  "roundNumber": 8,
+  "updatedAt": "2026-11-14T09:57:33",
   "carsPerDay": 3,
   "totalCatalogCars": 102,
-  "remainingInDeck": 96,
+  "remainingInDeck": 90,
   "todayIds": [
-    17259,
-    17243,
-    149021
+    19956,
+    17273,
+    17338
   ],
   "todayCars": [
     {
-      "id": 17259,
-      "slug": "03-gt-bev-63",
-      "name": "ORA 03 GT BEV 63",
-      "title": "ORA 03 GT BEV 63",
-      "brand": "ORA",
-      "year": "2024",
+      "id": 19956,
+      "slug": "dolphin-mini-2026",
+      "name": "BYD Dolphin Mini 2026",
+      "title": "BYD Dolphin Mini 2026",
+      "brand": "BYD",
+      "year": "2026",
       "powertrain": "Elétrico",
       "bodyType": "Hatch",
       "seats": "5",
       "traction": "Dianteira",
-      "transmission": "Automático (1 marcha)",
-      "power": "171  cv",
-      "torque": "25,5  kgfm",
-      "range": "319 Km",
-      "battery": "63 kWh",
-      "topSpeed": "160 Km/h",
-      "weight": "1591 Kg",
-      "trunk": "228 L",
-      "image": "data/images/17259-03-gt-bev-63.jpg",
-      "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/06/ora-e.jpg",
-      "sourceUrl": "https://canalve.com.br/ficha-tecnica/ora/tudo-sobre-03-gt-bev-63/",
+      "transmission": "Automático, 1 marcha",
+      "power": "75 cv",
+      "torque": "13,76 kgfm",
+      "range": "280 Km",
+      "battery": "38 kWh",
+      "topSpeed": "130 Km/h",
+      "weight": "1.665 Kg",
+      "trunk": "230 L",
+      "image": "data/images/19956-dolphin-mini-2026.png",
+      "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/11/byd-ficha-tecnica.png",
+      "sourceUrl": "https://canalve.com.br/ficha-tecnica/byd/tudo-sobre-dolphin-mini-2026/",
       "sections": {
         "Identificação": {
-          "Fabricante/Modelo": "ORA 03 GT BEV 63",
-          "Ano": "2024",
-          "Carroceria": "Hatchback",
+          "Fabricante/Modelo": "BYD Dolphin Mini 2026",
+          "Ano": "2026",
+          "Carroceria": "Hatch",
           "Motorização": "Elétrico",
-          "Lugares": "5",
-          "Plataforma": "LEMON",
-          "Série": "ES11"
+          "Lugares": "5"
         },
         "Dimensões": {
-          "Peso": "1591 Kg",
-          "Comprimento": "4254 mm",
-          "Largura": "1848 mm",
-          "Altura": "1603 mm",
-          "Entre-eixos": "2650 mm",
-          "Bitola dianteira": "1593 mm",
-          "Bitola traseira": "1573 mm",
-          "Porta-malas": "228 L"
+          "Peso": "1.665 Kg",
+          "Comprimento": "3780 mm",
+          "Largura": "1715 mm",
+          "Altura": "1580 mm",
+          "Entre-eixos": "2500 mm",
+          "Bitola dianteira": "1500 mm",
+          "Bitola traseira": "1500 mm",
+          "Porta-malas": "230 L"
+        },
+        "Especificações": {
+          "Tração": "Dianteira",
+          "Câmbio": "Automático, 1 marcha",
+          "Suspensão Dianteira": "McPherson",
+          "Suspensão Traseira": "Eixo de torção",
+          "Freio Dianteiro": "Discos ventilados",
+          "Freio Traseiro": "Discos sólidos",
+          "Direção": "Elétrica"
+        },
+        "Motor Elétrico": {
+          "Potência": "75 cv",
+          "Capacidade": "38 kWh",
+          "Torque": "13,76 kgfm",
+          "Autonomia": "280 Km",
+          "Velocidade Máxima": "130 Km/h",
+          "Potência de recarga": "6,6 kW / 40kW AC/DC"
+        }
+      },
+      "sourceSite": "Canal VE"
+    },
+    {
+      "id": 17273,
+      "slug": "kwid-e-tech-intense",
+      "name": "Renault Kwid E-Tech Intense",
+      "title": "Renault Kwid E-Tech Intense",
+      "brand": "Renault",
+      "year": "2023",
+      "powertrain": "Elétrico",
+      "bodyType": "Hatch",
+      "seats": "4",
+      "traction": "Dianteira",
+      "transmission": "Automático (1 marcha)",
+      "power": "65  cv",
+      "torque": "11,5  kgfm",
+      "range": "186 Km",
+      "battery": "26.8 kWh",
+      "topSpeed": "130 Km/h",
+      "weight": "977 Kg",
+      "trunk": "290 L",
+      "image": "data/images/17273-kwid-e-tech-intense.webp",
+      "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/05/renault-kwid-e-tech-c-jpg.webp",
+      "sourceUrl": "https://canalve.com.br/ficha-tecnica/renault/tudo-sobre-kwid-e-tech-intense/",
+      "sections": {
+        "Identificação": {
+          "Fabricante/Modelo": "Renault Kwid E-Tech Intense",
+          "Ano": "2023",
+          "Carroceria": "Hatchback",
+          "Motorização": "Elétrico",
+          "Lugares": "4",
+          "Plataforma": "CMF-A"
+        },
+        "Dimensões": {
+          "Peso": "977 Kg",
+          "Comprimento": "3734 mm",
+          "Largura": "1579 mm",
+          "Altura": "1500 mm",
+          "Entre-eixos": "2423 mm",
+          "Porta-malas": "290 L"
         },
         "Especificações": {
           "Tração": "Dianteira",
@@ -59,104 +116,85 @@
           "Suspensão Dianteira": "Independente",
           "Suspensão Traseira": "Eixo de torção",
           "Freio Dianteiro": "Disco ventilado",
+          "Freio Traseiro": "Tambor",
+          "Direção": "Elétrica"
+        },
+        "Motor Elétrico": {
+          "Potência": "65  cv",
+          "Capacidade": "26.8 kWh",
+          "Torque": "11,5  kgfm",
+          "Autonomia": "186 Km",
+          "Velocidade Máxima": "130 Km/h",
+          "Potência de recarga": "7 /30  AC/DC"
+        }
+      },
+      "sourceSite": "Canal VE"
+    },
+    {
+      "id": 17338,
+      "slug": "tank-300-2-0",
+      "name": "GWM Tank 300 2.0",
+      "title": "GWM Tank 300 2.0",
+      "brand": "GWM",
+      "year": "2025",
+      "powertrain": "Híbrido Plug-in",
+      "bodyType": "Jipe",
+      "seats": "5",
+      "traction": "Integral temporária",
+      "transmission": "Automático (9 marchas)",
+      "power": "163  cv",
+      "torque": "32,6 kgfm",
+      "range": "75 Km",
+      "battery": "37.1 kWh",
+      "topSpeed": "170 Km/h",
+      "weight": "2313 Kg",
+      "trunk": "400 L",
+      "image": "data/images/17338-tank-300-2-0.jpg",
+      "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/06/Tank-300.jpg",
+      "sourceUrl": "https://canalve.com.br/ficha-tecnica/gwm/tudo-sobre-tank-300-2-0/",
+      "sections": {
+        "Identificação": {
+          "Fabricante/Modelo": "GWM Tank 300 2.0",
+          "Ano": "2025",
+          "Carroceria": "Jipe",
+          "Motorização": "Híbrido Plug-in",
+          "Lugares": "5",
+          "Plataforma": "Tank"
+        },
+        "Dimensões": {
+          "Peso": "2313 Kg",
+          "Comprimento": "4760 mm",
+          "Largura": "1930 mm",
+          "Altura": "1903 mm",
+          "Entre-eixos": "2750 mm",
+          "Porta-malas": "400 L"
+        },
+        "Especificações": {
+          "Tração": "Integral temporária",
+          "Câmbio": "Automático (9 marchas)",
+          "Suspensão Dianteira": "Independente",
+          "Suspensão Traseira": "Independente",
+          "Freio Dianteiro": "Disco ventilado",
           "Freio Traseiro": "Disco sólido",
           "Direção": "Elétrica"
         },
         "Motor Elétrico": {
-          "Potência": "171  cv",
-          "Capacidade": "63 kWh",
-          "Torque": "25,5  kgfm",
-          "Autonomia": "319 Km",
-          "Velocidade Máxima": "160 Km/h",
-          "Potência de recarga": "11/67  AC/DC"
+          "Potência": "163  cv",
+          "Capacidade": "37.1 kWh",
+          "Torque": "32,6 kgfm",
+          "Autonomia": "75 Km",
+          "Velocidade Máxima": "170 Km/h"
+        },
+        "Motor Combustão": {
+          "Potência": "245 cv 5500 rpm cv",
+          "Torque": "38,7 Kgfm 1700 rpm kgfm",
+          "Cilindros": "4 em linha",
+          "Aspiração": "Turbocompressor",
+          "Alimentação": "Injeção direta",
+          "Consumo Cidade": "10.4 Km/L"
         }
       },
       "sourceSite": "Canal VE"
-    },
-    {
-      "id": 17243,
-      "slug": "seal-awd-gs",
-      "name": "BYD Seal AWD GS",
-      "title": "BYD Seal AWD GS",
-      "brand": "BYD",
-      "year": "2024",
-      "powertrain": "Elétrico",
-      "bodyType": "Sedã",
-      "seats": "5",
-      "traction": "4x4",
-      "transmission": "Automático (1 marcha)",
-      "power": "218 /313 cv",
-      "torque": "23,4/36,7 kgfm",
-      "range": "372 Km",
-      "battery": "82.5 kWh",
-      "topSpeed": "180 Km/h",
-      "weight": "2815 Kg",
-      "trunk": "400 L",
-      "image": "data/images/17243-seal-awd-gs.webp",
-      "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/05/BYD_Seal_RDUR0151xxx-jpg.webp",
-      "sourceUrl": "https://canalve.com.br/ficha-tecnica/byd/tudo-sobre-seal-awd-gs/",
-      "sections": {
-        "Identificação": {
-          "Fabricante/Modelo": "BYD Seal AWD GS",
-          "Ano": "2024",
-          "Carroceria": "Sedã",
-          "Lugares": "5",
-          "Plataforma": "e-Platform 3.0",
-          "Série": "Ocean"
-        },
-        "Dimensões": {
-          "Peso": "2815 Kg",
-          "Comprimento": "4800 mm",
-          "Largura": "1875 mm",
-          "Altura": "1460 mm",
-          "Entre-eixos": "2920 mm",
-          "Bitola dianteira": "1620 mm",
-          "Bitola traseira": "1625 mm",
-          "Porta-malas": "400 L"
-        },
-        "Especificações": {
-          "Tração": "4x4",
-          "Câmbio": "Automático (1 marcha)",
-          "Suspensão Dianteira": "Independente",
-          "Suspensão Traseira": "Independente",
-          "Freio Dianteiro": "Disco ventilado",
-          "Freio Traseiro": "Disco ventilado",
-          "Direção": "Elétrica"
-        },
-        "Motor Elétrico": {
-          "Potência": "218 /313 cv",
-          "Capacidade": "82.5 kWh",
-          "Torque": "23,4/36,7 kgfm",
-          "Autonomia": "372 Km",
-          "Velocidade Máxima": "180 Km/h"
-        }
-      },
-      "sourceSite": "Canal VE"
-    },
-    {
-      "id": 149021,
-      "slug": "cnw-49021-chevrolet-onix-eco-1-0-turbo-at",
-      "name": "Chevrolet Onix Eco 1.0 Turbo AT",
-      "title": "Chevrolet Onix Eco 1.0 Turbo AT",
-      "brand": "Chevrolet",
-      "year": "2027",
-      "powertrain": "Combustão (Flex)",
-      "bodyType": "Hatch",
-      "seats": "5",
-      "traction": "Dianteira",
-      "transmission": "Automático",
-      "power": "121 cv",
-      "torque": "18,9 kgfm",
-      "range": "470 km",
-      "battery": "N/I",
-      "topSpeed": "180 km/h",
-      "weight": "1085 Kg",
-      "trunk": "303 L",
-      "image": "data/images/cnw-49021-chevrolet-onix-eco-1-0-turbo-at.jpg",
-      "sourceImageUrl": "https://www.carrosnaweb.com.br/imagensbd007/onix-eco-2027-1.jpg",
-      "sourceUrl": "https://www.carrosnaweb.com.br/fichadetalhe.asp?codigo=49021",
-      "sourceSite": "Carros na Web",
-      "sections": {}
     }
   ],
   "schedule": {
@@ -191,9 +229,9 @@
       149021
     ],
     "2026-11-14": [
-      17290,
-      17340,
-      23122
+      19956,
+      17273,
+      17338
     ],
     "2026-11-15": [
       21724,
@@ -339,6 +377,11 @@
       17330,
       151009,
       21273
+    ],
+    "2026-12-14": [
+      17333,
+      151145,
+      17346
     ]
   }
 }
