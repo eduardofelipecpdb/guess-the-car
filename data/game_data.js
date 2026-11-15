@@ -1,61 +1,61 @@
 // Arquivo gerado automaticamente por scripts/daily_shuffle.py
 window.GUESS_THE_CAR_DATA = {
   "daily": {
-    "date": "2026-11-14",
-    "roundNumber": 8,
-    "updatedAt": "2026-11-14T09:57:33",
+    "date": "2026-11-15",
+    "roundNumber": 9,
+    "updatedAt": "2026-11-15T10:34:20",
     "carsPerDay": 3,
     "totalCatalogCars": 102,
-    "remainingInDeck": 90,
+    "remainingInDeck": 84,
     "todayIds": [
-      19956,
-      17273,
-      17338
+      19958,
+      224587,
+      17336
     ],
     "todayCars": [
       {
-        "id": 19956,
-        "slug": "dolphin-mini-2026",
-        "name": "BYD Dolphin Mini 2026",
-        "title": "BYD Dolphin Mini 2026",
+        "id": 19958,
+        "slug": "dolphin-gs-2026",
+        "name": "BYD Dolphin GS 2026",
+        "title": "BYD Dolphin GS 2026",
         "brand": "BYD",
         "year": "2026",
         "powertrain": "Elétrico",
         "bodyType": "Hatch",
         "seats": "5",
         "traction": "Dianteira",
-        "transmission": "Automático, 1 marcha",
-        "power": "75 cv",
-        "torque": "13,76 kgfm",
-        "range": "280 Km",
-        "battery": "38 kWh",
-        "topSpeed": "130 Km/h",
-        "weight": "1.665 Kg",
-        "trunk": "230 L",
-        "image": "data/images/19956-dolphin-mini-2026.png",
-        "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/11/byd-ficha-tecnica.png",
-        "sourceUrl": "https://canalve.com.br/ficha-tecnica/byd/tudo-sobre-dolphin-mini-2026/",
+        "transmission": "Automático",
+        "power": "95 cv",
+        "torque": "18,36 kgfm",
+        "range": "291 Km",
+        "battery": "44.9 kWh",
+        "topSpeed": "158 Km/h",
+        "weight": "1.815 Kg",
+        "trunk": "375 L",
+        "image": "data/images/19958-dolphin-gs-2026.jpg",
+        "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/11/GS-1.jpg",
+        "sourceUrl": "https://canalve.com.br/ficha-tecnica/byd/tudo-sobre-dolphin-gs-2026/",
         "sections": {
           "Identificação": {
-            "Fabricante/Modelo": "BYD Dolphin Mini 2026",
+            "Fabricante/Modelo": "BYD Dolphin GS 2026",
             "Ano": "2026",
             "Carroceria": "Hatch",
             "Motorização": "Elétrico",
             "Lugares": "5"
           },
           "Dimensões": {
-            "Peso": "1.665 Kg",
-            "Comprimento": "3780 mm",
-            "Largura": "1715 mm",
-            "Altura": "1580 mm",
-            "Entre-eixos": "2500 mm",
-            "Bitola dianteira": "1500 mm",
-            "Bitola traseira": "1500 mm",
-            "Porta-malas": "230 L"
+            "Peso": "1.815 Kg",
+            "Comprimento": "4125 mm",
+            "Largura": "1770 mm",
+            "Altura": "1570 mm",
+            "Entre-eixos": "2700 mm",
+            "Bitola dianteira": "1350 mm",
+            "Bitola traseira": "1350 mm",
+            "Porta-malas": "375 L"
           },
           "Especificações": {
             "Tração": "Dianteira",
-            "Câmbio": "Automático, 1 marcha",
+            "Câmbio": "Automático",
             "Suspensão Dianteira": "McPherson",
             "Suspensão Traseira": "Eixo de torção",
             "Freio Dianteiro": "Discos ventilados",
@@ -63,117 +63,85 @@ window.GUESS_THE_CAR_DATA = {
             "Direção": "Elétrica"
           },
           "Motor Elétrico": {
-            "Potência": "75 cv",
-            "Capacidade": "38 kWh",
-            "Torque": "13,76 kgfm",
-            "Autonomia": "280 Km",
-            "Velocidade Máxima": "130 Km/h",
-            "Potência de recarga": "6,6 kW / 40kW AC/DC"
+            "Potência": "95 cv",
+            "Capacidade": "44.9 kWh",
+            "Torque": "18,36 kgfm",
+            "Autonomia": "291 Km",
+            "Velocidade Máxima": "158 Km/h",
+            "Potência de recarga": "6,6 KW / 60 KW  AC/DC"
           }
         },
         "sourceSite": "Canal VE"
       },
       {
-        "id": 17273,
-        "slug": "kwid-e-tech-intense",
-        "name": "Renault Kwid E-Tech Intense",
-        "title": "Renault Kwid E-Tech Intense",
-        "brand": "Renault",
-        "year": "2023",
-        "powertrain": "Elétrico",
+        "id": 224587,
+        "slug": "ic-chevrolet-onix",
+        "name": "Chevrolet Onix 1.0 Turbo Activ",
+        "title": "Chevrolet Onix 1.0 Turbo Activ Auto 2027",
+        "brand": "Chevrolet",
+        "year": "2027",
+        "powertrain": "Combustão (Flex)",
         "bodyType": "Hatch",
-        "seats": "4",
+        "seats": "5",
         "traction": "Dianteira",
-        "transmission": "Automático (1 marcha)",
-        "power": "65  cv",
-        "torque": "11,5  kgfm",
-        "range": "186 Km",
-        "battery": "26.8 kWh",
-        "topSpeed": "130 Km/h",
-        "weight": "977 Kg",
-        "trunk": "290 L",
-        "image": "data/images/17273-kwid-e-tech-intense.webp",
-        "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/05/renault-kwid-e-tech-c-jpg.webp",
-        "sourceUrl": "https://canalve.com.br/ficha-tecnica/renault/tudo-sobre-kwid-e-tech-intense/",
-        "sections": {
-          "Identificação": {
-            "Fabricante/Modelo": "Renault Kwid E-Tech Intense",
-            "Ano": "2023",
-            "Carroceria": "Hatchback",
-            "Motorização": "Elétrico",
-            "Lugares": "4",
-            "Plataforma": "CMF-A"
-          },
-          "Dimensões": {
-            "Peso": "977 Kg",
-            "Comprimento": "3734 mm",
-            "Largura": "1579 mm",
-            "Altura": "1500 mm",
-            "Entre-eixos": "2423 mm",
-            "Porta-malas": "290 L"
-          },
-          "Especificações": {
-            "Tração": "Dianteira",
-            "Câmbio": "Automático (1 marcha)",
-            "Suspensão Dianteira": "Independente",
-            "Suspensão Traseira": "Eixo de torção",
-            "Freio Dianteiro": "Disco ventilado",
-            "Freio Traseiro": "Tambor",
-            "Direção": "Elétrica"
-          },
-          "Motor Elétrico": {
-            "Potência": "65  cv",
-            "Capacidade": "26.8 kWh",
-            "Torque": "11,5  kgfm",
-            "Autonomia": "186 Km",
-            "Velocidade Máxima": "130 Km/h",
-            "Potência de recarga": "7 /30  AC/DC"
-          }
-        },
-        "sourceSite": "Canal VE"
+        "transmission": "Automático",
+        "power": "115 cv",
+        "torque": "16,8 kgfm",
+        "range": "8,6 km/l",
+        "battery": "N/I",
+        "topSpeed": "N/I",
+        "weight": "1085 Kg",
+        "trunk": "303 L",
+        "image": "data/images/ic-250196-chevrolet-onix.webp",
+        "sourceImageUrl": "https://img1.icarros.com/dbimg/galeriaimgmodelo/0/155149_1.jpg",
+        "sourceUrl": "https://www.icarros.com.br/catalogo/marcas/chevrolet/onix",
+        "sourceSite": "iCarros",
+        "sections": {}
       },
       {
-        "id": 17338,
-        "slug": "tank-300-2-0",
-        "name": "GWM Tank 300 2.0",
-        "title": "GWM Tank 300 2.0",
+        "id": 17336,
+        "slug": "haval-h6-1-5-phev-34",
+        "name": "GWM Haval H6 1.5 PHEV 34",
+        "title": "GWM Haval H6 1.5 PHEV 34",
         "brand": "GWM",
-        "year": "2025",
-        "powertrain": "Híbrido Plug-in",
-        "bodyType": "Jipe",
+        "year": "2024",
+        "powertrain": "Híbrido",
+        "bodyType": "SUV",
         "seats": "5",
-        "traction": "Integral temporária",
-        "transmission": "Automático (9 marchas)",
-        "power": "163  cv",
-        "torque": "32,6 kgfm",
-        "range": "75 Km",
-        "battery": "37.1 kWh",
-        "topSpeed": "170 Km/h",
-        "weight": "2313 Kg",
-        "trunk": "400 L",
-        "image": "data/images/17338-tank-300-2-0.jpg",
-        "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/06/Tank-300.jpg",
-        "sourceUrl": "https://canalve.com.br/ficha-tecnica/gwm/tudo-sobre-tank-300-2-0/",
+        "traction": "Integral sob demanda",
+        "transmission": "Automatizado (2 marchas)",
+        "power": "177 /184  cv",
+        "torque": "30,6 /23,7  kgfm",
+        "range": "116 Km",
+        "battery": "34 kWh",
+        "topSpeed": "180 Km/h",
+        "weight": "1515 Kg",
+        "trunk": "515 L",
+        "image": "data/images/17336-haval-h6-1-5-phev-34.webp",
+        "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/05/haval-06-jpg.webp",
+        "sourceUrl": "https://canalve.com.br/ficha-tecnica/gwm/tudo-sobre-haval-h6-1-5-phev-34/",
         "sections": {
           "Identificação": {
-            "Fabricante/Modelo": "GWM Tank 300 2.0",
-            "Ano": "2025",
-            "Carroceria": "Jipe",
-            "Motorização": "Híbrido Plug-in",
+            "Fabricante/Modelo": "GWM Haval H6 1.5 PHEV 34",
+            "Ano": "2024",
+            "Carroceria": "SUV",
+            "Motorização": "Híbrido",
             "Lugares": "5",
-            "Plataforma": "Tank"
+            "Plataforma": "LEMON"
           },
           "Dimensões": {
-            "Peso": "2313 Kg",
-            "Comprimento": "4760 mm",
-            "Largura": "1930 mm",
-            "Altura": "1903 mm",
-            "Entre-eixos": "2750 mm",
-            "Porta-malas": "400 L"
+            "Peso": "1515 Kg",
+            "Comprimento": "4727 mm",
+            "Largura": "1940 mm",
+            "Altura": "1729 mm",
+            "Entre-eixos": "2738 mm",
+            "Bitola dianteira": "1631 mm",
+            "Bitola traseira": "1640 mm",
+            "Porta-malas": "515 L"
           },
           "Especificações": {
-            "Tração": "Integral temporária",
-            "Câmbio": "Automático (9 marchas)",
+            "Tração": "Integral sob demanda",
+            "Câmbio": "Automatizado (2 marchas)",
             "Suspensão Dianteira": "Independente",
             "Suspensão Traseira": "Independente",
             "Freio Dianteiro": "Disco ventilado",
@@ -181,19 +149,21 @@ window.GUESS_THE_CAR_DATA = {
             "Direção": "Elétrica"
           },
           "Motor Elétrico": {
-            "Potência": "163  cv",
-            "Capacidade": "37.1 kWh",
-            "Torque": "32,6 kgfm",
-            "Autonomia": "75 Km",
-            "Velocidade Máxima": "170 Km/h"
+            "Potência": "177 /184  cv",
+            "Capacidade": "34 kWh",
+            "Torque": "30,6 /23,7  kgfm",
+            "Autonomia": "116 Km",
+            "Velocidade Máxima": "180 Km/h"
           },
           "Motor Combustão": {
-            "Potência": "245 cv 5500 rpm cv",
-            "Torque": "38,7 Kgfm 1700 rpm kgfm",
+            "Potência": "150  cv",
+            "Torque": "23,4  kgfm",
             "Cilindros": "4 em linha",
+            "Cilindrada": "375",
             "Aspiração": "Turbocompressor",
             "Alimentação": "Injeção direta",
-            "Consumo Cidade": "10.4 Km/L"
+            "Consumo Cidade": "11.4 Km/L",
+            "Consumo Estrada": "10.4 Km/L"
           }
         },
         "sourceSite": "Canal VE"
@@ -236,9 +206,9 @@ window.GUESS_THE_CAR_DATA = {
         17338
       ],
       "2026-11-15": [
-        21724,
-        148669,
-        18790
+        19958,
+        224587,
+        17336
       ],
       "2026-11-16": [
         17243,
@@ -384,6 +354,11 @@ window.GUESS_THE_CAR_DATA = {
         17333,
         151145,
         17346
+      ],
+      "2026-12-15": [
+        21722,
+        17281,
+        17340
       ]
     }
   },
