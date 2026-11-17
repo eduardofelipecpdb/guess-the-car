@@ -1,144 +1,215 @@
 // Arquivo gerado automaticamente por scripts/daily_shuffle.py
 window.GUESS_THE_CAR_DATA = {
   "daily": {
-    "date": "2026-11-16",
-    "roundNumber": 10,
-    "updatedAt": "2026-11-16T10:50:30",
+    "date": "2026-11-17",
+    "roundNumber": 11,
+    "updatedAt": "2026-11-17T11:36:48",
     "carsPerDay": 3,
     "totalCatalogCars": 102,
-    "remainingInDeck": 78,
+    "remainingInDeck": 72,
     "todayIds": [
-      17244,
-      208408,
-      17264
+      23110,
+      18751,
+      17302
     ],
     "todayCars": [
       {
-        "id": 17244,
-        "slug": "yuan-plus-gl-310",
-        "name": "BYD Yuan Plus GL 310",
-        "title": "BYD Yuan Plus GL 310",
+        "id": 23110,
+        "slug": "atto-2-gs",
+        "name": "BYD Atto 2 GS",
+        "title": "BYD Atto 2 GS",
         "brand": "BYD",
-        "year": "2024",
-        "powertrain": "Elétrico",
+        "year": "2027",
+        "powertrain": "Híbrido Plug-in flex",
         "bodyType": "SUV",
         "seats": "5",
-        "traction": "N/I",
+        "traction": "Dianteira",
         "transmission": "Automático",
-        "power": "N/I",
-        "torque": "N/I",
-        "range": "N/I",
-        "battery": "N/I",
-        "topSpeed": "N/I",
-        "weight": "1700 Kg",
-        "trunk": "440 L",
-        "image": "data/images/17244-yuan-plus-gl-310.webp",
-        "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/05/byd-yuan-plus-jpg.webp",
-        "sourceUrl": "https://canalve.com.br/ficha-tecnica/byd/tudo-sobre-yuan-plus-gl-310/",
+        "power": "197 cv",
+        "torque": "30,59 kgfm",
+        "range": "1.045 Km",
+        "battery": "18.03 kWh",
+        "topSpeed": "180 Km/h",
+        "weight": "2.110 Kg",
+        "trunk": "455 L",
+        "image": "data/images/23110-atto-2-gs.jpg",
+        "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2026/08/banner-2-atto2-dm-i-pc2.jpg",
+        "sourceUrl": "https://canalve.com.br/ficha-tecnica/byd/tudo-sobre-atto-2-gs/",
         "sections": {
           "Identificação": {
-            "Fabricante/Modelo": "BYD Yuan Plus GL 310",
-            "Ano": "2024",
+            "Fabricante/Modelo": "BYD Atto 2 GS",
+            "Ano": "2027",
             "Carroceria": "SUV",
-            "Motorização": "Elétrico",
-            "Lugares": "5",
-            "Plataforma": "e-Platform 3.0",
-            "Série": "Dynasty"
+            "Motorização": "Híbrido Plug-in flex",
+            "Lugares": "5"
           },
           "Dimensões": {
-            "Peso": "1700 Kg",
-            "Comprimento": "4455 mm",
-            "Largura": "1875 mm",
-            "Altura": "1615 mm",
-            "Entre-eixos": "2720 mm",
-            "Porta-malas": "440 L"
+            "Peso": "2.110 Kg",
+            "Comprimento": "4330 mm",
+            "Largura": "1830 mm",
+            "Altura": "1670 mm",
+            "Entre-eixos": "2620 mm",
+            "Porta-malas": "455 L"
+          },
+          "Especificações": {
+            "Tração": "Dianteira",
+            "Câmbio": "Automático",
+            "Suspensão Dianteira": "McPherson",
+            "Suspensão Traseira": "Eixo de torção",
+            "Freio Dianteiro": "Disco ventilado",
+            "Freio Traseiro": "Disco sólido",
+            "Direção": "C-EPS"
+          },
+          "Motor Elétrico": {
+            "Potência": "197 cv",
+            "Capacidade": "18.03 kWh",
+            "Torque": "30,59 kgfm",
+            "Autonomia": "1.045 Km",
+            "Velocidade Máxima": "180 Km/h",
+            "Potência de recarga": "6,6 AC/DC"
+          },
+          "Motor Combustão": {
+            "Potência": "197 cv",
+            "Torque": "30,59 kgfm"
           }
         },
         "sourceSite": "Canal VE"
       },
       {
-        "id": 208408,
-        "slug": "ic-fiat-fastback",
-        "name": "Fiat Fastback 1.0 T 200",
-        "title": "Fiat Fastback 1.0 T 200 Hybrid Impetus AT cvt t200 mhev 2027",
-        "brand": "Fiat",
-        "year": "2027",
+        "id": 18751,
+        "slug": "equinox",
+        "name": "Chevrolet Equinox",
+        "title": "Chevrolet Equinox",
+        "brand": "Chevrolet",
+        "year": "2022",
         "powertrain": "Híbrido",
         "bodyType": "SUV",
         "seats": "5",
-        "traction": "Dianteira",
-        "transmission": "Automático",
-        "power": "130 cv",
-        "torque": "20,4 kgfm",
-        "range": "8,9 km/l",
-        "battery": "N/I",
-        "topSpeed": "193 Km/h",
-        "weight": "1271 Kg",
-        "trunk": "600 L",
-        "image": "data/images/ic-254570-fiat-fastback.webp",
-        "sourceImageUrl": "https://img0.icarros.com/dbimg/galeriaimgmodelo/0/155979_1.jpg",
-        "sourceUrl": "https://www.icarros.com.br/catalogo/marcas/fiat/fastback",
-        "sourceSite": "iCarros",
-        "sections": {}
-      },
-      {
-        "id": 17264,
-        "slug": "03-skin-bev-48",
-        "name": "ORA 03 Skin BEV 48",
-        "title": "ORA 03 Skin BEV 48",
-        "brand": "ORA",
-        "year": "2024",
-        "powertrain": "Elétrico",
-        "bodyType": "Hatch",
-        "seats": "5",
-        "traction": "Dianteira",
-        "transmission": "Automático (1 marcha)",
-        "power": "171  cv",
-        "torque": "25,5  kgfm",
-        "range": "232 Km",
-        "battery": "48 kWh",
-        "topSpeed": "160 Km/h",
-        "weight": "1586 Kg",
-        "trunk": "228 L",
-        "image": "data/images/17264-03-skin-bev-48.webp",
-        "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/05/gwm-ora-3-jpg-1.webp",
-        "sourceUrl": "https://canalve.com.br/ficha-tecnica/ora/tudo-sobre-03-skin-bev-48/",
+        "traction": "Integral sob demanda",
+        "transmission": "6T40",
+        "power": "175 cv",
+        "torque": "27,8 kgfm",
+        "range": "443 Km",
+        "battery": "85 kWh",
+        "topSpeed": "186 Km/h",
+        "weight": "1675 Kg",
+        "trunk": "468 L",
+        "image": "data/images/18751-equinox.webp",
+        "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2024/10/GM_EquinoxEV01_0001-jpg.webp",
+        "sourceUrl": "https://canalve.com.br/ficha-tecnica/chevrolet/tudo-sobre-equinox/",
         "sections": {
           "Identificação": {
-            "Fabricante/Modelo": "ORA 03 Skin BEV 48",
-            "Ano": "2024",
-            "Carroceria": "Hatchback",
-            "Motorização": "Elétrico",
+            "Fabricante/Modelo": "Chevrolet Equinox",
+            "Ano": "2022",
+            "Carroceria": "SUV",
             "Lugares": "5",
-            "Plataforma": "LEMON",
-            "Série": "ES11"
+            "Plataforma": "D2XX"
           },
           "Dimensões": {
-            "Peso": "1586 Kg",
-            "Comprimento": "4235 mm",
-            "Largura": "1825 mm",
-            "Altura": "1603 mm",
-            "Entre-eixos": "2650 mm",
-            "Bitola dianteira": "1577 mm",
-            "Bitola traseira": "1577 mm",
-            "Porta-malas": "228 L"
+            "Peso": "1675 Kg",
+            "Comprimento": "4652 mm",
+            "Largura": "1843 mm",
+            "Altura": "1697 mm",
+            "Entre-eixos": "2725 mm",
+            "Bitola dianteira": "1580 mm",
+            "Bitola traseira": "1581 mm",
+            "Porta-malas": "468 L"
           },
           "Especificações": {
-            "Tração": "Dianteira",
-            "Câmbio": "Automático (1 marcha)",
-            "Suspensão Dianteira": "Independente",
-            "Suspensão Traseira": "Eixo de torção",
+            "Tração": "Integral sob demanda",
+            "Câmbio": "6T40",
+            "Suspensão Dianteira": "Independente, McPherson",
+            "Suspensão Traseira": "Independente, multibraço",
             "Freio Dianteiro": "Disco ventilado",
             "Freio Traseiro": "Disco sólido",
             "Direção": "Elétrica"
           },
           "Motor Elétrico": {
-            "Potência": "171  cv",
-            "Capacidade": "48 kWh",
-            "Torque": "25,5  kgfm",
-            "Autonomia": "232 Km",
-            "Velocidade Máxima": "160 Km/h",
-            "Potência de recarga": "11 /64  AC/DC"
+            "Potência": "175 cv",
+            "Capacidade": "85 kWh",
+            "Torque": "27,8 kgfm",
+            "Autonomia": "443 Km",
+            "Velocidade Máxima": "186 Km/h"
+          },
+          "Motor Combustão": {
+            "Cilindros": "4 em linha",
+            "Cilindrada": "372",
+            "Aspiração": "Turbocompressor",
+            "Alimentação": "Injeção direta",
+            "Transmissão": "Integral sobdemanda",
+            "Consumo Cidade": "9 Km/L",
+            "Consumo Estrada": "10.8 Km/L"
+          }
+        },
+        "sourceSite": "Canal VE"
+      },
+      {
+        "id": 17302,
+        "slug": "niro-sx-1-6-prestige",
+        "name": "Kia Niro SX 1.6 Prestige",
+        "title": "Kia Niro SX 1.6 Prestige",
+        "brand": "KIA",
+        "year": "2024",
+        "powertrain": "Híbrido",
+        "bodyType": "SUV",
+        "seats": "5",
+        "traction": "Dianteira",
+        "transmission": "Automatizado (6 marchas)",
+        "power": "44  cv",
+        "torque": "17,3  kgfm",
+        "range": "832 Km",
+        "battery": "1.56 kWh",
+        "topSpeed": "175 Km/h",
+        "weight": "1394 Kg",
+        "trunk": "425 L",
+        "image": "data/images/17302-niro-sx-1-6-prestige.png",
+        "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/06/image-1.png",
+        "sourceUrl": "https://canalve.com.br/ficha-tecnica/kia/tudo-sobre-niro-sx-1-6-prestige/",
+        "sections": {
+          "Identificação": {
+            "Fabricante/Modelo": "Kia Niro SX 1.6 Prestige",
+            "Ano": "2024",
+            "Carroceria": "SUV",
+            "Motorização": "Híbrido",
+            "Lugares": "5",
+            "Plataforma": "K3",
+            "Série": "SG2"
+          },
+          "Dimensões": {
+            "Peso": "1394 Kg",
+            "Comprimento": "4420 mm",
+            "Largura": "1825 mm",
+            "Altura": "1545 mm",
+            "Entre-eixos": "2720 mm",
+            "Bitola dianteira": "1573 mm",
+            "Bitola traseira": "1585 mm",
+            "Porta-malas": "425 L"
+          },
+          "Especificações": {
+            "Tração": "Dianteira",
+            "Câmbio": "Automatizado (6 marchas)",
+            "Suspensão Dianteira": "Independente",
+            "Suspensão Traseira": "Independente",
+            "Freio Dianteiro": "Disco ventilado",
+            "Freio Traseiro": "Disco sólido",
+            "Direção": "Elétrica"
+          },
+          "Motor Elétrico": {
+            "Potência": "44  cv",
+            "Capacidade": "1.56 kWh",
+            "Torque": "17,3  kgfm",
+            "Autonomia": "832 Km",
+            "Velocidade Máxima": "175 Km/h"
+          },
+          "Motor Combustão": {
+            "Potência": "105 cv 5700 rpm cv",
+            "Torque": "14,7 Kgfm 4000 rpm kgfm",
+            "Cilindros": "4 em linha",
+            "Cilindrada": "395",
+            "Aspiração": "Aspirado naturalmente",
+            "Alimentação": "Injeção direta",
+            "Consumo Cidade": "19.8 Km/L",
+            "Consumo Estrada": "18.7 Km/L"
           }
         },
         "sourceSite": "Canal VE"
@@ -191,9 +262,9 @@ window.GUESS_THE_CAR_DATA = {
         17264
       ],
       "2026-11-17": [
-        17291,
-        17343,
-        17318
+        23110,
+        18751,
+        17302
       ],
       "2026-11-18": [
         17321,
@@ -339,6 +410,11 @@ window.GUESS_THE_CAR_DATA = {
         20310,
         21263,
         17290
+      ],
+      "2026-12-17": [
+        17241,
+        149061,
+        151919
       ]
     }
   },
