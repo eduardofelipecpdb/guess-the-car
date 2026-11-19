@@ -1,213 +1,149 @@
 {
-  "date": "2026-11-18",
-  "roundNumber": 12,
-  "updatedAt": "2026-11-18T11:22:31",
+  "date": "2026-11-19",
+  "roundNumber": 13,
+  "updatedAt": "2026-11-19T11:20:38",
   "carsPerDay": 3,
   "totalCatalogCars": 102,
-  "remainingInDeck": 66,
+  "remainingInDeck": 60,
   "todayIds": [
-    17318,
-    17335,
-    17246
+    20318,
+    18676,
+    222257
   ],
   "todayCars": [
     {
-      "id": 17318,
-      "slug": "rav4-sx-awd",
-      "name": "Toyota RAV4 SX AWD",
-      "title": "Toyota RAV4 SX AWD",
-      "brand": "Toyota",
-      "year": "2024",
-      "powertrain": "Híbrido",
-      "bodyType": "SUV",
+      "id": 20318,
+      "slug": "xpower",
+      "name": "MG4 XPower",
+      "title": "MG4 XPower",
+      "brand": "MG Motors",
+      "year": "2027",
+      "powertrain": "Elétrico",
+      "bodyType": "Hatch",
       "seats": "5",
-      "traction": "4x4 integrada",
-      "transmission": "CVT (6 marchas)",
-      "power": "59,5 /54  cv",
-      "torque": "10,3 /12,3  kgfm",
-      "range": "940 Km",
-      "battery": "1.6 kWh",
-      "topSpeed": "180 Km/h",
-      "weight": "1699 Kg",
-      "trunk": "580 L",
-      "image": "data/images/17318-rav4-sx-awd.jpg",
-      "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/05/toyota-e.jpg",
-      "sourceUrl": "https://canalve.com.br/ficha-tecnica/toyota/tudo-sobre-rav4-sx-awd/",
+      "traction": "AWD",
+      "transmission": "Automático",
+      "power": "425 cv",
+      "torque": "61 kgfm",
+      "range": "279 Km",
+      "battery": "62 kWh",
+      "topSpeed": "N/I",
+      "weight": "N/I",
+      "trunk": "350 L",
+      "image": "data/images/20318-xpower.jpg",
+      "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/11/MG4.jpg",
+      "sourceUrl": "https://canalve.com.br/ficha-tecnica/mg-motors/tudo-sobre-xpower/",
       "sections": {
         "Identificação": {
-          "Fabricante/Modelo": "Toyota RAV4 SX AWD",
-          "Ano": "2024",
-          "Carroceria": "SUV",
-          "Motorização": "Híbrido",
-          "Lugares": "5",
-          "Plataforma": "TNGA"
+          "Fabricante/Modelo": "MG4 XPower",
+          "Ano": "2027",
+          "Carroceria": "Hatch",
+          "Motorização": "Elétrico",
+          "Lugares": "5"
         },
         "Dimensões": {
-          "Peso": "1699 Kg",
-          "Comprimento": "4683 mm",
-          "Largura": "1855 mm",
-          "Altura": "1685 mm",
-          "Entre-eixos": "2690 mm",
-          "Bitola dianteira": "1600 mm",
-          "Bitola traseira": "1699 mm",
-          "Porta-malas": "580 L"
+          "Comprimento": "4287 mm",
+          "Largura": "1836 mm",
+          "Altura": "1504 mm",
+          "Entre-eixos": "2705 mm",
+          "Porta-malas": "350 L"
         },
         "Especificações": {
-          "Tração": "4x4 integrada",
-          "Câmbio": "CVT (6 marchas)",
-          "Suspensão Dianteira": "Independente",
-          "Suspensão Traseira": "Independente",
-          "Freio Dianteiro": "Disco ventilado",
-          "Freio Traseiro": "Disco sólido",
-          "Direção": "Elétrica"
+          "Tração": "AWD",
+          "Câmbio": "Automático"
         },
         "Motor Elétrico": {
-          "Potência": "59,5 /54  cv",
-          "Capacidade": "1.6 kWh",
-          "Torque": "10,3 /12,3  kgfm",
-          "Autonomia": "940 Km",
-          "Velocidade Máxima": "180 Km/h"
-        },
-        "Motor Combustão": {
-          "Potência": "150 cv 5700 rpm cv",
-          "Torque": "22,5 Kgfm 3600 rpm kgfm",
-          "Cilindros": "4 em linha",
-          "Cilindrada": "622",
-          "Aspiração": "Aspirado naturalmente",
-          "Alimentação": "Injeção direta e indireta",
-          "Consumo Cidade": "17.1 Km/L",
-          "Consumo Estrada": "14.5 Km/L"
+          "Potência": "425 cv",
+          "Capacidade": "62 kWh",
+          "Torque": "61 kgfm",
+          "Autonomia": "279 Km",
+          "Potência de recarga": "150 DC AC/DC"
         }
       },
       "sourceSite": "Canal VE"
     },
     {
-      "id": 17335,
-      "slug": "haval-g6-gt-1-5",
-      "name": "GWM Haval G6 GT 1.5",
-      "title": "GWM Haval G6 GT 1.5",
-      "brand": "GWM",
-      "year": "2024",
-      "powertrain": "Híbrido Plug-in",
-      "bodyType": "SUV",
+      "id": 18676,
+      "slug": "001",
+      "name": "Zeekr 001",
+      "title": "Zeekr 001",
+      "brand": "Zeekr",
+      "year": "2025",
+      "powertrain": "Elétrico",
+      "bodyType": "Perua",
       "seats": "5",
       "traction": "Integral sob demanda",
-      "transmission": "Automatizado (2 marchas)",
-      "power": "177 /184  cv",
-      "torque": "30,6 /23,7 kgfm",
-      "range": "116 Km",
-      "battery": "34 kWh",
-      "topSpeed": "180 Km/h",
-      "weight": "1515 Kg",
-      "trunk": "515 L",
-      "image": "data/images/17335-haval-g6-gt-1-5.webp",
-      "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/06/gwm-e.webp",
-      "sourceUrl": "https://canalve.com.br/ficha-tecnica/gwm/tudo-sobre-haval-g6-gt-1-5/",
+      "transmission": "Automático (1 marcha)",
+      "power": "544 cv cv",
+      "torque": "70 kgfm kgfm",
+      "range": "426 Km",
+      "battery": "100 kWh",
+      "topSpeed": "200 Km/h",
+      "weight": "2353 Kg",
+      "trunk": "539 L",
+      "image": "data/images/18676-001.png",
+      "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/08/zeekr-001.png",
+      "sourceUrl": "https://canalve.com.br/ficha-tecnica/zeekr/tudo-sobre-001/",
       "sections": {
         "Identificação": {
-          "Fabricante/Modelo": "GWM Haval G6 GT 1.5",
-          "Ano": "2024",
-          "Carroceria": "SUV",
-          "Motorização": "Híbrido Plug-in",
+          "Fabricante/Modelo": "Zeekr 001",
+          "Ano": "2025",
+          "Carroceria": "Perua",
           "Lugares": "5",
-          "Plataforma": "LEMON"
+          "Plataforma": "SEA"
         },
         "Dimensões": {
-          "Peso": "1515 Kg",
-          "Comprimento": "4727 mm",
-          "Largura": "1940 mm",
-          "Altura": "1729 mm",
-          "Entre-eixos": "2738 mm",
-          "Bitola dianteira": "1631 mm",
-          "Bitola traseira": "1640 mm",
-          "Porta-malas": "515 L"
+          "Peso": "2353 Kg",
+          "Comprimento": "4955 mm",
+          "Largura": "1999 mm",
+          "Altura": "1548 mm",
+          "Entre-eixos": "2999 mm",
+          "Porta-malas": "539 L"
         },
         "Especificações": {
           "Tração": "Integral sob demanda",
-          "Câmbio": "Automatizado (2 marchas)",
+          "Câmbio": "Automático (1 marcha)",
           "Suspensão Dianteira": "Independente",
           "Suspensão Traseira": "Independente",
           "Freio Dianteiro": "Disco ventilado",
-          "Freio Traseiro": "Disco sólido",
+          "Freio Traseiro": "Disco ventilado",
           "Direção": "Elétrica"
         },
         "Motor Elétrico": {
-          "Potência": "177 /184  cv",
-          "Capacidade": "34 kWh",
-          "Torque": "30,6 /23,7 kgfm",
-          "Autonomia": "116 Km",
-          "Velocidade Máxima": "180 Km/h"
-        },
-        "Motor Combustão": {
-          "Potência": "150 cv 5700 rpm cv",
-          "Torque": "23,4 Kgfm 1500 rpm kgfm",
-          "Cilindros": "4 em linha",
-          "Aspiração": "Turbocompressor",
-          "Alimentação": "Injeção direta",
-          "Consumo Cidade": "11.4 Km/L",
-          "Consumo Estrada": "10.4 Km/L"
+          "Potência": "544 cv cv",
+          "Capacidade": "100 kWh",
+          "Torque": "70 kgfm kgfm",
+          "Autonomia": "426 Km",
+          "Velocidade Máxima": "200 Km/h",
+          "Potência de recarga": "22 kW AC/ 200 kW DC AC/DC"
         }
       },
       "sourceSite": "Canal VE"
     },
     {
-      "id": 17246,
-      "slug": "yuan-pro-gs",
-      "name": "BYD Yuan Pro GS",
-      "title": "BYD Yuan Pro GS",
-      "brand": "BYD",
-      "year": "2025",
-      "powertrain": "Elétrico",
-      "bodyType": "SUV",
+      "id": 222257,
+      "slug": "ic-volkswagen-jetta",
+      "name": "Volkswagen Jetta 2.0 350 TSI",
+      "title": "Volkswagen Jetta 2.0 350 TSI GLI DSG 2026",
+      "brand": "Volkswagen",
+      "year": "2026",
+      "powertrain": "Combustão (Gasolina)",
+      "bodyType": "Sedã",
       "seats": "5",
       "traction": "Dianteira",
-      "transmission": "Automático (1 marcha)",
-      "power": "177  cv",
-      "torque": "29,6 kgfm",
-      "range": "250 Km",
-      "battery": "45.1 kWh",
-      "topSpeed": "160 Km/h",
-      "weight": "1550 Kg",
-      "trunk": "265 L",
-      "image": "data/images/17246-yuan-pro-gs.webp",
-      "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/05/byd-yuan-pro-jpg.webp",
-      "sourceUrl": "https://canalve.com.br/ficha-tecnica/byd/tudo-sobre-yuan-pro-gs/",
-      "sections": {
-        "Identificação": {
-          "Fabricante/Modelo": "BYD Yuan Pro GS",
-          "Ano": "2025",
-          "Carroceria": "SUV",
-          "Motorização": "Elétrico",
-          "Lugares": "5",
-          "Plataforma": "e-Platform 3.0",
-          "Série": "Dynasty"
-        },
-        "Dimensões": {
-          "Peso": "1550 Kg",
-          "Comprimento": "4310 mm",
-          "Largura": "1830 mm",
-          "Altura": "1675 mm",
-          "Entre-eixos": "2620 mm",
-          "Porta-malas": "265 L"
-        },
-        "Especificações": {
-          "Tração": "Dianteira",
-          "Câmbio": "Automático (1 marcha)",
-          "Suspensão Dianteira": "Independente",
-          "Suspensão Traseira": "Eixo de torção",
-          "Freio Dianteiro": "Disco ventilado",
-          "Freio Traseiro": "Disco sólido",
-          "Direção": "Elétrica"
-        },
-        "Motor Elétrico": {
-          "Potência": "177  cv",
-          "Capacidade": "45.1 kWh",
-          "Torque": "29,6 kgfm",
-          "Autonomia": "250 Km",
-          "Velocidade Máxima": "160 Km/h"
-        }
-      },
-      "sourceSite": "Canal VE"
+      "transmission": "Automático",
+      "power": "231 cv",
+      "torque": "35,7 kgfm",
+      "range": "9,9 km/l",
+      "battery": "N/I",
+      "topSpeed": "249 Km/h",
+      "weight": "1476 Kg",
+      "trunk": "510 L",
+      "image": "data/images/ic-239575-volkswagen-jetta.jpg",
+      "sourceImageUrl": "https://img0.icarros.com/dbimg/galeriaimgmodelo/0/152561_1.jpg",
+      "sourceUrl": "https://www.icarros.com.br/catalogo/marcas/volkswagen/jetta",
+      "sourceSite": "iCarros",
+      "sections": {}
     }
   ],
   "schedule": {
@@ -267,9 +203,9 @@
       17246
     ],
     "2026-11-19": [
-      17330,
-      17344,
-      17315
+      20318,
+      18676,
+      222257
     ],
     "2026-11-20": [
       20317,
@@ -415,6 +351,11 @@
       17300,
       19744,
       147777
+    ],
+    "2026-12-19": [
+      23122,
+      17325,
+      147796
     ]
   }
 }
