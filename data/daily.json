@@ -1,108 +1,176 @@
 {
-  "date": "2026-11-19",
-  "roundNumber": 13,
-  "updatedAt": "2026-11-19T11:20:38",
+  "date": "2026-11-20",
+  "roundNumber": 14,
+  "updatedAt": "2026-11-20T11:07:58",
   "carsPerDay": 3,
   "totalCatalogCars": 102,
-  "remainingInDeck": 60,
+  "remainingInDeck": 54,
   "todayIds": [
-    20318,
-    18676,
-    222257
+    17248,
+    22297,
+    17324
   ],
   "todayCars": [
     {
-      "id": 20318,
-      "slug": "xpower",
-      "name": "MG4 XPower",
-      "title": "MG4 XPower",
-      "brand": "MG Motors",
-      "year": "2027",
+      "id": 17248,
+      "slug": "ejs-1",
+      "name": "JAC EJS 1",
+      "title": "JAC EJS 1",
+      "brand": "JAC",
+      "year": "2023",
       "powertrain": "Elétrico",
       "bodyType": "Hatch",
       "seats": "5",
-      "traction": "AWD",
-      "transmission": "Automático",
-      "power": "425 cv",
-      "torque": "61 kgfm",
-      "range": "279 Km",
-      "battery": "62 kWh",
-      "topSpeed": "N/I",
-      "weight": "N/I",
-      "trunk": "350 L",
-      "image": "data/images/20318-xpower.jpg",
-      "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/11/MG4.jpg",
-      "sourceUrl": "https://canalve.com.br/ficha-tecnica/mg-motors/tudo-sobre-xpower/",
+      "traction": "Dianteira",
+      "transmission": "Automático (1 marcha)",
+      "power": "62  cv",
+      "torque": "15,3  kgfm",
+      "range": "161 Km",
+      "battery": "30.2 kWh",
+      "topSpeed": "110 Km/h",
+      "weight": "1180 Kg",
+      "trunk": "121 L",
+      "image": "data/images/17248-ejs-1.webp",
+      "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/05/JAC-E-JS1-jpg.webp",
+      "sourceUrl": "https://canalve.com.br/ficha-tecnica/jac/tudo-sobre-ejs-1/",
       "sections": {
         "Identificação": {
-          "Fabricante/Modelo": "MG4 XPower",
-          "Ano": "2027",
-          "Carroceria": "Hatch",
+          "Fabricante/Modelo": "JAC EJS 1",
+          "Ano": "2023",
+          "Carroceria": "Hatchback",
           "Motorização": "Elétrico",
           "Lugares": "5"
         },
         "Dimensões": {
-          "Comprimento": "4287 mm",
-          "Largura": "1836 mm",
-          "Altura": "1504 mm",
-          "Entre-eixos": "2705 mm",
-          "Porta-malas": "350 L"
+          "Peso": "1180 Kg",
+          "Comprimento": "3650 mm",
+          "Largura": "1670 mm",
+          "Altura": "1540 mm",
+          "Entre-eixos": "2390 mm",
+          "Porta-malas": "121 L"
         },
         "Especificações": {
-          "Tração": "AWD",
-          "Câmbio": "Automático"
+          "Tração": "Dianteira",
+          "Câmbio": "Automático (1 marcha)",
+          "Suspensão Dianteira": "Independente",
+          "Suspensão Traseira": "Eixo de torção",
+          "Freio Dianteiro": "Disco ventilado",
+          "Freio Traseiro": "Disco sólido",
+          "Direção": "Elétrica"
         },
         "Motor Elétrico": {
-          "Potência": "425 cv",
-          "Capacidade": "62 kWh",
-          "Torque": "61 kgfm",
-          "Autonomia": "279 Km",
-          "Potência de recarga": "150 DC AC/DC"
+          "Potência": "62  cv",
+          "Capacidade": "30.2 kWh",
+          "Torque": "15,3  kgfm",
+          "Autonomia": "161 Km",
+          "Velocidade Máxima": "110 Km/h",
+          "Potência de recarga": "7 /40  AC/DC"
         }
       },
       "sourceSite": "Canal VE"
     },
     {
-      "id": 18676,
-      "slug": "001",
-      "name": "Zeekr 001",
-      "title": "Zeekr 001",
-      "brand": "Zeekr",
-      "year": "2025",
+      "id": 22297,
+      "slug": "sealion-7",
+      "name": "BYD Sealion 7",
+      "title": "BYD Sealion 7",
+      "brand": "BYD",
+      "year": "2027",
       "powertrain": "Elétrico",
-      "bodyType": "Perua",
+      "bodyType": "SUV",
       "seats": "5",
-      "traction": "Integral sob demanda",
-      "transmission": "Automático (1 marcha)",
-      "power": "544 cv cv",
-      "torque": "70 kgfm kgfm",
-      "range": "426 Km",
-      "battery": "100 kWh",
-      "topSpeed": "200 Km/h",
-      "weight": "2353 Kg",
-      "trunk": "539 L",
-      "image": "data/images/18676-001.png",
-      "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/08/zeekr-001.png",
-      "sourceUrl": "https://canalve.com.br/ficha-tecnica/zeekr/tudo-sobre-001/",
+      "traction": "Integral",
+      "transmission": "Automático",
+      "power": "531 cv",
+      "torque": "70 kgfm",
+      "range": "360 Km",
+      "battery": "82.5 kWh",
+      "topSpeed": "215 Km/h",
+      "weight": "2.750 Kg",
+      "trunk": "500 L",
+      "image": "data/images/22297-sealion-7.jpg",
+      "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2026/05/BYD-SEALION-7-costas.jpg",
+      "sourceUrl": "https://canalve.com.br/ficha-tecnica/byd/tudo-sobre-sealion-7/",
       "sections": {
         "Identificação": {
-          "Fabricante/Modelo": "Zeekr 001",
-          "Ano": "2025",
-          "Carroceria": "Perua",
-          "Lugares": "5",
-          "Plataforma": "SEA"
+          "Fabricante/Modelo": "BYD Sealion 7",
+          "Ano": "2027",
+          "Carroceria": "SUV",
+          "Motorização": "Elétrico",
+          "Lugares": "5"
         },
         "Dimensões": {
-          "Peso": "2353 Kg",
-          "Comprimento": "4955 mm",
-          "Largura": "1999 mm",
-          "Altura": "1548 mm",
-          "Entre-eixos": "2999 mm",
-          "Porta-malas": "539 L"
+          "Peso": "2.750 Kg",
+          "Comprimento": "4830 mm",
+          "Largura": "1920 mm",
+          "Altura": "1620 mm",
+          "Entre-eixos": "2930 mm",
+          "Porta-malas": "500 L"
+        },
+        "Especificações": {
+          "Tração": "Integral",
+          "Câmbio": "Automático",
+          "Suspensão Dianteira": "Double Wishbone",
+          "Suspensão Traseira": "Multilink",
+          "Freio Dianteiro": "Disco ventilado / Perfurado",
+          "Freio Traseiro": "Disco ventilado",
+          "Direção": "C-EPS"
+        },
+        "Motor Elétrico": {
+          "Potência": "531 cv",
+          "Capacidade": "82.5 kWh",
+          "Torque": "70 kgfm",
+          "Autonomia": "360 Km",
+          "Velocidade Máxima": "215 Km/h",
+          "Potência de recarga": "11 kW / 150 kW AC/DC"
+        }
+      },
+      "sourceSite": "Canal VE"
+    },
+    {
+      "id": 17324,
+      "slug": "x3-xdrive-30e",
+      "name": "BMW X3 xDrive 30e",
+      "title": "BMW X3 xDrive 30e",
+      "brand": "BMW",
+      "year": "2023",
+      "powertrain": "Híbrido Plug-in",
+      "bodyType": "SUV",
+      "seats": "5",
+      "traction": "Integral sob demanda",
+      "transmission": "Automático (8 marchas)",
+      "power": "109  cv",
+      "torque": "10,7 kgfm",
+      "range": "31 Km",
+      "battery": "11 kWh",
+      "topSpeed": "210 Km/h",
+      "weight": "1990 Kg",
+      "trunk": "450 L",
+      "image": "data/images/17324-x3-xdrive-30e.webp",
+      "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/06/bmw-e-2.webp",
+      "sourceUrl": "https://canalve.com.br/ficha-tecnica/bmw/tudo-sobre-x3-xdrive-30e/",
+      "sections": {
+        "Identificação": {
+          "Fabricante/Modelo": "BMW X3 xDrive 30e",
+          "Ano": "2023",
+          "Carroceria": "SUV",
+          "Lugares": "5",
+          "Plataforma": "CLAR",
+          "Série": "G01"
+        },
+        "Dimensões": {
+          "Peso": "1990 Kg",
+          "Comprimento": "4708 mm",
+          "Largura": "1891 mm",
+          "Altura": "1676 mm",
+          "Entre-eixos": "2864 mm",
+          "Bitola dianteira": "1620 mm",
+          "Bitola traseira": "1636 mm",
+          "Porta-malas": "450 L"
         },
         "Especificações": {
           "Tração": "Integral sob demanda",
-          "Câmbio": "Automático (1 marcha)",
+          "Câmbio": "Automático (8 marchas)",
           "Suspensão Dianteira": "Independente",
           "Suspensão Traseira": "Independente",
           "Freio Dianteiro": "Disco ventilado",
@@ -110,40 +178,24 @@
           "Direção": "Elétrica"
         },
         "Motor Elétrico": {
-          "Potência": "544 cv cv",
-          "Capacidade": "100 kWh",
-          "Torque": "70 kgfm kgfm",
-          "Autonomia": "426 Km",
-          "Velocidade Máxima": "200 Km/h",
-          "Potência de recarga": "22 kW AC/ 200 kW DC AC/DC"
+          "Potência": "109  cv",
+          "Capacidade": "11 kWh",
+          "Torque": "10,7 kgfm",
+          "Autonomia": "31 Km",
+          "Velocidade Máxima": "210 Km/h"
+        },
+        "Motor Combustão": {
+          "Potência": "184 cv 5000 rpm cv",
+          "Torque": "30,6 Kgfm 1350 rpm kgfm",
+          "Cilindros": "4 em linha",
+          "Cilindrada": "500",
+          "Aspiração": "Turbocompressor",
+          "Alimentação": "Injeção direta",
+          "Consumo Cidade": "8.1 Km/L",
+          "Consumo Estrada": "9.6 Km/L"
         }
       },
       "sourceSite": "Canal VE"
-    },
-    {
-      "id": 222257,
-      "slug": "ic-volkswagen-jetta",
-      "name": "Volkswagen Jetta 2.0 350 TSI",
-      "title": "Volkswagen Jetta 2.0 350 TSI GLI DSG 2026",
-      "brand": "Volkswagen",
-      "year": "2026",
-      "powertrain": "Combustão (Gasolina)",
-      "bodyType": "Sedã",
-      "seats": "5",
-      "traction": "Dianteira",
-      "transmission": "Automático",
-      "power": "231 cv",
-      "torque": "35,7 kgfm",
-      "range": "9,9 km/l",
-      "battery": "N/I",
-      "topSpeed": "249 Km/h",
-      "weight": "1476 Kg",
-      "trunk": "510 L",
-      "image": "data/images/ic-239575-volkswagen-jetta.jpg",
-      "sourceImageUrl": "https://img0.icarros.com/dbimg/galeriaimgmodelo/0/152561_1.jpg",
-      "sourceUrl": "https://www.icarros.com.br/catalogo/marcas/volkswagen/jetta",
-      "sourceSite": "iCarros",
-      "sections": {}
     }
   ],
   "schedule": {
@@ -208,9 +260,9 @@
       222257
     ],
     "2026-11-20": [
-      20317,
-      208408,
-      17316
+      17248,
+      22297,
+      17324
     ],
     "2026-11-21": [
       17280,
@@ -356,6 +408,11 @@
       23122,
       17325,
       147796
+    ],
+    "2026-12-20": [
+      23213,
+      19359,
+      17343
     ]
   }
 }
