@@ -1,203 +1,171 @@
 // Arquivo gerado automaticamente por scripts/daily_shuffle.py
 window.GUESS_THE_CAR_DATA = {
   "daily": {
-    "date": "2026-11-20",
-    "roundNumber": 14,
-    "updatedAt": "2026-11-20T11:07:58",
+    "date": "2026-11-21",
+    "roundNumber": 15,
+    "updatedAt": "2026-11-21T10:48:23",
     "carsPerDay": 3,
     "totalCatalogCars": 102,
-    "remainingInDeck": 54,
+    "remainingInDeck": 48,
     "todayIds": [
-      17248,
-      22297,
-      17324
+      23112,
+      17303,
+      152317
     ],
     "todayCars": [
       {
-        "id": 17248,
-        "slug": "ejs-1",
-        "name": "JAC EJS 1",
-        "title": "JAC EJS 1",
-        "brand": "JAC",
-        "year": "2023",
+        "id": 23112,
+        "slug": "urban-comfort-43-kwh",
+        "name": "MG4 Urban Comfort 43 kWh",
+        "title": "MG4 Urban Comfort 43 kWh",
+        "brand": "MG Motors",
+        "year": "2027",
         "powertrain": "Elétrico",
         "bodyType": "Hatch",
         "seats": "5",
         "traction": "Dianteira",
-        "transmission": "Automático (1 marcha)",
-        "power": "62  cv",
-        "torque": "15,3  kgfm",
-        "range": "161 Km",
-        "battery": "30.2 kWh",
-        "topSpeed": "110 Km/h",
-        "weight": "1180 Kg",
-        "trunk": "121 L",
-        "image": "data/images/17248-ejs-1.webp",
-        "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/05/JAC-E-JS1-jpg.webp",
-        "sourceUrl": "https://canalve.com.br/ficha-tecnica/jac/tudo-sobre-ejs-1/",
+        "transmission": "Automático",
+        "power": "150 cv",
+        "torque": "25,5 kgfm",
+        "range": "299 Km",
+        "battery": "42.8 kWh",
+        "topSpeed": "160 Km/h",
+        "weight": "1.422 Kg",
+        "trunk": "577 L",
+        "image": "data/images/23112-urban-comfort-43-kwh.jpg",
+        "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2026/08/PRATA_CYAN_repositioned.jpg",
+        "sourceUrl": "https://canalve.com.br/ficha-tecnica/mg-motors/tudo-sobre-urban-comfort-43-kwh/",
         "sections": {
           "Identificação": {
-            "Fabricante/Modelo": "JAC EJS 1",
-            "Ano": "2023",
-            "Carroceria": "Hatchback",
+            "Fabricante/Modelo": "MG4 Urban Comfort 43 kWh",
+            "Ano": "2027",
+            "Carroceria": "Hatch",
             "Motorização": "Elétrico",
             "Lugares": "5"
           },
           "Dimensões": {
-            "Peso": "1180 Kg",
-            "Comprimento": "3650 mm",
-            "Largura": "1670 mm",
-            "Altura": "1540 mm",
-            "Entre-eixos": "2390 mm",
-            "Porta-malas": "121 L"
+            "Peso": "1.422 Kg",
+            "Comprimento": "4395 mm",
+            "Largura": "1842 mm",
+            "Altura": "1549 mm",
+            "Entre-eixos": "2750 mm",
+            "Porta-malas": "577 L"
           },
           "Especificações": {
             "Tração": "Dianteira",
-            "Câmbio": "Automático (1 marcha)",
+            "Câmbio": "Automático",
+            "Suspensão Dianteira": "Independente McPherson",
+            "Suspensão Traseira": "Barra de torção",
+            "Freio Dianteiro": "a disco",
+            "Freio Traseiro": "a disco",
+            "Direção": "C-EPS"
+          },
+          "Motor Elétrico": {
+            "Potência": "150 cv",
+            "Capacidade": "42.8 kWh",
+            "Torque": "25,5 kgfm",
+            "Autonomia": "299 Km",
+            "Velocidade Máxima": "160 Km/h",
+            "Potência de recarga": "11 kW / 82 kW  AC/DC"
+          }
+        },
+        "sourceSite": "Canal VE"
+      },
+      {
+        "id": 17303,
+        "slug": "es300h",
+        "name": "Lexus ES300h",
+        "title": "Lexus ES300h",
+        "brand": "Lexus",
+        "year": "2023",
+        "powertrain": "Híbrido",
+        "bodyType": "Sedã",
+        "seats": "5",
+        "traction": "Dianteira",
+        "transmission": "CVT (0 marchas)",
+        "power": "120 cv",
+        "torque": "20,2  kgfm",
+        "range": "790 Km",
+        "battery": "1.3 kWh",
+        "topSpeed": "180 Km/h",
+        "weight": "1680 Kg",
+        "trunk": "454 L",
+        "image": "data/images/17303-es300h.webp",
+        "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/06/lexus-e.webp",
+        "sourceUrl": "https://canalve.com.br/ficha-tecnica/lexus/tudo-sobre-es300h/",
+        "sections": {
+          "Identificação": {
+            "Fabricante/Modelo": "Lexus ES300h",
+            "Ano": "2023",
+            "Carroceria": "Sedã",
+            "Motorização": "Elétrico",
+            "Lugares": "5",
+            "Plataforma": "TNGA",
+            "Série": "XZ10"
+          },
+          "Dimensões": {
+            "Peso": "1680 Kg",
+            "Comprimento": "4976 mm",
+            "Largura": "1864 mm",
+            "Altura": "1445 mm",
+            "Entre-eixos": "2870 mm",
+            "Bitola dianteira": "1600 mm",
+            "Bitola traseira": "1610 mm",
+            "Porta-malas": "454 L"
+          },
+          "Especificações": {
+            "Tração": "Dianteira",
+            "Câmbio": "CVT (0 marchas)",
             "Suspensão Dianteira": "Independente",
-            "Suspensão Traseira": "Eixo de torção",
+            "Suspensão Traseira": "Independente",
             "Freio Dianteiro": "Disco ventilado",
             "Freio Traseiro": "Disco sólido",
             "Direção": "Elétrica"
           },
           "Motor Elétrico": {
-            "Potência": "62  cv",
-            "Capacidade": "30.2 kWh",
-            "Torque": "15,3  kgfm",
-            "Autonomia": "161 Km",
-            "Velocidade Máxima": "110 Km/h",
-            "Potência de recarga": "7 /40  AC/DC"
-          }
-        },
-        "sourceSite": "Canal VE"
-      },
-      {
-        "id": 22297,
-        "slug": "sealion-7",
-        "name": "BYD Sealion 7",
-        "title": "BYD Sealion 7",
-        "brand": "BYD",
-        "year": "2027",
-        "powertrain": "Elétrico",
-        "bodyType": "SUV",
-        "seats": "5",
-        "traction": "Integral",
-        "transmission": "Automático",
-        "power": "531 cv",
-        "torque": "70 kgfm",
-        "range": "360 Km",
-        "battery": "82.5 kWh",
-        "topSpeed": "215 Km/h",
-        "weight": "2.750 Kg",
-        "trunk": "500 L",
-        "image": "data/images/22297-sealion-7.jpg",
-        "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2026/05/BYD-SEALION-7-costas.jpg",
-        "sourceUrl": "https://canalve.com.br/ficha-tecnica/byd/tudo-sobre-sealion-7/",
-        "sections": {
-          "Identificação": {
-            "Fabricante/Modelo": "BYD Sealion 7",
-            "Ano": "2027",
-            "Carroceria": "SUV",
-            "Motorização": "Elétrico",
-            "Lugares": "5"
-          },
-          "Dimensões": {
-            "Peso": "2.750 Kg",
-            "Comprimento": "4830 mm",
-            "Largura": "1920 mm",
-            "Altura": "1620 mm",
-            "Entre-eixos": "2930 mm",
-            "Porta-malas": "500 L"
-          },
-          "Especificações": {
-            "Tração": "Integral",
-            "Câmbio": "Automático",
-            "Suspensão Dianteira": "Double Wishbone",
-            "Suspensão Traseira": "Multilink",
-            "Freio Dianteiro": "Disco ventilado / Perfurado",
-            "Freio Traseiro": "Disco ventilado",
-            "Direção": "C-EPS"
-          },
-          "Motor Elétrico": {
-            "Potência": "531 cv",
-            "Capacidade": "82.5 kWh",
-            "Torque": "70 kgfm",
-            "Autonomia": "360 Km",
-            "Velocidade Máxima": "215 Km/h",
-            "Potência de recarga": "11 kW / 150 kW AC/DC"
-          }
-        },
-        "sourceSite": "Canal VE"
-      },
-      {
-        "id": 17324,
-        "slug": "x3-xdrive-30e",
-        "name": "BMW X3 xDrive 30e",
-        "title": "BMW X3 xDrive 30e",
-        "brand": "BMW",
-        "year": "2023",
-        "powertrain": "Híbrido Plug-in",
-        "bodyType": "SUV",
-        "seats": "5",
-        "traction": "Integral sob demanda",
-        "transmission": "Automático (8 marchas)",
-        "power": "109  cv",
-        "torque": "10,7 kgfm",
-        "range": "31 Km",
-        "battery": "11 kWh",
-        "topSpeed": "210 Km/h",
-        "weight": "1990 Kg",
-        "trunk": "450 L",
-        "image": "data/images/17324-x3-xdrive-30e.webp",
-        "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/06/bmw-e-2.webp",
-        "sourceUrl": "https://canalve.com.br/ficha-tecnica/bmw/tudo-sobre-x3-xdrive-30e/",
-        "sections": {
-          "Identificação": {
-            "Fabricante/Modelo": "BMW X3 xDrive 30e",
-            "Ano": "2023",
-            "Carroceria": "SUV",
-            "Lugares": "5",
-            "Plataforma": "CLAR",
-            "Série": "G01"
-          },
-          "Dimensões": {
-            "Peso": "1990 Kg",
-            "Comprimento": "4708 mm",
-            "Largura": "1891 mm",
-            "Altura": "1676 mm",
-            "Entre-eixos": "2864 mm",
-            "Bitola dianteira": "1620 mm",
-            "Bitola traseira": "1636 mm",
-            "Porta-malas": "450 L"
-          },
-          "Especificações": {
-            "Tração": "Integral sob demanda",
-            "Câmbio": "Automático (8 marchas)",
-            "Suspensão Dianteira": "Independente",
-            "Suspensão Traseira": "Independente",
-            "Freio Dianteiro": "Disco ventilado",
-            "Freio Traseiro": "Disco ventilado",
-            "Direção": "Elétrica"
-          },
-          "Motor Elétrico": {
-            "Potência": "109  cv",
-            "Capacidade": "11 kWh",
-            "Torque": "10,7 kgfm",
-            "Autonomia": "31 Km",
-            "Velocidade Máxima": "210 Km/h"
+            "Potência": "120 cv",
+            "Capacidade": "1.3 kWh",
+            "Torque": "20,2  kgfm",
+            "Autonomia": "790 Km",
+            "Velocidade Máxima": "180 Km/h"
           },
           "Motor Combustão": {
-            "Potência": "184 cv 5000 rpm cv",
-            "Torque": "30,6 Kgfm 1350 rpm kgfm",
+            "Potência": "178 cv 5700 rpm cv",
+            "Torque": "22,1 Kgfm 5200 rpm kgfm",
             "Cilindros": "4 em linha",
-            "Cilindrada": "500",
-            "Aspiração": "Turbocompressor",
-            "Alimentação": "Injeção direta",
-            "Consumo Cidade": "8.1 Km/L",
-            "Consumo Estrada": "9.6 Km/L"
+            "Cilindrada": "622",
+            "Aspiração": "Aspirado naturalmente",
+            "Alimentação": "Injeção direta e indireta",
+            "Consumo Cidade": "15.8 Km/L",
+            "Consumo Estrada": "15.2 Km/L"
           }
         },
         "sourceSite": "Canal VE"
+      },
+      {
+        "id": 152317,
+        "slug": "cnw-52317-volkswagen-saveiro-robust-etanol-1-6-cs",
+        "name": "Volkswagen Saveiro Robust Etanol 1.6 CS",
+        "title": "Volkswagen Saveiro Robust Etanol 1.6 CS",
+        "brand": "Volkswagen",
+        "year": "2027",
+        "powertrain": "Combustão (Flex)",
+        "bodyType": "Picape",
+        "seats": "2",
+        "traction": "Dianteira",
+        "transmission": "Manual",
+        "power": "116 cv",
+        "torque": "16,1 kgfm",
+        "range": "490 km",
+        "battery": "N/I",
+        "topSpeed": "181 km/h",
+        "weight": "1075 Kg",
+        "trunk": "924 L",
+        "image": "data/images/cnw-52317-volkswagen-saveiro-robust-etanol-1-6-cs.jpg",
+        "sourceImageUrl": "https://www.carrosnaweb.com.br/imagensbd007/saveiro-robust-cs-2024-1.jpg",
+        "sourceUrl": "https://www.carrosnaweb.com.br/fichadetalhe.asp?codigo=52317",
+        "sourceSite": "Carros na Web",
+        "sections": {}
       }
     ],
     "schedule": {
@@ -267,9 +235,9 @@ window.GUESS_THE_CAR_DATA = {
         17324
       ],
       "2026-11-21": [
-        17280,
-        239652,
-        19820
+        23112,
+        17303,
+        152317
       ],
       "2026-11-22": [
         149061,
@@ -415,6 +383,11 @@ window.GUESS_THE_CAR_DATA = {
         23213,
         19359,
         17343
+      ],
+      "2026-12-21": [
+        18726,
+        20313,
+        277887
       ]
     }
   },
