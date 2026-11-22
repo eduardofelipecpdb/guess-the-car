@@ -1,169 +1,158 @@
 {
-  "date": "2026-11-21",
-  "roundNumber": 15,
-  "updatedAt": "2026-11-21T10:48:23",
+  "date": "2026-11-22",
+  "roundNumber": 16,
+  "updatedAt": "2026-11-22T10:55:45",
   "carsPerDay": 3,
   "totalCatalogCars": 102,
-  "remainingInDeck": 48,
+  "remainingInDeck": 42,
   "todayIds": [
-    23112,
-    17303,
-    152317
+    271947,
+    18303,
+    18333
   ],
   "todayCars": [
     {
-      "id": 23112,
-      "slug": "urban-comfort-43-kwh",
-      "name": "MG4 Urban Comfort 43 kWh",
-      "title": "MG4 Urban Comfort 43 kWh",
-      "brand": "MG Motors",
+      "id": 271947,
+      "slug": "ic-volkswagen-id.4",
+      "name": "Volkswagen ID.4 84kWh Pro",
+      "title": "Volkswagen ID.4 84kWh Pro Auto bev 2027",
+      "brand": "Volkswagen",
       "year": "2027",
       "powertrain": "Elétrico",
-      "bodyType": "Hatch",
+      "bodyType": "SUV",
       "seats": "5",
       "traction": "Dianteira",
       "transmission": "Automático",
-      "power": "150 cv",
-      "torque": "25,5 kgfm",
-      "range": "299 Km",
-      "battery": "42.8 kWh",
-      "topSpeed": "160 Km/h",
-      "weight": "1.422 Kg",
-      "trunk": "577 L",
-      "image": "data/images/23112-urban-comfort-43-kwh.jpg",
-      "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2026/08/PRATA_CYAN_repositioned.jpg",
-      "sourceUrl": "https://canalve.com.br/ficha-tecnica/mg-motors/tudo-sobre-urban-comfort-43-kwh/",
-      "sections": {
-        "Identificação": {
-          "Fabricante/Modelo": "MG4 Urban Comfort 43 kWh",
-          "Ano": "2027",
-          "Carroceria": "Hatch",
-          "Motorização": "Elétrico",
-          "Lugares": "5"
-        },
-        "Dimensões": {
-          "Peso": "1.422 Kg",
-          "Comprimento": "4395 mm",
-          "Largura": "1842 mm",
-          "Altura": "1549 mm",
-          "Entre-eixos": "2750 mm",
-          "Porta-malas": "577 L"
-        },
-        "Especificações": {
-          "Tração": "Dianteira",
-          "Câmbio": "Automático",
-          "Suspensão Dianteira": "Independente McPherson",
-          "Suspensão Traseira": "Barra de torção",
-          "Freio Dianteiro": "a disco",
-          "Freio Traseiro": "a disco",
-          "Direção": "C-EPS"
-        },
-        "Motor Elétrico": {
-          "Potência": "150 cv",
-          "Capacidade": "42.8 kWh",
-          "Torque": "25,5 kgfm",
-          "Autonomia": "299 Km",
-          "Velocidade Máxima": "160 Km/h",
-          "Potência de recarga": "11 kW / 82 kW  AC/DC"
-        }
-      },
-      "sourceSite": "Canal VE"
+      "power": "286 cv",
+      "torque": "55,6 kgfm",
+      "range": "N/I",
+      "battery": "N/I",
+      "topSpeed": "N/I",
+      "weight": "2120 Kg",
+      "trunk": "533 L",
+      "image": "data/images/ic-263169-volkswagen-id-4.webp",
+      "sourceImageUrl": "https://img1.icarros.com/dbimg/galeriaimgmodelo/0/156323_1.jpg",
+      "sourceUrl": "https://www.icarros.com.br/catalogo/marcas/volkswagen/id.4",
+      "sourceSite": "iCarros",
+      "sections": {}
     },
     {
-      "id": 17303,
-      "slug": "es300h",
-      "name": "Lexus ES300h",
-      "title": "Lexus ES300h",
-      "brand": "Lexus",
+      "id": 18303,
+      "slug": "e-2008-gt",
+      "name": "Peugeot E-2008 GT",
+      "title": "Peugeot E-2008 GT",
+      "brand": "Peugeot",
       "year": "2023",
-      "powertrain": "Híbrido",
-      "bodyType": "Sedã",
+      "powertrain": "Elétrico",
+      "bodyType": "SUV",
       "seats": "5",
       "traction": "Dianteira",
-      "transmission": "CVT (0 marchas)",
-      "power": "120 cv",
-      "torque": "20,2  kgfm",
-      "range": "790 Km",
-      "battery": "1.3 kWh",
-      "topSpeed": "180 Km/h",
-      "weight": "1680 Kg",
-      "trunk": "454 L",
-      "image": "data/images/17303-es300h.webp",
-      "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/06/lexus-e.webp",
-      "sourceUrl": "https://canalve.com.br/ficha-tecnica/lexus/tudo-sobre-es300h/",
+      "transmission": "Automático (1 marcha)",
+      "power": "136 cv",
+      "torque": "26,5 kgfm",
+      "range": "23 Km",
+      "battery": "50 kWh",
+      "topSpeed": "N/I",
+      "weight": "1630 Kg",
+      "trunk": "375 L",
+      "image": "data/images/18303-e-2008-gt.png",
+      "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/07/peugeot-e.png",
+      "sourceUrl": "https://canalve.com.br/ficha-tecnica/sem-fabricante/tudo-sobre-e-2008-gt/",
       "sections": {
         "Identificação": {
-          "Fabricante/Modelo": "Lexus ES300h",
+          "Fabricante/Modelo": "Peugeot E-2008 GT",
           "Ano": "2023",
-          "Carroceria": "Sedã",
-          "Motorização": "Elétrico",
+          "Carroceria": "SUV",
           "Lugares": "5",
-          "Plataforma": "TNGA",
-          "Série": "XZ10"
+          "Plataforma": "e-CMP"
         },
         "Dimensões": {
-          "Peso": "1680 Kg",
-          "Comprimento": "4976 mm",
-          "Largura": "1864 mm",
-          "Altura": "1445 mm",
-          "Entre-eixos": "2870 mm",
-          "Bitola dianteira": "1600 mm",
-          "Bitola traseira": "1610 mm",
-          "Porta-malas": "454 L"
+          "Peso": "1630 Kg",
+          "Comprimento": "4300 mm",
+          "Largura": "1770 mm",
+          "Altura": "1550 mm",
+          "Entre-eixos": "2605 mm",
+          "Bitola dianteira": "1540 mm",
+          "Bitola traseira": "1540 mm",
+          "Porta-malas": "375 L"
         },
         "Especificações": {
           "Tração": "Dianteira",
-          "Câmbio": "CVT (0 marchas)",
+          "Câmbio": "Automático (1 marcha)",
           "Suspensão Dianteira": "Independente",
-          "Suspensão Traseira": "Independente",
+          "Suspensão Traseira": "Eixo de torção",
           "Freio Dianteiro": "Disco ventilado",
           "Freio Traseiro": "Disco sólido",
           "Direção": "Elétrica"
         },
         "Motor Elétrico": {
-          "Potência": "120 cv",
-          "Capacidade": "1.3 kWh",
-          "Torque": "20,2  kgfm",
-          "Autonomia": "790 Km",
-          "Velocidade Máxima": "180 Km/h"
-        },
-        "Motor Combustão": {
-          "Potência": "178 cv 5700 rpm cv",
-          "Torque": "22,1 Kgfm 5200 rpm kgfm",
-          "Cilindros": "4 em linha",
-          "Cilindrada": "622",
-          "Aspiração": "Aspirado naturalmente",
-          "Alimentação": "Injeção direta e indireta",
-          "Consumo Cidade": "15.8 Km/L",
-          "Consumo Estrada": "15.2 Km/L"
+          "Potência": "136 cv",
+          "Capacidade": "50 kWh",
+          "Torque": "26,5 kgfm",
+          "Autonomia": "23 Km"
         }
       },
       "sourceSite": "Canal VE"
     },
     {
-      "id": 152317,
-      "slug": "cnw-52317-volkswagen-saveiro-robust-etanol-1-6-cs",
-      "name": "Volkswagen Saveiro Robust Etanol 1.6 CS",
-      "title": "Volkswagen Saveiro Robust Etanol 1.6 CS",
-      "brand": "Volkswagen",
-      "year": "2027",
-      "powertrain": "Combustão (Flex)",
-      "bodyType": "Picape",
-      "seats": "2",
-      "traction": "Dianteira",
-      "transmission": "Manual",
-      "power": "116 cv",
-      "torque": "16,1 kgfm",
-      "range": "490 km",
-      "battery": "N/I",
-      "topSpeed": "181 km/h",
-      "weight": "1075 Kg",
-      "trunk": "924 L",
-      "image": "data/images/cnw-52317-volkswagen-saveiro-robust-etanol-1-6-cs.jpg",
-      "sourceImageUrl": "https://www.carrosnaweb.com.br/imagensbd007/saveiro-robust-cs-2024-1.jpg",
-      "sourceUrl": "https://www.carrosnaweb.com.br/fichadetalhe.asp?codigo=52317",
-      "sourceSite": "Carros na Web",
-      "sections": {}
+      "id": 18333,
+      "slug": "tan",
+      "name": "BYD Tan",
+      "title": "BYD Tan",
+      "brand": "BYD",
+      "year": "2025",
+      "powertrain": "Elétrico",
+      "bodyType": "SUV",
+      "seats": "7",
+      "traction": "Integral sob demanda",
+      "transmission": "Automático (1 marcha)",
+      "power": "517 cv",
+      "torque": "71,4 kgfm",
+      "range": "430 Km",
+      "battery": "108.8 kWh",
+      "topSpeed": "190 Km/h",
+      "weight": "2630 Kg",
+      "trunk": "600 L",
+      "image": "data/images/18333-tan.png",
+      "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/07/byd-e-.png",
+      "sourceUrl": "https://canalve.com.br/ficha-tecnica/byd/tudo-sobre-tan/",
+      "sections": {
+        "Identificação": {
+          "Fabricante/Modelo": "BYD Tan",
+          "Ano": "2025",
+          "Carroceria": "SUV",
+          "Motorização": "Elétrico",
+          "Lugares": "7",
+          "Série": "Dynasty"
+        },
+        "Dimensões": {
+          "Peso": "2630 Kg",
+          "Comprimento": "4970 mm",
+          "Largura": "1955 mm",
+          "Altura": "1745 mm",
+          "Entre-eixos": "2820 mm",
+          "Bitola dianteira": "1650 mm",
+          "Bitola traseira": "1630 mm",
+          "Porta-malas": "600 L"
+        },
+        "Especificações": {
+          "Tração": "Integral sob demanda",
+          "Câmbio": "Automático (1 marcha)",
+          "Suspensão Dianteira": "Independente",
+          "Suspensão Traseira": "Independente",
+          "Freio Dianteiro": "Disco ventilado",
+          "Freio Traseiro": "Disco ventilado",
+          "Direção": "Elétrica"
+        },
+        "Motor Elétrico": {
+          "Potência": "517 cv",
+          "Capacidade": "108.8 kWh",
+          "Torque": "71,4 kgfm",
+          "Autonomia": "430 Km",
+          "Velocidade Máxima": "190 Km/h"
+        }
+      },
+      "sourceSite": "Canal VE"
     }
   ],
   "schedule": {
@@ -238,9 +227,9 @@
       152317
     ],
     "2026-11-22": [
-      149061,
-      18732,
-      17331
+      271947,
+      18303,
+      18333
     ],
     "2026-11-23": [
       17333,
@@ -386,6 +375,11 @@
       18726,
       20313,
       277887
+    ],
+    "2026-12-22": [
+      19830,
+      17291,
+      18668
     ]
   }
 }
