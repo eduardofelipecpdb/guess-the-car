@@ -1,61 +1,111 @@
 // Arquivo gerado automaticamente por scripts/daily_shuffle.py
 window.GUESS_THE_CAR_DATA = {
   "daily": {
-    "date": "2026-11-23",
-    "roundNumber": 17,
-    "updatedAt": "2026-11-23T12:01:27",
+    "date": "2026-11-24",
+    "roundNumber": 18,
+    "updatedAt": "2026-11-24T13:26:20",
     "carsPerDay": 3,
     "totalCatalogCars": 102,
-    "remainingInDeck": 36,
+    "remainingInDeck": 30,
     "todayIds": [
-      17280,
-      17301,
-      17319
+      20317,
+      17332,
+      19937
     ],
     "todayCars": [
       {
-        "id": 17280,
-        "slug": "ec40-6-plus",
-        "name": "Volvo EC40 6 Plus",
-        "title": "Volvo EC40 6 Plus",
-        "brand": "Volvo",
-        "year": "2024",
+        "id": 20317,
+        "slug": "20317",
+        "name": "MGS5",
+        "title": "MGS5",
+        "brand": "MG Motors",
+        "year": "2025",
         "powertrain": "Elétrico",
         "bodyType": "SUV",
         "seats": "5",
         "traction": "Traseira",
-        "transmission": "Automático (1 marcha)",
-        "power": "238  cv",
-        "torque": "42,8  kgfm",
-        "range": "367 Km",
-        "battery": "68 kWh",
-        "topSpeed": "180 Km/h",
-        "weight": "2030 Kg",
-        "trunk": "419 L",
-        "image": "data/images/17280-ec40-6-plus.webp",
-        "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/05/volvo-ec40-jpg.webp",
-        "sourceUrl": "https://canalve.com.br/ficha-tecnica/volvo/tudo-sobre-ec40-6-plus/",
+        "transmission": "Automático",
+        "power": "305 cv",
+        "torque": "35,6 kgfm",
+        "range": "351 Km",
+        "battery": "62 kWh",
+        "topSpeed": "N/I",
+        "weight": "N/I",
+        "trunk": "453 L",
+        "image": "data/images/20317-20317.jpg",
+        "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/11/MGS5.jpg",
+        "sourceUrl": "https://canalve.com.br/ficha-tecnica/mg-motors/tudo-sobre/",
         "sections": {
           "Identificação": {
-            "Fabricante/Modelo": "Volvo EC40 6 Plus",
-            "Ano": "2024",
+            "Fabricante/Modelo": "MGS5",
+            "Ano": "2025",
             "Carroceria": "SUV",
             "Motorização": "Elétrico",
-            "Lugares": "5",
-            "Plataforma": "CMA"
+            "Lugares": "5"
           },
           "Dimensões": {
-            "Peso": "2030 Kg",
-            "Comprimento": "4440 mm",
-            "Largura": "1863 mm",
-            "Altura": "1647 mm",
-            "Entre-eixos": "2701 mm",
-            "Bitola dianteira": "1601 mm",
-            "Bitola traseira": "1610 mm",
-            "Porta-malas": "419 L"
+            "Comprimento": "4476 mm",
+            "Largura": "1849 mm",
+            "Altura": "1621 mm",
+            "Entre-eixos": "2730 mm",
+            "Porta-malas": "453 L"
           },
           "Especificações": {
             "Tração": "Traseira",
+            "Câmbio": "Automático"
+          },
+          "Motor Elétrico": {
+            "Potência": "305 cv",
+            "Capacidade": "62 kWh",
+            "Torque": "35,6 kgfm",
+            "Autonomia": "351 Km",
+            "Potência de recarga": "150 DC AC/DC"
+          }
+        },
+        "sourceSite": "Canal VE"
+      },
+      {
+        "id": 17332,
+        "slug": "song-plus-gs-dm",
+        "name": "BYD Song Plus GS DM",
+        "title": "BYD Song Plus GS DM",
+        "brand": "BYD",
+        "year": "2025",
+        "powertrain": "Híbrido Plug-in",
+        "bodyType": "SUV",
+        "seats": "5",
+        "traction": "Dianteira",
+        "transmission": "Automático (1 marcha)",
+        "power": "194  cv",
+        "torque": "33,1 kgfm",
+        "range": "68 Km",
+        "battery": "18.3 kWh",
+        "topSpeed": "170 Km/h",
+        "weight": "1790 Kg",
+        "trunk": "574 L",
+        "image": "data/images/17332-song-plus-gs-dm.jpg",
+        "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/06/byd-e.jpg",
+        "sourceUrl": "https://canalve.com.br/ficha-tecnica/byd/tudo-sobre-song-plus-gs-dm/",
+        "sections": {
+          "Identificação": {
+            "Fabricante/Modelo": "BYD Song Plus GS DM",
+            "Ano": "2025",
+            "Carroceria": "SUV",
+            "Lugares": "5",
+            "Série": "Dynasty"
+          },
+          "Dimensões": {
+            "Peso": "1790 Kg",
+            "Comprimento": "4705 mm",
+            "Largura": "1890 mm",
+            "Altura": "1680 mm",
+            "Entre-eixos": "2765 mm",
+            "Bitola dianteira": "1630 mm",
+            "Bitola traseira": "1630 mm",
+            "Porta-malas": "574 L"
+          },
+          "Especificações": {
+            "Tração": "Dianteira",
             "Câmbio": "Automático (1 marcha)",
             "Suspensão Dianteira": "Independente",
             "Suspensão Traseira": "Independente",
@@ -64,151 +114,79 @@ window.GUESS_THE_CAR_DATA = {
             "Direção": "Elétrica"
           },
           "Motor Elétrico": {
-            "Potência": "238  cv",
-            "Capacidade": "68 kWh",
-            "Torque": "42,8  kgfm",
-            "Autonomia": "367 Km",
-            "Velocidade Máxima": "180 Km/h",
-            "Potência de recarga": "150  AC/DC"
+            "Potência": "194  cv",
+            "Capacidade": "18.3 kWh",
+            "Torque": "33,1 kgfm",
+            "Autonomia": "68 Km",
+            "Velocidade Máxima": "170 Km/h",
+            "Potência de recarga": "6,6 AC/DC"
+          },
+          "Motor Combustão": {
+            "Potência": "105 cv 6000 rpm cv",
+            "Torque": "13,8 Kgfm 4500 rpm kgfm",
+            "Cilindros": "4 em linha",
+            "Aspiração": "Aspirado naturalmente",
+            "Alimentação": "Injeção multiponto",
+            "Consumo Cidade": "14.9 Km/L",
+            "Consumo Estrada": "12.1 Km/L"
           }
         },
         "sourceSite": "Canal VE"
       },
       {
-        "id": 17301,
-        "slug": "kona-1-6-hybrid",
-        "name": "Hyundai Kona 1.6 Hybrid",
-        "title": "Hyundai Kona 1.6 Hybrid",
-        "brand": "Hyundai",
-        "year": "2024",
-        "powertrain": "Híbrido",
-        "bodyType": "SUV",
+        "id": 19937,
+        "slug": "ex2-max",
+        "name": "Geely EX2 Max",
+        "title": "Geely EX2 Max",
+        "brand": "Geely",
+        "year": "2025",
+        "powertrain": "Elétrico",
+        "bodyType": "Hatch",
         "seats": "5",
-        "traction": "Dianteira",
-        "transmission": "Automatizado (6 marchas)",
-        "power": "44  cv",
-        "torque": "17,3  kgfm",
-        "range": "745 Km",
-        "battery": "1.56 kWh",
-        "topSpeed": "161 Km/h",
-        "weight": "1376 Kg",
-        "trunk": "374 L",
-        "image": "data/images/17301-kona-1-6-hybrid.jpg",
-        "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2023/07/Hyundai_Kona_Hybrid00.jpg",
-        "sourceUrl": "https://canalve.com.br/ficha-tecnica/hyundai/tudo-sobre-kona-1-6-hybrid/",
+        "traction": "Traseira",
+        "transmission": "Automático",
+        "power": "116  cv",
+        "torque": "15,6 kgfm",
+        "range": "289 Km",
+        "battery": "39 kWh",
+        "topSpeed": "140 Km/h",
+        "weight": "1300 Kg",
+        "trunk": "375 L",
+        "image": "data/images/19937-ex2-max.jpg",
+        "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/11/35_Geely_EX-2_@rodolfobuhrer.jpg",
+        "sourceUrl": "https://canalve.com.br/ficha-tecnica/geely/tudo-sobre-ex2-max/",
         "sections": {
           "Identificação": {
-            "Fabricante/Modelo": "Hyundai Kona 1.6 Hybrid",
-            "Ano": "2024",
-            "Carroceria": "SUV",
-            "Motorização": "Híbrido",
-            "Lugares": "5",
-            "Plataforma": "OS"
+            "Fabricante/Modelo": "Geely EX2 Max",
+            "Ano": "2025",
+            "Carroceria": "Hatch",
+            "Motorização": "Elétrico",
+            "Lugares": "5"
           },
           "Dimensões": {
-            "Peso": "1376 Kg",
-            "Comprimento": "4205 mm",
+            "Peso": "1300 Kg",
+            "Comprimento": "4130 mm",
             "Largura": "1800 mm",
-            "Altura": "1669 mm",
-            "Entre-eixos": "2600 mm",
-            "Bitola dianteira": "1576 mm",
-            "Bitola traseira": "1588 mm",
-            "Porta-malas": "374 L"
+            "Altura": "1580 mm",
+            "Entre-eixos": "2650 mm",
+            "Porta-malas": "375 L"
           },
           "Especificações": {
-            "Tração": "Dianteira",
-            "Câmbio": "Automatizado (6 marchas)",
-            "Suspensão Dianteira": "Independente",
-            "Suspensão Traseira": "Independente",
-            "Freio Dianteiro": "Disco ventilado",
-            "Freio Traseiro": "Disco sólido",
+            "Tração": "Traseira",
+            "Câmbio": "Automático",
+            "Suspensão Dianteira": "McPherson",
+            "Suspensão Traseira": "Multi-link",
+            "Freio Dianteiro": "A disco",
+            "Freio Traseiro": "A disco",
             "Direção": "Elétrica"
           },
           "Motor Elétrico": {
-            "Potência": "44  cv",
-            "Capacidade": "1.56 kWh",
-            "Torque": "17,3  kgfm",
-            "Autonomia": "745 Km",
-            "Velocidade Máxima": "161 Km/h"
-          },
-          "Motor Combustão": {
-            "Potência": "105 cv 5700 rpm cv",
-            "Torque": "9,3 Kgfm 4000 rpm kgfm",
-            "Cilindros": "4 em linha",
-            "Cilindrada": "395",
-            "Aspiração": "Aspirado naturalmente",
-            "Alimentação": "Injeção direta",
-            "Consumo Cidade": "19.6 Km/L",
-            "Consumo Estrada": "17.4 Km/L"
-          }
-        },
-        "sourceSite": "Canal VE"
-      },
-      {
-        "id": 17319,
-        "slug": "rav4-sx-connect-hybrid-2-5",
-        "name": "Toyota RAV4 SX Connect Hybrid 2.5",
-        "title": "Toyota RAV4 SX Connect Hybrid 2.5",
-        "brand": "Toyota",
-        "year": "2022",
-        "powertrain": "Híbrido",
-        "bodyType": "SUV",
-        "seats": "5",
-        "traction": "Integral sob demanda",
-        "transmission": "CVT (6 marchas)",
-        "power": "59,5 /54  cv",
-        "torque": "10,3 /12,3  kgfm",
-        "range": "941 Km",
-        "battery": "1.6 kWh",
-        "topSpeed": "180 Km/h",
-        "weight": "1730 Kg",
-        "trunk": "580 L",
-        "image": "data/images/17319-rav4-sx-connect-hybrid-2-5.webp",
-        "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/06/toyota-e.webp",
-        "sourceUrl": "https://canalve.com.br/ficha-tecnica/toyota/tudo-sobre-rav4-sx-connect-hybrid-2-5/",
-        "sections": {
-          "Identificação": {
-            "Fabricante/Modelo": "Toyota RAV4 SX Connect Hybrid 2.5",
-            "Ano": "2022",
-            "Carroceria": "SUV",
-            "Lugares": "5",
-            "Plataforma": "TNGA"
-          },
-          "Dimensões": {
-            "Peso": "1730 Kg",
-            "Comprimento": "4600 mm",
-            "Largura": "1855 mm",
-            "Altura": "1685 mm",
-            "Entre-eixos": "2690 mm",
-            "Bitola dianteira": "1600 mm",
-            "Bitola traseira": "1619 mm",
-            "Porta-malas": "580 L"
-          },
-          "Especificações": {
-            "Tração": "Integral sob demanda",
-            "Câmbio": "CVT (6 marchas)",
-            "Suspensão Dianteira": "Independente",
-            "Suspensão Traseira": "Independente",
-            "Freio Dianteiro": "Disco ventilado",
-            "Freio Traseiro": "Disco sólido",
-            "Direção": "Elétrica"
-          },
-          "Motor Elétrico": {
-            "Potência": "59,5 /54  cv",
-            "Capacidade": "1.6 kWh",
-            "Torque": "10,3 /12,3  kgfm",
-            "Autonomia": "941 Km",
-            "Velocidade Máxima": "180 Km/h"
-          },
-          "Motor Combustão": {
-            "Potência": "178 cv 5700 rpm cv",
-            "Torque": "22,5 Kgfm 3600 rpm kgfm",
-            "Cilindros": "4 em linha",
-            "Cilindrada": "622",
-            "Aspiração": "Aspirado naturalmente",
-            "Alimentação": "Injeção direta e indireta",
-            "Consumo Cidade": "17.1 Km/L",
-            "Consumo Estrada": "14.5 Km/L"
+            "Potência": "116  cv",
+            "Capacidade": "39 kWh",
+            "Torque": "15,6 kgfm",
+            "Autonomia": "289 Km",
+            "Velocidade Máxima": "140 Km/h",
+            "Potência de recarga": "6,6 KW / 70KW  AC/DC"
           }
         },
         "sourceSite": "Canal VE"
@@ -296,9 +274,9 @@ window.GUESS_THE_CAR_DATA = {
         17319
       ],
       "2026-11-24": [
-        21221,
-        17324,
-        18827
+        20317,
+        17332,
+        19937
       ],
       "2026-11-25": [
         224587,
@@ -444,6 +422,11 @@ window.GUESS_THE_CAR_DATA = {
         20322,
         18781,
         18705
+      ],
+      "2026-12-24": [
+        17242,
+        205486,
+        18732
       ]
     }
   },
