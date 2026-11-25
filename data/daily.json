@@ -1,190 +1,208 @@
 {
-  "date": "2026-11-24",
-  "roundNumber": 18,
-  "updatedAt": "2026-11-24T13:26:20",
+  "date": "2026-11-25",
+  "roundNumber": 19,
+  "updatedAt": "2026-11-25T12:22:38",
   "carsPerDay": 3,
   "totalCatalogCars": 102,
-  "remainingInDeck": 30,
+  "remainingInDeck": 24,
   "todayIds": [
-    20317,
-    17332,
-    19937
+    17235,
+    18074,
+    23225
   ],
   "todayCars": [
     {
-      "id": 20317,
-      "slug": "20317",
-      "name": "MGS5",
-      "title": "MGS5",
-      "brand": "MG Motors",
-      "year": "2025",
-      "powertrain": "Elétrico",
-      "bodyType": "SUV",
-      "seats": "5",
-      "traction": "Traseira",
-      "transmission": "Automático",
-      "power": "305 cv",
-      "torque": "35,6 kgfm",
-      "range": "351 Km",
-      "battery": "62 kWh",
-      "topSpeed": "N/I",
-      "weight": "N/I",
-      "trunk": "453 L",
-      "image": "data/images/20317-20317.jpg",
-      "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/11/MGS5.jpg",
-      "sourceUrl": "https://canalve.com.br/ficha-tecnica/mg-motors/tudo-sobre/",
-      "sections": {
-        "Identificação": {
-          "Fabricante/Modelo": "MGS5",
-          "Ano": "2025",
-          "Carroceria": "SUV",
-          "Motorização": "Elétrico",
-          "Lugares": "5"
-        },
-        "Dimensões": {
-          "Comprimento": "4476 mm",
-          "Largura": "1849 mm",
-          "Altura": "1621 mm",
-          "Entre-eixos": "2730 mm",
-          "Porta-malas": "453 L"
-        },
-        "Especificações": {
-          "Tração": "Traseira",
-          "Câmbio": "Automático"
-        },
-        "Motor Elétrico": {
-          "Potência": "305 cv",
-          "Capacidade": "62 kWh",
-          "Torque": "35,6 kgfm",
-          "Autonomia": "351 Km",
-          "Potência de recarga": "150 DC AC/DC"
-        }
-      },
-      "sourceSite": "Canal VE"
-    },
-    {
-      "id": 17332,
-      "slug": "song-plus-gs-dm",
-      "name": "BYD Song Plus GS DM",
-      "title": "BYD Song Plus GS DM",
+      "id": 17235,
+      "slug": "dolphin-gs-180",
+      "name": "BYD Dolphin GS 180",
+      "title": "BYD Dolphin GS 180",
       "brand": "BYD",
-      "year": "2025",
-      "powertrain": "Híbrido Plug-in",
-      "bodyType": "SUV",
-      "seats": "5",
+      "year": "2024",
+      "powertrain": "Elétrico",
+      "bodyType": "Hatch",
+      "seats": "4",
       "traction": "Dianteira",
       "transmission": "Automático (1 marcha)",
-      "power": "194  cv",
-      "torque": "33,1 kgfm",
-      "range": "68 Km",
-      "battery": "18.3 kWh",
-      "topSpeed": "170 Km/h",
-      "weight": "1790 Kg",
-      "trunk": "574 L",
-      "image": "data/images/17332-song-plus-gs-dm.jpg",
-      "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/06/byd-e.jpg",
-      "sourceUrl": "https://canalve.com.br/ficha-tecnica/byd/tudo-sobre-song-plus-gs-dm/",
+      "power": "95 cv",
+      "torque": "18,3 kgfm",
+      "range": "291 Km",
+      "battery": "44.9 kWh",
+      "topSpeed": "160 Km/h",
+      "weight": "1405 Kg",
+      "trunk": "250 L",
+      "image": "data/images/17235-dolphin-gs-180.webp",
+      "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/05/byd-dolphin-1-jpg.webp",
+      "sourceUrl": "https://canalve.com.br/ficha-tecnica/byd/tudo-sobre-dolphin-gs-180/",
       "sections": {
         "Identificação": {
-          "Fabricante/Modelo": "BYD Song Plus GS DM",
-          "Ano": "2025",
-          "Carroceria": "SUV",
-          "Lugares": "5",
-          "Série": "Dynasty"
+          "Fabricante/Modelo": "BYD Dolphin GS 180",
+          "Ano": "2024",
+          "Carroceria": "Hatchback",
+          "Motorização": "Elétrico",
+          "Lugares": "4",
+          "Plataforma": "e-Platform 3.0",
+          "Série": "Ocean"
         },
         "Dimensões": {
-          "Peso": "1790 Kg",
-          "Comprimento": "4705 mm",
-          "Largura": "1890 mm",
-          "Altura": "1680 mm",
-          "Entre-eixos": "2765 mm",
-          "Bitola dianteira": "1630 mm",
-          "Bitola traseira": "1630 mm",
-          "Porta-malas": "574 L"
+          "Peso": "1405 Kg",
+          "Comprimento": "4125 mm",
+          "Largura": "1770 mm",
+          "Altura": "1570 mm",
+          "Entre-eixos": "2700 mm",
+          "Bitola dianteira": "1530 mm",
+          "Bitola traseira": "1530 mm",
+          "Porta-malas": "250 L"
         },
         "Especificações": {
           "Tração": "Dianteira",
           "Câmbio": "Automático (1 marcha)",
           "Suspensão Dianteira": "Independente",
-          "Suspensão Traseira": "Independente",
+          "Suspensão Traseira": "Eixo de torção",
           "Freio Dianteiro": "Disco ventilado",
           "Freio Traseiro": "Disco sólido",
           "Direção": "Elétrica"
         },
         "Motor Elétrico": {
-          "Potência": "194  cv",
-          "Capacidade": "18.3 kWh",
-          "Torque": "33,1 kgfm",
-          "Autonomia": "68 Km",
-          "Velocidade Máxima": "170 Km/h",
-          "Potência de recarga": "6,6 AC/DC"
-        },
-        "Motor Combustão": {
-          "Potência": "105 cv 6000 rpm cv",
-          "Torque": "13,8 Kgfm 4500 rpm kgfm",
-          "Cilindros": "4 em linha",
-          "Aspiração": "Aspirado naturalmente",
-          "Alimentação": "Injeção multiponto",
-          "Consumo Cidade": "14.9 Km/L",
-          "Consumo Estrada": "12.1 Km/L"
+          "Potência": "95 cv",
+          "Capacidade": "44.9 kWh",
+          "Torque": "18,3 kgfm",
+          "Autonomia": "291 Km",
+          "Velocidade Máxima": "160 Km/h",
+          "Potência de recarga": "6,6 / 60  AC/DC"
         }
       },
       "sourceSite": "Canal VE"
     },
     {
-      "id": 19937,
-      "slug": "ex2-max",
-      "name": "Geely EX2 Max",
-      "title": "Geely EX2 Max",
-      "brand": "Geely",
-      "year": "2025",
-      "powertrain": "Elétrico",
-      "bodyType": "Hatch",
-      "seats": "5",
-      "traction": "Traseira",
-      "transmission": "Automático",
-      "power": "116  cv",
-      "torque": "15,6 kgfm",
-      "range": "289 Km",
-      "battery": "39 kWh",
-      "topSpeed": "140 Km/h",
-      "weight": "1300 Kg",
-      "trunk": "375 L",
-      "image": "data/images/19937-ex2-max.jpg",
-      "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/11/35_Geely_EX-2_@rodolfobuhrer.jpg",
-      "sourceUrl": "https://canalve.com.br/ficha-tecnica/geely/tudo-sobre-ex2-max/",
+      "id": 18074,
+      "slug": "xc90-ultimate-t8",
+      "name": "Volvo XC90 Ultimate T8",
+      "title": "Volvo XC90 Ultimate T8",
+      "brand": "Volvo",
+      "year": "2024",
+      "powertrain": "Híbrido Plug-in",
+      "bodyType": "SUV",
+      "seats": "7",
+      "traction": "Integral sob demanda",
+      "transmission": "Automático (8 marchas)",
+      "power": "145  cv",
+      "torque": "31,5 kgfm",
+      "range": "49 Km",
+      "battery": "18.8 kWh",
+      "topSpeed": "180 Km/h",
+      "weight": "2354 Kg",
+      "trunk": "500 L",
+      "image": "data/images/18074-xc90-ultimate-t8.webp",
+      "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/06/volvo-e.webp",
+      "sourceUrl": "https://canalve.com.br/ficha-tecnica/volvo/tudo-sobre-xc90-ultimate-t8/",
       "sections": {
         "Identificação": {
-          "Fabricante/Modelo": "Geely EX2 Max",
-          "Ano": "2025",
-          "Carroceria": "Hatch",
-          "Motorização": "Elétrico",
-          "Lugares": "5"
+          "Fabricante/Modelo": "Volvo XC90 Ultimate T8",
+          "Ano": "2024",
+          "Carroceria": "SUV",
+          "Motorização": "Híbrido Plug-in",
+          "Lugares": "7",
+          "Plataforma": "SPA"
         },
         "Dimensões": {
-          "Peso": "1300 Kg",
-          "Comprimento": "4130 mm",
-          "Largura": "1800 mm",
-          "Altura": "1580 mm",
-          "Entre-eixos": "2650 mm",
-          "Porta-malas": "375 L"
+          "Peso": "2354 Kg",
+          "Comprimento": "4953 mm",
+          "Largura": "1923 mm",
+          "Altura": "1767 mm",
+          "Entre-eixos": "2984 mm",
+          "Bitola dianteira": "1664 mm",
+          "Bitola traseira": "1667 mm",
+          "Porta-malas": "500 L"
         },
         "Especificações": {
-          "Tração": "Traseira",
-          "Câmbio": "Automático",
-          "Suspensão Dianteira": "McPherson",
-          "Suspensão Traseira": "Multi-link",
-          "Freio Dianteiro": "A disco",
-          "Freio Traseiro": "A disco",
+          "Tração": "Integral sob demanda",
+          "Câmbio": "Automático (8 marchas)",
+          "Suspensão Dianteira": "Independente",
+          "Suspensão Traseira": "Independente",
+          "Freio Dianteiro": "Disco ventilado",
+          "Freio Traseiro": "Disco ventilado",
           "Direção": "Elétrica"
         },
         "Motor Elétrico": {
-          "Potência": "116  cv",
-          "Capacidade": "39 kWh",
-          "Torque": "15,6 kgfm",
-          "Autonomia": "289 Km",
-          "Velocidade Máxima": "140 Km/h",
-          "Potência de recarga": "6,6 KW / 70KW  AC/DC"
+          "Potência": "145  cv",
+          "Capacidade": "18.8 kWh",
+          "Torque": "31,5 kgfm",
+          "Autonomia": "49 Km",
+          "Velocidade Máxima": "180 Km/h"
+        },
+        "Motor Combustão": {
+          "Potência": "310 cv 6000 rpm cv",
+          "Torque": "40,8 Kgfm 2200 rpm kgfm",
+          "Cilindros": "4 em linha",
+          "Cilindrada": "492",
+          "Aspiração": "Turbocompressor",
+          "Alimentação": "Injeção direta",
+          "Consumo Cidade": "10.3 Km/L",
+          "Consumo Estrada": "10.3 Km/L"
+        }
+      },
+      "sourceSite": "Canal VE"
+    },
+    {
+      "id": 23225,
+      "slug": "ex5-em-i",
+      "name": "Geely EX5 EM-i",
+      "title": "Geely EX5 EM-i",
+      "brand": "Geely",
+      "year": "2027",
+      "powertrain": "Híbrido Plug-in",
+      "bodyType": "SUV",
+      "seats": "5",
+      "traction": "Dianteira",
+      "transmission": "Automático",
+      "power": "218 cv",
+      "torque": "26,72 kgfm",
+      "range": "112 Km",
+      "battery": "29.8 kWh",
+      "topSpeed": "175 Km/h",
+      "weight": "1.844 Kg",
+      "trunk": "428 L",
+      "image": "data/images/23225-ex5-em-i.jpg",
+      "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2026/04/unnamed-1.jpg",
+      "sourceUrl": "https://canalve.com.br/ficha-tecnica/geely/tudo-sobre-ex5-em-i/",
+      "sections": {
+        "Identificação": {
+          "Fabricante/Modelo": "Geely EX5 EM-i",
+          "Ano": "2027",
+          "Carroceria": "SUV",
+          "Motorização": "Híbrido Plug-in",
+          "Lugares": "5"
+        },
+        "Dimensões": {
+          "Peso": "1.844 Kg",
+          "Comprimento": "4740 mm",
+          "Largura": "1905 mm",
+          "Altura": "1685 mm",
+          "Entre-eixos": "2755 mm",
+          "Porta-malas": "428 L"
+        },
+        "Especificações": {
+          "Tração": "Dianteira",
+          "Câmbio": "Automático",
+          "Suspensão Dianteira": "Independente McPherson",
+          "Suspensão Traseira": "Multi-Link independente",
+          "Freio Dianteiro": "Disco ventilado",
+          "Freio Traseiro": "Disco sólido",
+          "Direção": "C-EPS"
+        },
+        "Motor Elétrico": {
+          "Potência": "218 cv",
+          "Capacidade": "29.8 kWh",
+          "Torque": "26,72 kgfm",
+          "Autonomia": "112 Km",
+          "Velocidade Máxima": "175 Km/h",
+          "Potência de recarga": "6,6 kW / 60 kW AC/DC"
+        },
+        "Motor Combustão": {
+          "Potência": "100 cv",
+          "Torque": "12,75 kgfm",
+          "Consumo Cidade": "14.8 Km/L",
+          "Consumo Estrada": "13.1 Km/L"
         }
       },
       "sourceSite": "Canal VE"
@@ -277,9 +295,9 @@
       19937
     ],
     "2026-11-25": [
-      224587,
-      17248,
-      21722
+      17235,
+      18074,
+      23225
     ],
     "2026-11-26": [
       17273,
@@ -425,6 +443,11 @@
       17242,
       205486,
       18732
+    ],
+    "2026-12-25": [
+      18827,
+      17315,
+      17323
     ]
   }
 }
