@@ -1,213 +1,137 @@
 // Arquivo gerado automaticamente por scripts/daily_shuffle.py
 window.GUESS_THE_CAR_DATA = {
   "daily": {
-    "date": "2026-11-25",
-    "roundNumber": 19,
-    "updatedAt": "2026-11-25T12:22:38",
+    "date": "2026-11-26",
+    "roundNumber": 20,
+    "updatedAt": "2026-11-26T12:04:30",
     "carsPerDay": 3,
     "totalCatalogCars": 102,
-    "remainingInDeck": 24,
+    "remainingInDeck": 18,
     "todayIds": [
-      17235,
-      18074,
-      23225
+      17321,
+      148669,
+      270947
     ],
     "todayCars": [
       {
-        "id": 17235,
-        "slug": "dolphin-gs-180",
-        "name": "BYD Dolphin GS 180",
-        "title": "BYD Dolphin GS 180",
-        "brand": "BYD",
+        "id": 17321,
+        "slug": "haval-h6-premium-1-5",
+        "name": "GWM Haval H6 Premium 1.5",
+        "title": "GWM Haval H6 Premium 1.5",
+        "brand": "GWM",
         "year": "2024",
-        "powertrain": "Elétrico",
-        "bodyType": "Hatch",
-        "seats": "4",
-        "traction": "Dianteira",
-        "transmission": "Automático (1 marcha)",
-        "power": "95 cv",
-        "torque": "18,3 kgfm",
-        "range": "291 Km",
-        "battery": "44.9 kWh",
-        "topSpeed": "160 Km/h",
-        "weight": "1405 Kg",
-        "trunk": "250 L",
-        "image": "data/images/17235-dolphin-gs-180.webp",
-        "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/05/byd-dolphin-1-jpg.webp",
-        "sourceUrl": "https://canalve.com.br/ficha-tecnica/byd/tudo-sobre-dolphin-gs-180/",
-        "sections": {
-          "Identificação": {
-            "Fabricante/Modelo": "BYD Dolphin GS 180",
-            "Ano": "2024",
-            "Carroceria": "Hatchback",
-            "Motorização": "Elétrico",
-            "Lugares": "4",
-            "Plataforma": "e-Platform 3.0",
-            "Série": "Ocean"
-          },
-          "Dimensões": {
-            "Peso": "1405 Kg",
-            "Comprimento": "4125 mm",
-            "Largura": "1770 mm",
-            "Altura": "1570 mm",
-            "Entre-eixos": "2700 mm",
-            "Bitola dianteira": "1530 mm",
-            "Bitola traseira": "1530 mm",
-            "Porta-malas": "250 L"
-          },
-          "Especificações": {
-            "Tração": "Dianteira",
-            "Câmbio": "Automático (1 marcha)",
-            "Suspensão Dianteira": "Independente",
-            "Suspensão Traseira": "Eixo de torção",
-            "Freio Dianteiro": "Disco ventilado",
-            "Freio Traseiro": "Disco sólido",
-            "Direção": "Elétrica"
-          },
-          "Motor Elétrico": {
-            "Potência": "95 cv",
-            "Capacidade": "44.9 kWh",
-            "Torque": "18,3 kgfm",
-            "Autonomia": "291 Km",
-            "Velocidade Máxima": "160 Km/h",
-            "Potência de recarga": "6,6 / 60  AC/DC"
-          }
-        },
-        "sourceSite": "Canal VE"
-      },
-      {
-        "id": 18074,
-        "slug": "xc90-ultimate-t8",
-        "name": "Volvo XC90 Ultimate T8",
-        "title": "Volvo XC90 Ultimate T8",
-        "brand": "Volvo",
-        "year": "2024",
-        "powertrain": "Híbrido Plug-in",
-        "bodyType": "SUV",
-        "seats": "7",
-        "traction": "Integral sob demanda",
-        "transmission": "Automático (8 marchas)",
-        "power": "145  cv",
-        "torque": "31,5 kgfm",
-        "range": "49 Km",
-        "battery": "18.8 kWh",
-        "topSpeed": "180 Km/h",
-        "weight": "2354 Kg",
-        "trunk": "500 L",
-        "image": "data/images/18074-xc90-ultimate-t8.webp",
-        "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/06/volvo-e.webp",
-        "sourceUrl": "https://canalve.com.br/ficha-tecnica/volvo/tudo-sobre-xc90-ultimate-t8/",
-        "sections": {
-          "Identificação": {
-            "Fabricante/Modelo": "Volvo XC90 Ultimate T8",
-            "Ano": "2024",
-            "Carroceria": "SUV",
-            "Motorização": "Híbrido Plug-in",
-            "Lugares": "7",
-            "Plataforma": "SPA"
-          },
-          "Dimensões": {
-            "Peso": "2354 Kg",
-            "Comprimento": "4953 mm",
-            "Largura": "1923 mm",
-            "Altura": "1767 mm",
-            "Entre-eixos": "2984 mm",
-            "Bitola dianteira": "1664 mm",
-            "Bitola traseira": "1667 mm",
-            "Porta-malas": "500 L"
-          },
-          "Especificações": {
-            "Tração": "Integral sob demanda",
-            "Câmbio": "Automático (8 marchas)",
-            "Suspensão Dianteira": "Independente",
-            "Suspensão Traseira": "Independente",
-            "Freio Dianteiro": "Disco ventilado",
-            "Freio Traseiro": "Disco ventilado",
-            "Direção": "Elétrica"
-          },
-          "Motor Elétrico": {
-            "Potência": "145  cv",
-            "Capacidade": "18.8 kWh",
-            "Torque": "31,5 kgfm",
-            "Autonomia": "49 Km",
-            "Velocidade Máxima": "180 Km/h"
-          },
-          "Motor Combustão": {
-            "Potência": "310 cv 6000 rpm cv",
-            "Torque": "40,8 Kgfm 2200 rpm kgfm",
-            "Cilindros": "4 em linha",
-            "Cilindrada": "492",
-            "Aspiração": "Turbocompressor",
-            "Alimentação": "Injeção direta",
-            "Consumo Cidade": "10.3 Km/L",
-            "Consumo Estrada": "10.3 Km/L"
-          }
-        },
-        "sourceSite": "Canal VE"
-      },
-      {
-        "id": 23225,
-        "slug": "ex5-em-i",
-        "name": "Geely EX5 EM-i",
-        "title": "Geely EX5 EM-i",
-        "brand": "Geely",
-        "year": "2027",
-        "powertrain": "Híbrido Plug-in",
+        "powertrain": "Híbrido",
         "bodyType": "SUV",
         "seats": "5",
         "traction": "Dianteira",
-        "transmission": "Automático",
-        "power": "218 cv",
-        "torque": "26,72 kgfm",
-        "range": "112 Km",
-        "battery": "29.8 kWh",
+        "transmission": "Automatizado (2 marchas)",
+        "power": "177  cv",
+        "torque": "30,6 kgfm",
+        "range": "828 Km",
+        "battery": "1.6 kWh",
         "topSpeed": "175 Km/h",
-        "weight": "1.844 Kg",
-        "trunk": "428 L",
-        "image": "data/images/23225-ex5-em-i.jpg",
-        "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2026/04/unnamed-1.jpg",
-        "sourceUrl": "https://canalve.com.br/ficha-tecnica/geely/tudo-sobre-ex5-em-i/",
+        "weight": "1699 Kg",
+        "trunk": "560 L",
+        "image": "data/images/17321-haval-h6-premium-1-5.jpeg",
+        "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/06/WhatsApp-Image-2025-06-18-at-14.36.12.jpeg",
+        "sourceUrl": "https://canalve.com.br/ficha-tecnica/gwm/tudo-sobre-haval-h6-premium-1-5/",
         "sections": {
           "Identificação": {
-            "Fabricante/Modelo": "Geely EX5 EM-i",
-            "Ano": "2027",
+            "Fabricante/Modelo": "GWM Haval H6 Premium 1.5",
+            "Ano": "2024",
             "Carroceria": "SUV",
-            "Motorização": "Híbrido Plug-in",
-            "Lugares": "5"
+            "Motorização": "Híbrido",
+            "Lugares": "5",
+            "Plataforma": "LEMON"
           },
           "Dimensões": {
-            "Peso": "1.844 Kg",
-            "Comprimento": "4740 mm",
-            "Largura": "1905 mm",
-            "Altura": "1685 mm",
-            "Entre-eixos": "2755 mm",
-            "Porta-malas": "428 L"
+            "Peso": "1699 Kg",
+            "Comprimento": "4683 mm",
+            "Largura": "1886 mm",
+            "Altura": "1730 mm",
+            "Entre-eixos": "2738 mm",
+            "Bitola dianteira": "1731 mm",
+            "Bitola traseira": "1740 mm",
+            "Porta-malas": "560 L"
           },
           "Especificações": {
             "Tração": "Dianteira",
-            "Câmbio": "Automático",
-            "Suspensão Dianteira": "Independente McPherson",
-            "Suspensão Traseira": "Multi-Link independente",
+            "Câmbio": "Automatizado (2 marchas)",
+            "Suspensão Dianteira": "Independente",
+            "Suspensão Traseira": "Independente",
             "Freio Dianteiro": "Disco ventilado",
             "Freio Traseiro": "Disco sólido",
-            "Direção": "C-EPS"
+            "Direção": "Elétrica"
           },
           "Motor Elétrico": {
-            "Potência": "218 cv",
-            "Capacidade": "29.8 kWh",
-            "Torque": "26,72 kgfm",
-            "Autonomia": "112 Km",
-            "Velocidade Máxima": "175 Km/h",
-            "Potência de recarga": "6,6 kW / 60 kW AC/DC"
+            "Potência": "177  cv",
+            "Capacidade": "1.6 kWh",
+            "Torque": "30,6 kgfm",
+            "Autonomia": "828 Km",
+            "Velocidade Máxima": "175 Km/h"
           },
           "Motor Combustão": {
-            "Potência": "100 cv",
-            "Torque": "12,75 kgfm",
-            "Consumo Cidade": "14.8 Km/L",
-            "Consumo Estrada": "13.1 Km/L"
+            "Potência": "150 cv 5500 rpm cv",
+            "Torque": "23,4 Kgfm 1500 rpm kgfm",
+            "Cilindros": "4 em linha",
+            "Cilindrada": "375",
+            "Aspiração": "Turbocompressor",
+            "Alimentação": "Injeção direta",
+            "Consumo Cidade": "13.8 Km/L",
+            "Consumo Estrada": "12 Km/L"
           }
         },
         "sourceSite": "Canal VE"
+      },
+      {
+        "id": 148669,
+        "slug": "cnw-48669-gac-aion-ut-elite",
+        "name": "GAC Aion UT Elite",
+        "title": "GAC Aion UT Elite",
+        "brand": "GAC",
+        "year": "2027",
+        "powertrain": "Elétrico",
+        "bodyType": "Hatch",
+        "seats": "5",
+        "traction": "Dianteira",
+        "transmission": "Automático",
+        "power": "136 cv",
+        "torque": "21,4 kgfm",
+        "range": "350 km",
+        "battery": "44 kWh",
+        "topSpeed": "150 km/h",
+        "weight": "1510 Kg",
+        "trunk": "440 L",
+        "image": "data/images/cnw-48669-gac-aion-ut-elite.jpg",
+        "sourceImageUrl": "https://www.carrosnaweb.com.br/imagensbd007/Aion-UT-2026-1.jpg",
+        "sourceUrl": "https://www.carrosnaweb.com.br/fichadetalhe.asp?codigo=48669",
+        "sourceSite": "Carros na Web",
+        "sections": {}
+      },
+      {
+        "id": 270947,
+        "slug": "ic-fiat-strada",
+        "name": "Fiat Strada 1.0 T200 Cabine",
+        "title": "Fiat Strada 1.0 T200 Cabine Dupla Ranch AT cvt 2026",
+        "brand": "Fiat",
+        "year": "2026",
+        "powertrain": "Combustão (Flex)",
+        "bodyType": "Picape",
+        "seats": "5",
+        "traction": "Dianteira",
+        "transmission": "Automático",
+        "power": "130 cv",
+        "torque": "20,4 kgfm",
+        "range": "8,3 km/l",
+        "battery": "N/I",
+        "topSpeed": "N/I",
+        "weight": "1235 Kg",
+        "trunk": "N/I",
+        "image": "data/images/ic-203132-fiat-strada.webp",
+        "sourceImageUrl": "https://img1.icarros.com/dbimg/galeriaimgmodelo/0/149257_1.jpg",
+        "sourceUrl": "https://www.icarros.com.br/catalogo/marcas/fiat/strada",
+        "sourceSite": "iCarros",
+        "sections": {}
       }
     ],
     "schedule": {
@@ -302,9 +226,9 @@ window.GUESS_THE_CAR_DATA = {
         23225
       ],
       "2026-11-26": [
-        17273,
-        271947,
-        19830
+        17321,
+        148669,
+        270947
       ],
       "2026-11-27": [
         20310,
@@ -450,6 +374,11 @@ window.GUESS_THE_CAR_DATA = {
         18827,
         17315,
         17323
+      ],
+      "2026-12-26": [
+        21221,
+        17293,
+        17313
       ]
     }
   },
