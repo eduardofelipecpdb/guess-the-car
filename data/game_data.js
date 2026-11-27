@@ -1,62 +1,118 @@
 // Arquivo gerado automaticamente por scripts/daily_shuffle.py
 window.GUESS_THE_CAR_DATA = {
   "daily": {
-    "date": "2026-11-26",
-    "roundNumber": 20,
-    "updatedAt": "2026-11-26T12:04:30",
+    "date": "2026-11-27",
+    "roundNumber": 21,
+    "updatedAt": "2026-11-27T11:55:08",
     "carsPerDay": 3,
     "totalCatalogCars": 102,
-    "remainingInDeck": 18,
+    "remainingInDeck": 12,
     "todayIds": [
-      17321,
-      148669,
-      270947
+      22666,
+      17279,
+      19820
     ],
     "todayCars": [
       {
-        "id": 17321,
-        "slug": "haval-h6-premium-1-5",
-        "name": "GWM Haval H6 Premium 1.5",
-        "title": "GWM Haval H6 Premium 1.5",
+        "id": 22666,
+        "slug": "ora-5",
+        "name": "GWM Ora 5",
+        "title": "GWM Ora 5",
         "brand": "GWM",
-        "year": "2024",
-        "powertrain": "Híbrido",
+        "year": "2027",
+        "powertrain": "Elétrico",
         "bodyType": "SUV",
         "seats": "5",
         "traction": "Dianteira",
-        "transmission": "Automatizado (2 marchas)",
-        "power": "177  cv",
-        "torque": "30,6 kgfm",
-        "range": "828 Km",
-        "battery": "1.6 kWh",
-        "topSpeed": "175 Km/h",
-        "weight": "1699 Kg",
-        "trunk": "560 L",
-        "image": "data/images/17321-haval-h6-premium-1-5.jpeg",
-        "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/06/WhatsApp-Image-2025-06-18-at-14.36.12.jpeg",
-        "sourceUrl": "https://canalve.com.br/ficha-tecnica/gwm/tudo-sobre-haval-h6-premium-1-5/",
+        "transmission": "Automático",
+        "power": "204 cv",
+        "torque": "26,5 kgfm",
+        "range": "349 Km",
+        "battery": "58.3 kWh",
+        "topSpeed": "170 Km/h",
+        "weight": "1.685 Kg",
+        "trunk": "362 L",
+        "image": "data/images/22666-ora-5.jpg",
+        "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2026/06/Ora-5.jpg",
+        "sourceUrl": "https://canalve.com.br/ficha-tecnica/gwm/tudo-sobre-ora-5/",
         "sections": {
           "Identificação": {
-            "Fabricante/Modelo": "GWM Haval H6 Premium 1.5",
-            "Ano": "2024",
+            "Fabricante/Modelo": "GWM Ora 5",
+            "Ano": "2027",
             "Carroceria": "SUV",
-            "Motorização": "Híbrido",
-            "Lugares": "5",
-            "Plataforma": "LEMON"
+            "Motorização": "Elétrico",
+            "Lugares": "5"
           },
           "Dimensões": {
-            "Peso": "1699 Kg",
-            "Comprimento": "4683 mm",
-            "Largura": "1886 mm",
-            "Altura": "1730 mm",
-            "Entre-eixos": "2738 mm",
-            "Bitola dianteira": "1731 mm",
-            "Bitola traseira": "1740 mm",
-            "Porta-malas": "560 L"
+            "Peso": "1.685 Kg",
+            "Comprimento": "4471 mm",
+            "Largura": "1833 mm",
+            "Altura": "1641 mm",
+            "Entre-eixos": "2720 mm",
+            "Porta-malas": "362 L"
           },
           "Especificações": {
             "Tração": "Dianteira",
-            "Câmbio": "Automatizado (2 marchas)",
+            "Suspensão Dianteira": "McPherson independente",
+            "Suspensão Traseira": "Multi-Link independente",
+            "Freio Dianteiro": "Discos ventilados",
+            "Freio Traseiro": "Discos sólidos"
+          },
+          "Motor Elétrico": {
+            "Potência": "204 cv",
+            "Capacidade": "58.3 kWh",
+            "Torque": "26,5 kgfm",
+            "Autonomia": "349 Km",
+            "Velocidade Máxima": "170 Km/h",
+            "Potência de recarga": "11 kW / 120 kW AC/DC"
+          }
+        },
+        "sourceSite": "Canal VE"
+      },
+      {
+        "id": 17279,
+        "slug": "c40-8-ultimate",
+        "name": "Volvo C40 8 Ultimate",
+        "title": "Volvo C40 8 Ultimate",
+        "brand": "Volvo",
+        "year": "2023",
+        "powertrain": "Elétrico",
+        "bodyType": "SUV",
+        "seats": "5",
+        "traction": "4x4",
+        "transmission": "Automático (1 marcha)",
+        "power": "204  cv",
+        "torque": "33,6  kgfm",
+        "range": "247 Km",
+        "battery": "78 kWh",
+        "topSpeed": "180 Km/h",
+        "weight": "2185 Kg",
+        "trunk": "414 L",
+        "image": "data/images/17279-c40-8-ultimate.webp",
+        "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/05/volvo-c40-jpg.webp",
+        "sourceUrl": "https://canalve.com.br/ficha-tecnica/volvo/tudo-sobre-c40-8-ultimate/",
+        "sections": {
+          "Identificação": {
+            "Fabricante/Modelo": "Volvo C40 8 Ultimate",
+            "Ano": "2023",
+            "Carroceria": "SUV",
+            "Motorização": "Elétrico",
+            "Lugares": "5",
+            "Plataforma": "CMA"
+          },
+          "Dimensões": {
+            "Peso": "2185 Kg",
+            "Comprimento": "4431 mm",
+            "Largura": "1850 mm",
+            "Altura": "1581 mm",
+            "Entre-eixos": "2702 mm",
+            "Bitola dianteira": "1598 mm",
+            "Bitola traseira": "1623 mm",
+            "Porta-malas": "414 L"
+          },
+          "Especificações": {
+            "Tração": "4x4",
+            "Câmbio": "Automático (1 marcha)",
             "Suspensão Dianteira": "Independente",
             "Suspensão Traseira": "Independente",
             "Freio Dianteiro": "Disco ventilado",
@@ -64,74 +120,78 @@ window.GUESS_THE_CAR_DATA = {
             "Direção": "Elétrica"
           },
           "Motor Elétrico": {
-            "Potência": "177  cv",
-            "Capacidade": "1.6 kWh",
-            "Torque": "30,6 kgfm",
-            "Autonomia": "828 Km",
-            "Velocidade Máxima": "175 Km/h"
-          },
-          "Motor Combustão": {
-            "Potência": "150 cv 5500 rpm cv",
-            "Torque": "23,4 Kgfm 1500 rpm kgfm",
-            "Cilindros": "4 em linha",
-            "Cilindrada": "375",
-            "Aspiração": "Turbocompressor",
-            "Alimentação": "Injeção direta",
-            "Consumo Cidade": "13.8 Km/L",
-            "Consumo Estrada": "12 Km/L"
+            "Potência": "204  cv",
+            "Capacidade": "78 kWh",
+            "Torque": "33,6  kgfm",
+            "Autonomia": "247 Km",
+            "Velocidade Máxima": "180 Km/h",
+            "Potência de recarga": "11 /150  AC/DC"
           }
         },
         "sourceSite": "Canal VE"
       },
       {
-        "id": 148669,
-        "slug": "cnw-48669-gac-aion-ut-elite",
-        "name": "GAC Aion UT Elite",
-        "title": "GAC Aion UT Elite",
-        "brand": "GAC",
-        "year": "2027",
-        "powertrain": "Elétrico",
-        "bodyType": "Hatch",
+        "id": 19820,
+        "slug": "5-hev",
+        "name": "Omoda-Jaecoo Omoda 5 HEV",
+        "title": "Omoda 5 HEV",
+        "brand": "Omoda-Jaecoo",
+        "year": "2025",
+        "powertrain": "Híbrido",
+        "bodyType": "SUV",
         "seats": "5",
         "traction": "Dianteira",
         "transmission": "Automático",
-        "power": "136 cv",
-        "torque": "21,4 kgfm",
-        "range": "350 km",
-        "battery": "44 kWh",
-        "topSpeed": "150 km/h",
-        "weight": "1510 Kg",
-        "trunk": "440 L",
-        "image": "data/images/cnw-48669-gac-aion-ut-elite.jpg",
-        "sourceImageUrl": "https://www.carrosnaweb.com.br/imagensbd007/Aion-UT-2026-1.jpg",
-        "sourceUrl": "https://www.carrosnaweb.com.br/fichadetalhe.asp?codigo=48669",
-        "sourceSite": "Carros na Web",
-        "sections": {}
-      },
-      {
-        "id": 270947,
-        "slug": "ic-fiat-strada",
-        "name": "Fiat Strada 1.0 T200 Cabine",
-        "title": "Fiat Strada 1.0 T200 Cabine Dupla Ranch AT cvt 2026",
-        "brand": "Fiat",
-        "year": "2026",
-        "powertrain": "Combustão (Flex)",
-        "bodyType": "Picape",
-        "seats": "5",
-        "traction": "Dianteira",
-        "transmission": "Automático",
-        "power": "130 cv",
-        "torque": "20,4 kgfm",
-        "range": "8,3 km/l",
-        "battery": "N/I",
-        "topSpeed": "N/I",
-        "weight": "1235 Kg",
-        "trunk": "N/I",
-        "image": "data/images/ic-203132-fiat-strada.webp",
-        "sourceImageUrl": "https://img1.icarros.com/dbimg/galeriaimgmodelo/0/149257_1.jpg",
-        "sourceUrl": "https://www.icarros.com.br/catalogo/marcas/fiat/strada",
-        "sourceSite": "iCarros",
-        "sections": {}
+        "power": "204  cv",
+        "torque": "31,6 kgfm",
+        "range": "1000 Km",
+        "battery": "1.83 kWh",
+        "topSpeed": "174 Km/h",
+        "weight": "2.052 Kg",
+        "trunk": "372 L",
+        "image": "data/images/19820-5-hev.jpg",
+        "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/11/O5_EXTERNA2.jpg",
+        "sourceUrl": "https://canalve.com.br/ficha-tecnica/omoda-jaecoo/tudo-sobre-5-hev/",
+        "sections": {
+          "Identificação": {
+            "Fabricante/Modelo": "Omoda 5 HEV",
+            "Ano": "2025",
+            "Carroceria": "SUV",
+            "Motorização": "Híbrido",
+            "Lugares": "5"
+          },
+          "Dimensões": {
+            "Peso": "2.052 Kg",
+            "Comprimento": "4447 mm",
+            "Largura": "1824 mm",
+            "Altura": "1588 mm",
+            "Entre-eixos": "2610 mm",
+            "Porta-malas": "372 L"
+          },
+          "Especificações": {
+            "Tração": "Dianteira",
+            "Câmbio": "Automático",
+            "Suspensão Dianteira": "McPherson",
+            "Suspensão Traseira": "Multi-link",
+            "Direção": "Assistência elétrica"
+          },
+          "Motor Elétrico": {
+            "Potência": "204  cv",
+            "Capacidade": "1.83 kWh",
+            "Torque": "31,6 kgfm",
+            "Autonomia": "1000 Km",
+            "Velocidade Máxima": "174 Km/h"
+          },
+          "Motor Combustão": {
+            "Potência": "135  cv",
+            "Torque": "20,4 kgfm",
+            "Cilindros": "4",
+            "Alimentação": "Injeção direta",
+            "Consumo Cidade": "15.1 Km/L",
+            "Consumo Estrada": "13.2 Km/L"
+          }
+        },
+        "sourceSite": "Canal VE"
       }
     ],
     "schedule": {
@@ -231,9 +291,9 @@ window.GUESS_THE_CAR_DATA = {
         270947
       ],
       "2026-11-27": [
-        20310,
-        17301,
-        149021
+        22666,
+        17279,
+        19820
       ],
       "2026-11-28": [
         19956,
@@ -379,6 +439,11 @@ window.GUESS_THE_CAR_DATA = {
         21221,
         17293,
         17313
+      ],
+      "2026-12-27": [
+        19905,
+        239652,
+        17331
       ]
     }
   },
