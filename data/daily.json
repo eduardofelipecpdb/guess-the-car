@@ -1,116 +1,61 @@
 {
-  "date": "2026-11-27",
-  "roundNumber": 21,
-  "updatedAt": "2026-11-27T11:55:08",
+  "date": "2026-11-28",
+  "roundNumber": 22,
+  "updatedAt": "2026-11-28T11:29:24",
   "carsPerDay": 3,
   "totalCatalogCars": 102,
-  "remainingInDeck": 12,
+  "remainingInDeck": 6,
   "todayIds": [
-    22666,
-    17279,
-    19820
+    17317,
+    17344,
+    17322
   ],
   "todayCars": [
     {
-      "id": 22666,
-      "slug": "ora-5",
-      "name": "GWM Ora 5",
-      "title": "GWM Ora 5",
-      "brand": "GWM",
-      "year": "2027",
-      "powertrain": "Elétrico",
-      "bodyType": "SUV",
-      "seats": "5",
-      "traction": "Dianteira",
-      "transmission": "Automático",
-      "power": "204 cv",
-      "torque": "26,5 kgfm",
-      "range": "349 Km",
-      "battery": "58.3 kWh",
-      "topSpeed": "170 Km/h",
-      "weight": "1.685 Kg",
-      "trunk": "362 L",
-      "image": "data/images/22666-ora-5.jpg",
-      "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2026/06/Ora-5.jpg",
-      "sourceUrl": "https://canalve.com.br/ficha-tecnica/gwm/tudo-sobre-ora-5/",
+      "id": 17317,
+      "slug": "c200-amg-line-1-5",
+      "name": "Mercedes-Benz C200 AMG Line 1.5",
+      "title": "Mercedes-Benz C200 AMG Line 1.5",
+      "brand": "Mercedes-Benz",
+      "year": "2024",
+      "powertrain": "Híbrido",
+      "bodyType": "Sedã",
+      "seats": "4",
+      "traction": "Traseira",
+      "transmission": "Automático (9 marchas)",
+      "power": "20 cv",
+      "torque": "20,4 kgfm",
+      "range": "733 Km",
+      "battery": "N/I",
+      "topSpeed": "246 Km/h",
+      "weight": "1650 Kg",
+      "trunk": "455 L",
+      "image": "data/images/17317-c200-amg-line-1-5.jpg",
+      "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/06/mercedes.jpg",
+      "sourceUrl": "https://canalve.com.br/ficha-tecnica/mercedes-benz/tudo-sobre-c200-amg-line-1-5/",
       "sections": {
         "Identificação": {
-          "Fabricante/Modelo": "GWM Ora 5",
-          "Ano": "2027",
-          "Carroceria": "SUV",
-          "Motorização": "Elétrico",
-          "Lugares": "5"
+          "Fabricante/Modelo": "Mercedes-Benz C200 AMG Line 1.5",
+          "Ano": "2024",
+          "Carroceria": "Sedã",
+          "Motorização": "Híbrido",
+          "Lugares": "4",
+          "Plataforma": "MRA",
+          "Série": "W206"
         },
         "Dimensões": {
-          "Peso": "1.685 Kg",
-          "Comprimento": "4471 mm",
-          "Largura": "1833 mm",
-          "Altura": "1641 mm",
-          "Entre-eixos": "2720 mm",
-          "Porta-malas": "362 L"
+          "Peso": "1650 Kg",
+          "Comprimento": "4752 mm",
+          "Largura": "1820 mm",
+          "Altura": "1438 mm",
+          "Entre-eixos": "2865 mm",
+          "Bitola dianteira": "1582 mm",
+          "Bitola traseira": "1594 mm",
+          "Porta-malas": "455 L"
         },
         "Especificações": {
-          "Tração": "Dianteira",
-          "Suspensão Dianteira": "McPherson independente",
-          "Suspensão Traseira": "Multi-Link independente",
-          "Freio Dianteiro": "Discos ventilados",
-          "Freio Traseiro": "Discos sólidos"
-        },
-        "Motor Elétrico": {
-          "Potência": "204 cv",
-          "Capacidade": "58.3 kWh",
-          "Torque": "26,5 kgfm",
-          "Autonomia": "349 Km",
-          "Velocidade Máxima": "170 Km/h",
-          "Potência de recarga": "11 kW / 120 kW AC/DC"
-        }
-      },
-      "sourceSite": "Canal VE"
-    },
-    {
-      "id": 17279,
-      "slug": "c40-8-ultimate",
-      "name": "Volvo C40 8 Ultimate",
-      "title": "Volvo C40 8 Ultimate",
-      "brand": "Volvo",
-      "year": "2023",
-      "powertrain": "Elétrico",
-      "bodyType": "SUV",
-      "seats": "5",
-      "traction": "4x4",
-      "transmission": "Automático (1 marcha)",
-      "power": "204  cv",
-      "torque": "33,6  kgfm",
-      "range": "247 Km",
-      "battery": "78 kWh",
-      "topSpeed": "180 Km/h",
-      "weight": "2185 Kg",
-      "trunk": "414 L",
-      "image": "data/images/17279-c40-8-ultimate.webp",
-      "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/05/volvo-c40-jpg.webp",
-      "sourceUrl": "https://canalve.com.br/ficha-tecnica/volvo/tudo-sobre-c40-8-ultimate/",
-      "sections": {
-        "Identificação": {
-          "Fabricante/Modelo": "Volvo C40 8 Ultimate",
-          "Ano": "2023",
-          "Carroceria": "SUV",
-          "Motorização": "Elétrico",
-          "Lugares": "5",
-          "Plataforma": "CMA"
-        },
-        "Dimensões": {
-          "Peso": "2185 Kg",
-          "Comprimento": "4431 mm",
-          "Largura": "1850 mm",
-          "Altura": "1581 mm",
-          "Entre-eixos": "2702 mm",
-          "Bitola dianteira": "1598 mm",
-          "Bitola traseira": "1623 mm",
-          "Porta-malas": "414 L"
-        },
-        "Especificações": {
-          "Tração": "4x4",
-          "Câmbio": "Automático (1 marcha)",
+          "Tração": "Traseira",
+          "Câmbio": "Automático (9 marchas)",
           "Suspensão Dianteira": "Independente",
           "Suspensão Traseira": "Independente",
           "Freio Dianteiro": "Disco ventilado",
@@ -118,75 +63,160 @@
           "Direção": "Elétrica"
         },
         "Motor Elétrico": {
-          "Potência": "204  cv",
-          "Capacidade": "78 kWh",
-          "Torque": "33,6  kgfm",
-          "Autonomia": "247 Km",
-          "Velocidade Máxima": "180 Km/h",
-          "Potência de recarga": "11 /150  AC/DC"
+          "Potência": "20 cv",
+          "Torque": "20,4 kgfm",
+          "Autonomia": "733 Km",
+          "Velocidade Máxima": "246 Km/h"
+        },
+        "Motor Combustão": {
+          "Potência": "204 cv 5800 rpm cv",
+          "Torque": "30,6 Kgfm 1800 rpm kgfm",
+          "Cilindros": "4 em linha",
+          "Cilindrada": "374",
+          "Aspiração": "Turbocompressor",
+          "Alimentação": "Injeção direta",
+          "Consumo Cidade": "11.1 Km/L",
+          "Consumo Estrada": "13.9 Km/L"
         }
       },
       "sourceSite": "Canal VE"
     },
     {
-      "id": 19820,
-      "slug": "5-hev",
-      "name": "Omoda-Jaecoo Omoda 5 HEV",
-      "title": "Omoda 5 HEV",
-      "brand": "Omoda-Jaecoo",
-      "year": "2025",
+      "id": 17344,
+      "slug": "xc60-ultimate-dark-t8-2-0",
+      "name": "Volvo XC60 Ultimate Dark T8 2.0",
+      "title": "Volvo XC60 Ultimate Dark T8 2.0",
+      "brand": "Volvo",
+      "year": "2024",
+      "powertrain": "Híbrido Plug-in",
+      "bodyType": "SUV",
+      "seats": "5",
+      "traction": "Integral sob demanda",
+      "transmission": "Automático (8 marchas)",
+      "power": "145  cv",
+      "torque": "31,5 kgfm",
+      "range": "55 Km",
+      "battery": "18.8 kWh",
+      "topSpeed": "180 Km/h",
+      "weight": "2174 Kg",
+      "trunk": "468 L",
+      "image": "data/images/17344-xc60-ultimate-dark-t8-2-0.png",
+      "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/05/volvaralhasther-1.png",
+      "sourceUrl": "https://canalve.com.br/ficha-tecnica/volvo/tudo-sobre-xc60-ultimate-dark-t8-2-0/",
+      "sections": {
+        "Identificação": {
+          "Fabricante/Modelo": "Volvo XC60 Ultimate Dark T8 2.0",
+          "Ano": "2024",
+          "Carroceria": "SUV",
+          "Motorização": "Híbrido Plug-in",
+          "Lugares": "5",
+          "Plataforma": "SPA"
+        },
+        "Dimensões": {
+          "Peso": "2174 Kg",
+          "Comprimento": "4708 mm",
+          "Largura": "1902 mm",
+          "Altura": "1651 mm",
+          "Entre-eixos": "2865 mm",
+          "Bitola dianteira": "1655 mm",
+          "Bitola traseira": "1659 mm",
+          "Porta-malas": "468 L"
+        },
+        "Especificações": {
+          "Tração": "Integral sob demanda",
+          "Câmbio": "Automático (8 marchas)",
+          "Suspensão Dianteira": "Independente",
+          "Suspensão Traseira": "Independente",
+          "Freio Dianteiro": "Disco ventilado",
+          "Freio Traseiro": "Disco ventilado",
+          "Direção": "Elétrica"
+        },
+        "Motor Elétrico": {
+          "Potência": "145  cv",
+          "Capacidade": "18.8 kWh",
+          "Torque": "31,5 kgfm",
+          "Autonomia": "55 Km",
+          "Velocidade Máxima": "180 Km/h"
+        },
+        "Motor Combustão": {
+          "Potência": "310 cv 6000 rpm cv",
+          "Torque": "310 cv 6000 rpm kgfm",
+          "Cilindros": "4 em linha",
+          "Cilindrada": "493",
+          "Aspiração": "Turbocompressor",
+          "Alimentação": "Injeção direta",
+          "Consumo Cidade": "10.1 Km/L",
+          "Consumo Estrada": "11.2 Km/L"
+        }
+      },
+      "sourceSite": "Canal VE"
+    },
+    {
+      "id": 17322,
+      "slug": "q5-sportback-performance-2-0-tfsi",
+      "name": "Audi Q5 Sportback Performance 2.0 TFSI",
+      "title": "Audi Q5 Sportback Performance 2.0 TFSI",
+      "brand": "Audi",
+      "year": "2023",
       "powertrain": "Híbrido",
       "bodyType": "SUV",
       "seats": "5",
-      "traction": "Dianteira",
-      "transmission": "Automático",
-      "power": "204  cv",
-      "torque": "31,6 kgfm",
-      "range": "1000 Km",
-      "battery": "1.83 kWh",
-      "topSpeed": "174 Km/h",
-      "weight": "2.052 Kg",
-      "trunk": "372 L",
-      "image": "data/images/19820-5-hev.jpg",
-      "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/11/O5_EXTERNA2.jpg",
-      "sourceUrl": "https://canalve.com.br/ficha-tecnica/omoda-jaecoo/tudo-sobre-5-hev/",
+      "traction": "Integral sob demanda",
+      "transmission": "Automatizado (7 marchas)",
+      "power": "143  cv",
+      "torque": "35,7 kgfm",
+      "range": "30 Km",
+      "battery": "17.9 kWh",
+      "topSpeed": "210 Km/h",
+      "weight": "2075 Kg",
+      "trunk": "455 L",
+      "image": "data/images/17322-q5-sportback-performance-2-0-tfsi.webp",
+      "sourceImageUrl": "https://canalve.com.br/wp-content/uploads/2025/05/Audi-Q5-Sportback-TFSIe.webp",
+      "sourceUrl": "https://canalve.com.br/ficha-tecnica/audi/tudo-sobre-q5-sportback-performance-2-0-tfsi/",
       "sections": {
         "Identificação": {
-          "Fabricante/Modelo": "Omoda 5 HEV",
-          "Ano": "2025",
+          "Fabricante/Modelo": "Audi Q5 Sportback Performance 2.0 TFSI",
+          "Ano": "2023",
           "Carroceria": "SUV",
-          "Motorização": "Híbrido",
-          "Lugares": "5"
+          "Lugares": "5",
+          "Plataforma": "MLB Evo",
+          "Série": "FYT"
         },
         "Dimensões": {
-          "Peso": "2.052 Kg",
-          "Comprimento": "4447 mm",
-          "Largura": "1824 mm",
-          "Altura": "1588 mm",
-          "Entre-eixos": "2610 mm",
-          "Porta-malas": "372 L"
+          "Peso": "2075 Kg",
+          "Comprimento": "4689 mm",
+          "Largura": "1893 mm",
+          "Altura": "1609 mm",
+          "Entre-eixos": "2819 mm",
+          "Bitola dianteira": "1616 mm",
+          "Bitola traseira": "1609 mm",
+          "Porta-malas": "455 L"
         },
         "Especificações": {
-          "Tração": "Dianteira",
-          "Câmbio": "Automático",
-          "Suspensão Dianteira": "McPherson",
-          "Suspensão Traseira": "Multi-link",
-          "Direção": "Assistência elétrica"
+          "Tração": "Integral sob demanda",
+          "Câmbio": "Automatizado (7 marchas)",
+          "Suspensão Dianteira": "Independente",
+          "Suspensão Traseira": "Independente",
+          "Freio Dianteiro": "Disco ventilado",
+          "Freio Traseiro": "Disco ventilado",
+          "Direção": "Elétrica"
         },
         "Motor Elétrico": {
-          "Potência": "204  cv",
-          "Capacidade": "1.83 kWh",
-          "Torque": "31,6 kgfm",
-          "Autonomia": "1000 Km",
-          "Velocidade Máxima": "174 Km/h"
+          "Potência": "143  cv",
+          "Capacidade": "17.9 kWh",
+          "Torque": "35,7 kgfm",
+          "Autonomia": "30 Km",
+          "Velocidade Máxima": "210 Km/h"
         },
         "Motor Combustão": {
-          "Potência": "135  cv",
-          "Torque": "20,4 kgfm",
-          "Cilindros": "4",
-          "Alimentação": "Injeção direta",
-          "Consumo Cidade": "15.1 Km/L",
-          "Consumo Estrada": "13.2 Km/L"
+          "Potência": "252 cv 5250 rpm cv",
+          "Torque": "37,7 Kgfm 1600 rpm kgfm",
+          "Cilindros": "4 em linha",
+          "Cilindrada": "496",
+          "Aspiração": "Turbocompressor",
+          "Alimentação": "Injeção direta e indireta",
+          "Consumo Cidade": "8.6 Km/L",
+          "Consumo Estrada": "8.9 Km/L"
         }
       },
       "sourceSite": "Canal VE"
@@ -294,9 +324,9 @@
       19820
     ],
     "2026-11-28": [
-      19956,
-      151145,
-      147777
+      17317,
+      17344,
+      17322
     ],
     "2026-11-29": [
       17244,
@@ -442,6 +472,11 @@
       19905,
       239652,
       17331
+    ],
+    "2026-12-28": [
+      18670,
+      21724,
+      17292
     ]
   }
 }
